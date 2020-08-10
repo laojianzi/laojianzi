@@ -10,7 +10,7 @@
 
 - 👯 我想找一些有趣的开源项目合作共同成长。
 
-- 📫 如果你想要联系我，可以添加 Wx: `echo "amVmZmxpMDgxMAo=" | base64 -d`
+- 📫 如果你想要联系我，可以添加 Wx: `echo "amVmZmxpMDgxMAo=" | base64 -D`
 
 - ⚡ 我有时候会写写一些文章，虽然写的不怎么样 [Read Notes](https://laojianzi.github.io/read-notes/)
 
