@@ -2,9 +2,6 @@
 
 I'm Jeff, a gopher.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/laojianzi/laojianzi)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
-
 #### 👷 Check out what I'm currently working on
 
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (today)
@@ -40,3 +37,6 @@ I'm Jeff, a gopher.
 #### 📫 How to reach me
 
 - Email: laojianzi1994@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&theme=vue-dark)](https://github.com/laojianzi/laojianzi)
