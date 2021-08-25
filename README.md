@@ -1,9 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/laojianzi/laojianzi/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/laojianzi/laojianzi/main/wave.gif" width="30px">
 
 I'm Jeff, a gopher.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/laojianzi/laojianzi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark)(https://github.com/laojianzi/laojianzi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
 
 #### 👷 Check out what I'm currently working on
 
@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
-- [laojianzi/slate](https://github.com/laojianzi/slate) -
+- [laojianzi/slate](https://github.com/laojianzi/slate) - 
 - [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能
 
