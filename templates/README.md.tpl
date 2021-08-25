@@ -2,8 +2,8 @@
 
 I'm Jeff, a gopher.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&layout=compact)](https://github.com/laojianzi/laojianzi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/laojianzi/laojianzi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
