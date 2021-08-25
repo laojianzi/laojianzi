@@ -1,6 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/laojianzi/laojianzi/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/laojianzi/laojianzi/main/wave.gif" width="30px">
 
 I'm Jeff, a gopher.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&layout=compact)](https://github.com/laojianzi/laojianzi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
