@@ -1,20 +1,39 @@
-# Hello! 👋
+### Hi there <img src="https://raw.githubusercontent.com/laojianzi/laojianzi/master/wave.gif" width="30px">
 
-### I am Jeff Li
+I'm Jeff, a gopher.
 
-- 🔭 我是一名软件工程师 👨‍💻🎧 & Kingsoft 开发人员，对 Go 语言开发，Web 和开源充满热情。
+#### 👷 Check out what I'm currently working on
 
-- 🌱 我一直在学习新语言并创建自己的个人项目。另外，我非常喜欢参加与技术相关的活动。
+- [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (today)
+- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (1 day ago)
+- [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (1 month ago)
+- [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff (2 months ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (2 months ago)
 
-- 🚴‍♂️ 我喜欢偶尔自行车或者去游山玩水。
+#### 🌱 My latest projects
 
-- 👯 我想找一些有趣的开源项目合作共同成长。
+- [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
+- [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
+- [laojianzi/slate](https://github.com/laojianzi/slate) - 
+- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
+- [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能
 
-- 📫 如果你想要联系我，可以添加 Wx: `echo "amVmZmxpMDgxMAo=" | base64 -D`
+#### 🔭 Latest releases I've contributed to
 
-- ⚡ 我有时候会写写一些文章，虽然写的不怎么样 [Read Notes](https://laojianzi.github.io/read-notes/)
+- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v0.5.2](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v0.5.2), 1 day ago) - Cluster API implementation for Microsoft Azure
+- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.8](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.8), 1 day ago) - A Go SDK of Uniswap V2
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) ([v1.1.0](https://github.com/oam-dev/kubevela/releases/tag/v1.1.0), 4 days ago) - The Modern Application Deployment System Based on OAM.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.4](https://github.com/gin-gonic/gin/releases/tag/v1.7.4), 1 week ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) ([v1.0.1](https://github.com/laojianzi/mdavatar/releases/tag/v1.0.1), 8 months ago) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
 
-## Some of my Github Stats
-![Laojianzi github stats](https://github-readme-stats.vercel.app/api?username=laojianzi&show_icons=true)
+#### 🔨 Latest Pull Requests I published
 
-⭐️ From [laojianzi](https://github.com/laojianzi)
+- [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 day ago)
+- [test: add rounding valid test case](https://github.com/miraclesu/uniswap-sdk-go/pull/11) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 day ago)
+- [feat: add other commits](https://github.com/git-chglog/git-chglog/pull/174) on [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) (5 days ago)
+- [chore(golangci-lint): replace deprecated linter](https://github.com/miraclesu/uniswap-sdk-go/pull/6) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 month ago)
+- [feat: add utteranc support for comments](https://github.com/monkeyWzr/hugo-theme-cactus/pull/60) on [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) (2 months ago)
+
+#### 📫 How to reach me
+
+- Email: laojianzi1994@gmail.com
