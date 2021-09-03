@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: utils.NewConfig returns a file not found error in windows os](https://github.com/laojianzi/opentelemetry-go-contrib/pull/1) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (today)
 - [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 week ago)
 - [test: add rounding valid test case](https://github.com/miraclesu/uniswap-sdk-go/pull/11) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 week ago)
 - [feat: add other commits](https://github.com/git-chglog/git-chglog/pull/174) on [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) (2 weeks ago)
 - [chore(golangci-lint): replace deprecated linter](https://github.com/miraclesu/uniswap-sdk-go/pull/6) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 month ago)
-- [feat: add utteranc support for comments](https://github.com/monkeyWzr/hugo-theme-cactus/pull/60) on [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) (2 months ago)
 
 #### 📫 How to reach me
 
