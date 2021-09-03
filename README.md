@@ -30,7 +30,7 @@ I'm Jeff, a gopher.
 
 - [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 week ago)
 - [test: add rounding valid test case](https://github.com/miraclesu/uniswap-sdk-go/pull/11) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 week ago)
-- [feat: add other commits](https://github.com/git-chglog/git-chglog/pull/174) on [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) (1 week ago)
+- [feat: add other commits](https://github.com/git-chglog/git-chglog/pull/174) on [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) (2 weeks ago)
 - [chore(golangci-lint): replace deprecated linter](https://github.com/miraclesu/uniswap-sdk-go/pull/6) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (1 month ago)
 - [feat: add utteranc support for comments](https://github.com/monkeyWzr/hugo-theme-cactus/pull/60) on [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) (2 months ago)
 
