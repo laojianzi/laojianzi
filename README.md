@@ -30,7 +30,7 @@ I'm Jeff, a gopher.
 
 - [windows test](https://github.com/laojianzi/opentelemetry-go-contrib/pull/3) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (1 day ago)
 - [fix issues #1010](https://github.com/laojianzi/opentelemetry-go-contrib/pull/2) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (1 day ago)
-- [fix: utils.NewConfig returns a file not found error in windows os](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/1047) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 week ago)
+- [fix: test failure cases on windows](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/1047) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 week ago)
 - [fix: utils.NewConfig returns a file not found error in windows os](https://github.com/laojianzi/opentelemetry-go-contrib/pull/1) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (1 week ago)
 - [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (3 weeks ago)
 
