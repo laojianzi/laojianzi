@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) ([v1.1.5](https://github.com/oam-dev/kubevela/releases/tag/v1.1.5), 4 days ago) - The Modern Application Delivery Platform.
-- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v0.5.3](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v0.5.3), 1 week ago) - Cluster API implementation for Microsoft Azure
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) ([v1.1.5](https://github.com/oam-dev/kubevela/releases/tag/v1.1.5), 5 days ago) - The Modern Application Delivery Platform.
+- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v0.5.3](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v0.5.3), 2 weeks ago) - Cluster API implementation for Microsoft Azure
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.8](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.8), 1 month ago) - A Go SDK of Uniswap V2
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.4](https://github.com/gin-gonic/gin/releases/tag/v1.7.4), 2 months ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) ([v1.0.1](https://github.com/laojianzi/mdavatar/releases/tag/v1.0.1), 10 months ago) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
