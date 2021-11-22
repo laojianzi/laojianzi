@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (2 months ago)
-- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (2 months ago)
+- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (3 months ago)
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (4 months ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (5 months ago)
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff (5 months ago)
@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) ([v1.1.10](https://github.com/oam-dev/kubevela/releases/tag/v1.1.10), 1 day ago) - The Modern Application Platform.
-- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 6 days ago) - A Go SDK of Uniswap V2
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) ([v1.1.10](https://github.com/oam-dev/kubevela/releases/tag/v1.1.10), 2 days ago) - The Modern Application Platform.
+- [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 1 week ago) - A Go SDK of Uniswap V2
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.0](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.0), 2 weeks ago) - Cluster API implementation for Microsoft Azure
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.4](https://github.com/gin-gonic/gin/releases/tag/v1.7.4), 3 months ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) ([v1.0.1](https://github.com/laojianzi/mdavatar/releases/tag/v1.0.1), 11 months ago) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
@@ -32,7 +32,7 @@ I'm Jeff, a gopher.
 - [fix issues #1010](https://github.com/laojianzi/opentelemetry-go-contrib/pull/2) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
 - [fix: test failure cases on windows](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/1047) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (2 months ago)
 - [fix: utils.NewConfig returns a file not found error in windows os](https://github.com/laojianzi/opentelemetry-go-contrib/pull/1) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
-- [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (2 months ago)
+- [fix: ToFixed fractional part discard problem](https://github.com/miraclesu/uniswap-sdk-go/pull/12) on [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) (3 months ago)
 
 #### 📫 How to reach me
 
