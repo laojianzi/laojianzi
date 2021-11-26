@@ -20,10 +20,10 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 1 day ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 2 days ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 1 week ago) - A Go SDK of Uniswap V2
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.0](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.0), 3 weeks ago) - Cluster API implementation for Microsoft Azure
-- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) ([v1.0.1](https://github.com/laojianzi/mdavatar/releases/tag/v1.0.1), 11 months ago) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
+- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) ([v1.0.1](https://github.com/laojianzi/mdavatar/releases/tag/v1.0.1), 1 year ago) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
 
 #### 🔨 Latest Pull Requests I published
 
