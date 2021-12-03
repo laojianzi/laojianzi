@@ -20,14 +20,14 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.1](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.1), 3 days ago) - Cluster API implementation for Microsoft Azure
+- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.1](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.1), 4 days ago) - Cluster API implementation for Microsoft Azure
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 1 week ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 2 weeks ago) - A Go SDK of Uniswap V2
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 day ago)
-- [ci: fix linter](https://github.com/laojianzi/covergates/pull/6) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 day ago)
+- [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (2 days ago)
+- [ci: fix linter](https://github.com/laojianzi/covergates/pull/6) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (2 days ago)
 - [windows test](https://github.com/laojianzi/opentelemetry-go-contrib/pull/3) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
 - [fix issues #1010](https://github.com/laojianzi/opentelemetry-go-contrib/pull/2) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
 - [fix: test failure cases on windows](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/1047) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (3 months ago)
