@@ -26,11 +26,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (today)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (5 days ago)
 - [ci: fix linter](https://github.com/laojianzi/covergates/pull/6) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (5 days ago)
 - [windows test](https://github.com/laojianzi/opentelemetry-go-contrib/pull/3) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
 - [fix issues #1010](https://github.com/laojianzi/opentelemetry-go-contrib/pull/2) on [laojianzi/opentelemetry-go-contrib](https://github.com/laojianzi/opentelemetry-go-contrib) (2 months ago)
-- [fix: test failure cases on windows](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/1047) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (3 months ago)
 
 #### 📫 How to reach me
 
