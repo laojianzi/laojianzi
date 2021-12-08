@@ -4,19 +4,19 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) -  (today)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 day ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (3 months ago)
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (3 months ago)
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (5 months ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - 
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
 - [laojianzi/slate](https://github.com/laojianzi/slate) - 
 - [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
-- [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能
 
 #### 🔭 Latest releases I've contributed to
 
