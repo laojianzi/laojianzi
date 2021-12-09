@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) -  (today)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 day ago)
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) -  (1 day ago)
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (2 days ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (3 months ago)
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (3 months ago)
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (5 months ago)
@@ -27,9 +27,9 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (today)
-- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (today)
-- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (2 days ago)
+- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (1 day ago)
+- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (1 day ago)
+- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (3 days ago)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 week ago)
 - [ci: fix linter](https://github.com/laojianzi/covergates/pull/6) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 week ago)
 
