@@ -20,6 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), today) - The missing action for Gitea
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.1](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.1), 1 week ago) - Cluster API implementation for Microsoft Azure
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 2 weeks ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.2.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.2.0), 3 weeks ago) - Collection of extensions for OpenTelemetry-Go.
