@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (2 days ago)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (4 days ago)
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (3 days ago)
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (5 days ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (3 months ago)
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (3 months ago)
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (5 months ago)
@@ -20,17 +20,17 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.3.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.3.0), 1 day ago) - Collection of extensions for OpenTelemetry-Go.
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 2 days ago) - The missing action for Gitea
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.3.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.3.0), 2 days ago) - Collection of extensions for OpenTelemetry-Go.
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 3 days ago) - The missing action for Gitea
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.0.1](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.0.1), 1 week ago) - Cluster API implementation for Microsoft Azure
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 2 weeks ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 3 weeks ago) - A Go SDK of Uniswap V2
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (3 days ago)
-- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (3 days ago)
-- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (5 days ago)
+- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (4 days ago)
+- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (4 days ago)
+- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (6 days ago)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 week ago)
 - [ci: fix linter](https://github.com/laojianzi/covergates/pull/6) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 week ago)
 
