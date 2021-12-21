@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (1 week ago)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 week ago)
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (2 weeks ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (3 months ago)
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (3 months ago)
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (5 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.1.0](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.1.0), 4 days ago) - Cluster API implementation for Microsoft Azure
+- [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) ([v1.1.0](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases/tag/v1.1.0), 5 days ago) - Cluster API implementation for Microsoft Azure
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.3.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.3.0), 1 week ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 1 week ago) - The missing action for Gitea
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.7.7](https://github.com/gin-gonic/gin/releases/tag/v1.7.7), 3 weeks ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
