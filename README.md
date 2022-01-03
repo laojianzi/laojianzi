@@ -8,7 +8,7 @@ I'm Jeff, a gopher.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (3 weeks ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (4 months ago)
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) - A Go SDK of Uniswap V2 (4 months ago)
-- [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (5 months ago)
+- [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源 (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,10 +27,10 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (5 days ago)
+- [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (6 days ago)
 - [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (3 weeks ago)
 - [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (3 weeks ago)
-- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (3 weeks ago)
+- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (4 weeks ago)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (1 month ago)
 
 #### 📫 How to reach me
