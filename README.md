@@ -28,8 +28,8 @@ I'm Jeff, a gopher.
 #### 🔨 Latest Pull Requests I published
 
 - [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (1 month ago)
-- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (1 month ago)
-- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (1 month ago)
+- [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (2 months ago)
+- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (2 months ago)
 - [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (2 months ago)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (2 months ago)
 
