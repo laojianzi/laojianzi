@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.8.0](https://github.com/gin-gonic/gin/releases/tag/v1.8.0), 4 days ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) ([v1.8.0](https://github.com/gin-gonic/gin/releases/tag/v1.8.0), 5 days ago) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.7.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.7.0), 1 month ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 5 months ago) - The missing action for Gitea
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 6 months ago) - A Go SDK of Uniswap V2
@@ -30,7 +30,7 @@ I'm Jeff, a gopher.
 - [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (5 months ago)
 - [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (5 months ago)
 - [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (5 months ago)
-- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (5 months ago)
+- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (6 months ago)
 - [chore: move lint in ci jobs](https://github.com/laojianzi/covergates/pull/7) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (6 months ago)
 
 #### 📫 How to reach me
