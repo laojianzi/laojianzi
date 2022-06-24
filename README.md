@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (4 days ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (today)
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (6 months ago)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (6 months ago)
 - [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (10 months ago)
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: service yaml parse error on helm template](https://github.com/clickvisual/clickvisual/pull/435) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [fix: service ports are consistent with deployment](https://github.com/clickvisual/clickvisual/pull/414) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (4 days ago)
 - [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (5 months ago)
 - [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (6 months ago)
 - [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (6 months ago)
-- [chore: update ci](https://github.com/laojianzi/covergates/pull/8) on [laojianzi/covergates](https://github.com/laojianzi/covergates) (6 months ago)
 
 #### 📫 How to reach me
 
