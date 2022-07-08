@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.8.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.8.0), today) - Collection of extensions for OpenTelemetry-Go.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.3.2-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v0.3.2-rc1), today) - A light weight log and data visual analytic platform  for clickhouse.
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.7.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.7.0), 2 months ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 7 months ago) - The missing action for Gitea
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 7 months ago) - A Go SDK of Uniswap V2
 
