@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.3.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.3.2-rc2), 1 day ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.3.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.3.2-rc2), 2 days ago) - A light weight log and data visual analytic platform  for clickhouse.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.8.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.8.0), 1 week ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 7 months ago) - The missing action for Gitea
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 8 months ago) - A Go SDK of Uniswap V2
@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 #### 🔨 Latest Pull Requests I published
 
 - [fix: service yaml parse error on helm template](https://github.com/clickvisual/clickvisual/pull/435) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 weeks ago)
-- [fix: service ports are consistent with deployment](https://github.com/clickvisual/clickvisual/pull/414) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 weeks ago)
+- [fix: service ports are consistent with deployment](https://github.com/clickvisual/clickvisual/pull/414) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (4 weeks ago)
 - [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (6 months ago)
 - [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (7 months ago)
 - [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (7 months ago)
