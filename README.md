@@ -12,11 +12,11 @@ I'm Jeff, a gopher.
 
 #### 🌱 My latest projects
 
+- [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 XiaoMi/soar 单功能不变
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
 - [laojianzi/slate](https://github.com/laojianzi/slate) - 
-- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像
 
 #### 🔭 Latest releases I've contributed to
 
