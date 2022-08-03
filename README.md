@@ -12,7 +12,7 @@ I'm Jeff, a gopher.
 
 #### 🌱 My latest projects
 
-- [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 XiaoMi/soar 单功能不变
+- [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
