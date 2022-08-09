@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0-rc1), 3 days ago) - A light weight log and data visual analytic platform  for clickhouse.
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.9.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.9.0), 6 days ago) - Collection of extensions for OpenTelemetry-Go.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0-rc1), 4 days ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.9.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.9.0), 1 week ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 8 months ago) - The missing action for Gitea
 - [miraclesu/uniswap-sdk-go](https://github.com/miraclesu/uniswap-sdk-go) ([v0.2.9](https://github.com/miraclesu/uniswap-sdk-go/releases/tag/v0.2.9), 8 months ago) - A Go SDK of Uniswap V2
 
