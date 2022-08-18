@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [deps: upgrade tidb packages](https://github.com/laojianzi/soar/pull/5) on [laojianzi/soar](https://github.com/laojianzi/soar) (today)
 - [fix: service yaml parse error on helm template](https://github.com/clickvisual/clickvisual/pull/435) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [fix: service ports are consistent with deployment](https://github.com/clickvisual/clickvisual/pull/414) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [docs: fix book link](https://github.com/go-programming-tour-book/error-logs/pull/2) on [go-programming-tour-book/error-logs](https://github.com/go-programming-tour-book/error-logs) (7 months ago)
 - [ci: update ci](https://github.com/laojianzi/github-actions/pull/2) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (8 months ago)
-- [test action](https://github.com/laojianzi/github-actions/pull/1) on [laojianzi/github-actions](https://github.com/laojianzi/github-actions) (8 months ago)
 
 #### 📫 How to reach me
 
