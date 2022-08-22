@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (today)
 - [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 days ago)
 - [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 days ago)
 - [deps: upgrade tidb packages](https://github.com/laojianzi/soar/pull/5) on [laojianzi/soar](https://github.com/laojianzi/soar) (4 days ago)
 - [fix: service yaml parse error on helm template](https://github.com/clickvisual/clickvisual/pull/435) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
-- [fix: service ports are consistent with deployment](https://github.com/clickvisual/clickvisual/pull/414) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 
 #### 📫 How to reach me
 
