@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (3 days ago)
+- [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (4 days ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (2 months ago)
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (8 months ago)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (8 months ago)
@@ -20,15 +20,15 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0-rc3](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0-rc3), 6 days ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0-rc3](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0-rc3), 1 week ago) - A light weight log and data visual analytic platform  for clickhouse.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.9.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.9.0), 3 weeks ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 8 months ago) - The missing action for Gitea
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 days ago)
-- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (6 days ago)
-- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (6 days ago)
+- [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (4 days ago)
+- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 week ago)
+- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 week ago)
 - [deps: upgrade tidb packages](https://github.com/laojianzi/soar/pull/5) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 week ago)
 - [fix: service yaml parse error on helm template](https://github.com/clickvisual/clickvisual/pull/435) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 
