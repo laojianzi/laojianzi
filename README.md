@@ -8,7 +8,6 @@ I'm Jeff, a gopher.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (2 months ago)
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (8 months ago)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (8 months ago)
-- [laojianzi/mdclubgo](https://github.com/laojianzi/mdclubgo) - 使用 Go 语言技术栈实现 MDClub 社区系统后端功能 (1 year ago)
 
 #### 🌱 My latest projects
 
