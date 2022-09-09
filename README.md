@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0), 1 week ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.0](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.0), 2 weeks ago) - A light weight log and data visual analytic platform  for clickhouse.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.9.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.9.0), 1 month ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 9 months ago) - The missing action for Gitea
 
@@ -28,8 +28,8 @@ I'm Jeff, a gopher.
 - [fix: Quote parameter to prevent glob expansion SH-2060](https://github.com/laojianzi/soar/pull/11) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 week ago)
 - [fix: code scanning alerts](https://github.com/laojianzi/soar/pull/9) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 week ago)
 - [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (2 weeks ago)
-- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (2 weeks ago)
-- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (2 weeks ago)
+- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
+- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
 
 #### 📫 How to reach me
 
