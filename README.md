@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.10.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.10.0), 4 days ago) - Collection of extensions for OpenTelemetry-Go.
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.10.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.10.0), 5 days ago) - Collection of extensions for OpenTelemetry-Go.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.1](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.1), 1 week ago) - A light weight log and data visual analytic platform  for clickhouse.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 9 months ago) - The missing action for Gitea
 
@@ -28,8 +28,8 @@ I'm Jeff, a gopher.
 - [fix: Quote parameter to prevent glob expansion SH-2060](https://github.com/laojianzi/soar/pull/11) on [laojianzi/soar](https://github.com/laojianzi/soar) (2 weeks ago)
 - [fix: code scanning alerts](https://github.com/laojianzi/soar/pull/9) on [laojianzi/soar](https://github.com/laojianzi/soar) (2 weeks ago)
 - [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
-- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (4 weeks ago)
-- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (4 weeks ago)
+- [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
+- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
 
 #### 📫 How to reach me
 
