@@ -19,8 +19,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc2), today) - A light weight log and data visual analytic platform  for clickhouse.
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([zpages/v0.36.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/zpages%2Fv0.36.0), 2 days ago) - Collection of extensions for OpenTelemetry-Go.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc2), 1 day ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([zpages/v0.36.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/zpages%2Fv0.36.0), 3 days ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 9 months ago) - The missing action for Gitea
 
 #### 🔨 Latest Pull Requests I published
