@@ -25,11 +25,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [perf: the `config.Writer` should be used in preference in elog Build](https://github.com/gotomicro/ego/pull/306) on [gotomicro/ego](https://github.com/gotomicro/ego) (today)
 - [fix: Quote parameter to prevent glob expansion SH-2060](https://github.com/laojianzi/soar/pull/11) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
 - [fix: code scanning alerts](https://github.com/laojianzi/soar/pull/9) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
 - [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
 - [fix: CVE-2020-26160/CVE-2020-27813/CVE-2018-1099](https://github.com/laojianzi/soar/pull/7) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
-- [fix: CVE-2020-26160](https://github.com/laojianzi/soar/pull/6) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
 
 #### 📫 How to reach me
 
