@@ -19,14 +19,14 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc2), 1 day ago) - A light weight log and data visual analytic platform  for clickhouse.
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([zpages/v0.36.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/zpages%2Fv0.36.0), 3 days ago) - Collection of extensions for OpenTelemetry-Go.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc2), 2 days ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([zpages/v0.36.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/zpages%2Fv0.36.0), 4 days ago) - Collection of extensions for OpenTelemetry-Go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 9 months ago) - The missing action for Gitea
 
 #### 🔨 Latest Pull Requests I published
 
-- [perf: allow custom recovery func in egin](https://github.com/gotomicro/ego/pull/307) on [gotomicro/ego](https://github.com/gotomicro/ego) (today)
-- [perf: the `config.Writer` should be used in preference in elog Build](https://github.com/gotomicro/ego/pull/306) on [gotomicro/ego](https://github.com/gotomicro/ego) (today)
+- [perf: allow custom recovery func in egin](https://github.com/gotomicro/ego/pull/307) on [gotomicro/ego](https://github.com/gotomicro/ego) (1 day ago)
+- [perf: the `config.Writer` should be used in preference in elog Build](https://github.com/gotomicro/ego/pull/306) on [gotomicro/ego](https://github.com/gotomicro/ego) (1 day ago)
 - [fix: Quote parameter to prevent glob expansion SH-2060](https://github.com/laojianzi/soar/pull/11) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
 - [fix: code scanning alerts](https://github.com/laojianzi/soar/pull/9) on [laojianzi/soar](https://github.com/laojianzi/soar) (3 weeks ago)
 - [chore: add golangci.yml config and fix code smell prompted by golangci-lint](https://github.com/laojianzi/soar/pull/8) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
