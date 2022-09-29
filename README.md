@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (1 day ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse. (today)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - Go微服务.A simple and component-based microservice kit for go. (6 days ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (4 weeks ago)
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (9 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc5](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc5), 1 day ago) - A light weight log and data visual analytic platform  for clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.2-rc6](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.2-rc6), today) - A light weight log and data visual analytic platform  for clickhouse.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([zpages/v0.36.1](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/zpages%2Fv0.36.1), 3 days ago) - Collection of extensions for OpenTelemetry-Go.
 - [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.5](https://github.com/gotomicro/ego/releases/tag/v1.1.5), 1 month ago) - Go微服务.A simple and component-based microservice kit for go.
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 9 months ago) - The missing action for Gitea
