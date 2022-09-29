@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: suppoert http/https scheme for clickhouse dsn](https://github.com/clickvisual/clickvisual/pull/655) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [perf: upgrade version to 2.3.0 and fix dsn unknown write_timeout for clickhosue-go/v2](https://github.com/clickvisual/clickvisual/pull/653) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 day ago)
 - [perf: allow custom recovery func in egin](https://github.com/gotomicro/ego/pull/307) on [gotomicro/ego](https://github.com/gotomicro/ego) (6 days ago)
 - [perf: the `config.Writer` should be used in preference in elog Build](https://github.com/gotomicro/ego/pull/306) on [gotomicro/ego](https://github.com/gotomicro/ego) (6 days ago)
 - [fix: Quote parameter to prevent glob expansion SH-2060](https://github.com/laojianzi/soar/pull/11) on [laojianzi/soar](https://github.com/laojianzi/soar) (4 weeks ago)
-- [fix: code scanning alerts](https://github.com/laojianzi/soar/pull/9) on [laojianzi/soar](https://github.com/laojianzi/soar) (1 month ago)
 
 #### 📫 How to reach me
 
