@@ -7,7 +7,7 @@ I'm Jeff, a gopher.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (1 month ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (1 month ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (2 months ago)
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (10 months ago)
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (11 months ago)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (11 months ago)
 
 #### 🌱 My latest projects
@@ -20,10 +20,10 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.3](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.3), 6 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.3](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.3), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.11.1](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.11.1), 2 weeks ago) - Collection of extensions for OpenTelemetry-Go.
 - [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.5](https://github.com/gotomicro/ego/releases/tag/v1.1.5), 2 months ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 10 months ago) - The missing action for Gitea
+- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 11 months ago) - The missing action for Gitea
 
 #### 🔨 Latest Pull Requests I published
 
