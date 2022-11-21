@@ -4,19 +4,19 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/okteto-mysql](https://github.com/laojianzi/okteto-mysql) -  (today)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (1 month ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (1 month ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (2 months ago)
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (11 months ago)
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (11 months ago)
 
 #### 🌱 My latest projects
 
-- [laojianzi/okteto-mysql](https://github.com/laojianzi/okteto-mysql) - 
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
+- [laojianzi/slate](https://github.com/laojianzi/slate) - 
 
 #### 🔭 Latest releases I've contributed to
 
