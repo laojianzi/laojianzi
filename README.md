@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [feat: suppoert http/https scheme for clickhouse dsn](https://github.com/clickvisual/clickvisual/pull/655) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [perf: upgrade version to 2.3.0 and fix dsn unknown write_timeout for clickhosue-go/v2](https://github.com/clickvisual/clickvisual/pull/653) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [perf: allow custom recovery func in egin](https://github.com/gotomicro/ego/pull/307) on [gotomicro/ego](https://github.com/gotomicro/ego) (2 months ago)
-- [perf: the `config.Writer` should be used in preference in elog Build](https://github.com/gotomicro/ego/pull/306) on [gotomicro/ego](https://github.com/gotomicro/ego) (2 months ago)
 
 #### 📫 How to reach me
 
