@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 week ago)
 - [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 - [feat: suppoert http/https scheme for clickhouse dsn](https://github.com/clickvisual/clickvisual/pull/655) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
-- [perf: upgrade version to 2.3.0 and fix dsn unknown write_timeout for clickhosue-go/v2](https://github.com/clickvisual/clickvisual/pull/653) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 
 #### 📫 How to reach me
 
