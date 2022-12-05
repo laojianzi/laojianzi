@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.12.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.12.0), today) - Collection of extensions for OpenTelemetry-Go.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.5-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.5-rc1), 3 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.11.1](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.11.1), 1 month ago) - Collection of extensions for OpenTelemetry-Go.
 - [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.5](https://github.com/gotomicro/ego/releases/tag/v1.1.5), 3 months ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 1 year ago) - The missing action for Gitea
 
