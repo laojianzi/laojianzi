@@ -22,7 +22,6 @@ I'm Jeff, a gopher.
 
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.5-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.5-rc1), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.5](https://github.com/gotomicro/ego/releases/tag/v1.1.5), 4 months ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) ([v1](https://github.com/laojianzi/setup-gitea/releases/tag/v1), 1 year ago) - The missing action for Gitea
 
 #### 🔨 Latest Pull Requests I published
 
