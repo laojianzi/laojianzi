@@ -7,8 +7,6 @@ I'm Jeff, a gopher.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (1 week ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (2 months ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (3 months ago)
-- [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea (1 year ago)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 year ago)
 
 #### 🌱 My latest projects
 
