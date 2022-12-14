@@ -23,11 +23,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (today)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 week ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 week ago)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 weeks ago)
 - [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
-- [feat: suppoert http/https scheme for clickhouse dsn](https://github.com/clickvisual/clickvisual/pull/655) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 
 #### 📫 How to reach me
 
