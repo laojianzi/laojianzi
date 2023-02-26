@@ -27,7 +27,7 @@ I'm Jeff, a gopher.
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
-- [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (4 months ago)
+- [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (5 months ago)
 
 #### 📫 How to reach me
 
