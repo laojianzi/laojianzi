@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (2 months ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (3 months ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (5 months ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (6 months ago)
 
@@ -18,12 +18,12 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.7](https://github.com/gotomicro/ego/releases/tag/v1.1.7), 5 days ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
+- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.7](https://github.com/gotomicro/ego/releases/tag/v1.1.7), 6 days ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.6-rc4](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.6-rc4), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
+- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
