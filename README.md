@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.9](https://github.com/gotomicro/ego/releases/tag/v1.1.9), today) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
+- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.9](https://github.com/gotomicro/ego/releases/tag/v1.1.9), 1 day ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v0.4.6-rc4](https://github.com/clickvisual/clickvisual/releases/tag/v0.4.6-rc4), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 #### 🔨 Latest Pull Requests I published
@@ -26,7 +26,7 @@ I'm Jeff, a gopher.
 - [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
-- [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
+- [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (4 months ago)
 - [feat: other(tcp) dsn format to clickhouse dsn, password support includes clickhouse allowed unicode](https://github.com/clickvisual/clickvisual/pull/657) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (5 months ago)
 
 #### 📫 How to reach me
