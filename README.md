@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.12](https://github.com/gotomicro/ego/releases/tag/v1.1.12), 1 week ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
+- [gotomicro/ego](https://github.com/gotomicro/ego) ([v1.1.12](https://github.com/gotomicro/ego/releases/tag/v1.1.12), 2 weeks ago) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc3](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc3), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 #### 🔨 Latest Pull Requests I published
