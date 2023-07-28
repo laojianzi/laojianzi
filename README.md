@@ -4,17 +4,18 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) -  (today)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (7 months ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (10 months ago)
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变 (11 months ago)
 
 #### 🌱 My latest projects
 
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - 
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea
 - [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 - [laojianzi/blog-comments](https://github.com/laojianzi/blog-comments) - I&#39;m Jeff
-- [laojianzi/slate](https://github.com/laojianzi/slate) - 
 
 #### 🔭 Latest releases I've contributed to
 
