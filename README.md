@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 - [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
-- [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
+- [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (9 months ago)
 
 #### 📫 How to reach me
 
