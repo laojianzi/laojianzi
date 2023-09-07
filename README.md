@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 day ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 days ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (8 months ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (11 months ago)
 
