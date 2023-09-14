@@ -12,11 +12,6 @@ I'm Jeff, a gopher.
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🍴 My recent forks
-{{range recentForks 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
