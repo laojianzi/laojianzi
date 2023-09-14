@@ -37,11 +37,6 @@ I'm Jeff, a gopher.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
