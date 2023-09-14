@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 week ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (today)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (11 months ago)
 
@@ -31,9 +31,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [About](/about/) (1 week ago)
 - [为什么我觉得 labstack/echo 好用？](/posts/why-echo-good/) (1 week ago)
-- [Archive](/archive/) (a long while ago)
 
 #### 📓 Gists I wrote
 
@@ -46,9 +44,6 @@ I'm Jeff, a gopher.
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science (3 days ago)
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (1 week ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (2 weeks ago)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
 
 #### 👯 Check out some of my recent followers
 
