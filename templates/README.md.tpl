@@ -24,7 +24,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 {{range rss "https://blog.0xbb.dev/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}](https://blog.0xbb.dev{{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📓 Gists I wrote
