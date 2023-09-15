@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (today)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 day ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (11 months ago)
 
@@ -39,9 +39,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (today)
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (1 day ago)
-- [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science (3 days ago)
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (1 day ago)
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (2 days ago)
+- [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science (4 days ago)
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (1 week ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (2 weeks ago)
 
