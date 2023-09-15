@@ -31,7 +31,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [为什么我觉得 labstack/echo 好用？](/posts/why-echo-good/) (1 week ago)
+- [为什么我觉得 labstack/echo 好用？](https://blog.0xbb.dev/posts/why-echo-good/) (1 week ago)
 
 #### 📓 Gists I wrote
 
