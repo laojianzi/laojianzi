@@ -31,6 +31,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
+- [【文档翻译】Echo - 定制化](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/echo-customization/) (today)
 - [【文档翻译】Echo - 快速开始](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/echo-quick-start/) (2 days ago)
 - [为什么我觉得 labstack/echo 好用？](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/why-echo-good/) (2 weeks ago)
 
