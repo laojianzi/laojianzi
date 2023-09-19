@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (today)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (4 days ago)
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (5 days ago)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine powered by ClickHouse (6 days ago)
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science (1 week ago)
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
