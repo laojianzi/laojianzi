@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 week ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (today)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [【文档翻译】Echo - 定制化](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/echo-customization/) (1 week ago)
-- [【文档翻译】Echo - 快速开始](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/echo-quick-start/) (1 week ago)
-- [为什么我觉得 labstack/echo 好用？](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/why-echo-good/) (3 weeks ago)
+- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (today)
 
 #### 📓 Gists I wrote
 
