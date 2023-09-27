@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (today)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 day ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
 
 #### 🌱 My latest projects
@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc7](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc7), 4 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc7](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc7), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 #### 🔨 My recent Pull Requests
 
@@ -29,7 +29,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (today)
+- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -37,10 +37,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser (1 day ago)
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (4 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (5 days ago)
-- [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services (5 days ago)
+- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser (2 days ago)
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (5 days ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (6 days ago)
+- [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services (6 days ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (1 week ago)
 
 #### 👯 Check out some of my recent followers
