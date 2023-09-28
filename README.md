@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 day ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 days ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
 
 #### 🌱 My latest projects
@@ -23,13 +23,13 @@ I'm Jeff, a gopher.
 
 - [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (3 months ago)
 - [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (9 months ago)
-- [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (9 months ago)
-- [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (9 months ago)
+- [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
+- [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 
 #### 📜 My recent blog posts
 
-- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (1 day ago)
+- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -37,11 +37,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [datalens-tech/datalens-ui](https://github.com/datalens-tech/datalens-ui) - User interface for DataLens (today)
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (today)
-- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (today)
-- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. (today)
-- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions (2 days ago)
+- [datalens-tech/datalens-ui](https://github.com/datalens-tech/datalens-ui) - User interface for DataLens (1 day ago)
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (1 day ago)
+- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (1 day ago)
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. (1 day ago)
+- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
