@@ -37,10 +37,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [datalens-tech/datalens-ui](https://github.com/datalens-tech/datalens-ui) - User interface for DataLens (6 days ago)
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (6 days ago)
-- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (6 days ago)
-- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. (6 days ago)
+- [datalens-tech/datalens-ui](https://github.com/datalens-tech/datalens-ui) - User interface for DataLens (1 week ago)
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (1 week ago)
+- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications. (1 week ago)
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. (1 week ago)
 - [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions (1 week ago)
 
 #### 👯 Check out some of my recent followers
