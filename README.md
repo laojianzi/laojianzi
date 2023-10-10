@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 week ago)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (9 months ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 weeks ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,14 +22,14 @@ I'm Jeff, a gopher.
 #### 🔨 My recent Pull Requests
 
 - [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (3 months ago)
-- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (9 months ago)
+- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 - [refactor: the alertmanager url fetch](https://github.com/clickvisual/clickvisual/pull/807) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 - [fix: index out on log charts api](https://github.com/clickvisual/clickvisual/pull/791) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
 
 #### 📜 My recent blog posts
 
-- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (1 week ago)
+- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -37,11 +37,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (today)
-- [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (1 day ago)
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (1 day ago)
-- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (1 day ago)
-- [XuanchenLin/NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript. (1 day ago)
+- [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (1 day ago)
+- [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (2 days ago)
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 days ago)
+- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 days ago)
+- [XuanchenLin/NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
