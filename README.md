@@ -37,11 +37,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (today)
-- [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! (3 days ago)
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (3 days ago)
-- [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (4 days ago)
-- [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (5 days ago)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 day ago)
+- [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! (4 days ago)
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (4 days ago)
+- [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (5 days ago)
+- [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
