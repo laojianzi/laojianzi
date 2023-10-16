@@ -37,19 +37,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design (today)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (today)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (3 days ago)
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! (6 days ago)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (6 days ago)
-- [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [M0hamedIbrahim1](https://github.com/M0hamedIbrahim1)
 - [Leoche](https://github.com/Leoche)
 - [yuchanns](https://github.com/yuchanns)
 - [dirambora](https://github.com/dirambora)
 - [BigShowOff69](https://github.com/BigShowOff69)
-- [AYIDouble](https://github.com/AYIDouble)
 
 #### 💬 Feedback
 
