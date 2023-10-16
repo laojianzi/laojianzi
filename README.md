@@ -37,11 +37,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (today)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (3 days ago)
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! (6 days ago)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (6 days ago)
 - [navilang/navi](https://github.com/navilang/navi) - Navi is a high-performance programming language. (1 week ago)
-- [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
