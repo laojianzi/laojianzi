@@ -46,10 +46,10 @@ I'm Jeff, a gopher.
 #### 👯 Check out some of my recent followers
 
 - [Loqui4444](https://github.com/Loqui4444)
-- [M0hamedIbrahim1](https://github.com/M0hamedIbrahim1)
 - [Leoche](https://github.com/Leoche)
 - [yuchanns](https://github.com/yuchanns)
 - [dirambora](https://github.com/dirambora)
+- [BigShowOff69](https://github.com/BigShowOff69)
 
 #### 💬 Feedback
 
