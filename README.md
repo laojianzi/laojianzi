@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (3 weeks ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (today)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (10 months ago)
 
 #### 🌱 My latest projects
@@ -29,6 +29,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
+- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (today)
 - [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (3 weeks ago)
 
 #### 📓 Gists I wrote
