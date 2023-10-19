@@ -37,11 +37,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. (today)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (3 days ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (3 days ago)
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design (3 days ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (3 days ago)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
