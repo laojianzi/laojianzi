@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc8](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc8), today) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc9](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc9), today) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 #### 🔨 My recent Pull Requests
 
