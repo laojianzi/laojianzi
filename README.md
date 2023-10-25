@@ -38,11 +38,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (today)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (today)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (5 days ago)
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content. (6 days ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
