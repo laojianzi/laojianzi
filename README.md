@@ -38,11 +38,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (today)
 - [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (today)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree (today)
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (2 days ago)
-- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
