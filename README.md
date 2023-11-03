@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (1 week ago)
+- [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 weeks ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (10 months ago)
 
 #### 🌱 My latest projects
@@ -38,11 +38,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (1 day ago)
-- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (1 day ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
-- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree (1 day ago)
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (3 days ago)
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (2 days ago)
+- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (2 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 days ago)
+- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree (2 days ago)
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
