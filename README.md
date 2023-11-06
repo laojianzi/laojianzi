@@ -4,6 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (today)
 - [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 weeks ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (10 months ago)
 
@@ -18,6 +19,7 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc10](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc10), today) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 3 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
