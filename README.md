@@ -38,11 +38,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (2 days ago)
-- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (2 days ago)
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (4 days ago)
-- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (4 days ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (3 days ago)
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (3 days ago)
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (5 days ago)
+- [cozis/microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack (5 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
