@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (2 days ago)
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (2 days ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (3 days ago)
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (3 days ago)
 - [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,20 +18,20 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc10](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc10), 2 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc10](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc10), 3 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 3 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
-- [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 days ago)
-- [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (1 week ago)
+- [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 days ago)
+- [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (2 weeks ago)
 - [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (4 months ago)
-- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (10 months ago)
+- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (11 months ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (2 weeks ago)
+- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (3 weeks ago)
 - [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform (today)
-- [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (1 day ago)
-- [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo) - An implementation of thrift compiler in go language.  (1 day ago)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (2 days ago)
-- [scratchdata/ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse. (2 days ago)
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform (1 day ago)
+- [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (2 days ago)
+- [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo) - An implementation of thrift compiler in go language.  (2 days ago)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (3 days ago)
+- [scratchdata/ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
