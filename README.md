@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (1 day ago)
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 day ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 day ago)
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform (6 days ago)
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (2 days ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (2 days ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 days ago)
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform (1 week ago)
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI (1 week ago)
 
 #### 👯 Check out some of my recent followers
