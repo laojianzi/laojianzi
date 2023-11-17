@@ -40,7 +40,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly. (1 day ago)
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 day ago)
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (2 days ago)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (2 days ago)
 - [eddycjy/go-developer-roadmap](https://github.com/eddycjy/go-developer-roadmap) - 【Go 学习路线图】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全 (2 days ago)
