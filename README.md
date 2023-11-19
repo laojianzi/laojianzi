@@ -41,7 +41,7 @@ I'm Jeff, a gopher.
 #### ⭐ Recent Stars
 
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus (2 days ago)
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs (3 days ago)
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (3 days ago)
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (4 days ago)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (4 days ago)
 - [eddycjy/go-developer-roadmap](https://github.com/eddycjy/go-developer-roadmap) - 【Go 学习路线图】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全 (4 days ago)
