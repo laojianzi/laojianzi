@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (2 days ago)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (3 days ago)
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus (6 days ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 week ago)
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
