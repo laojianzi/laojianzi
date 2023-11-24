@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc12](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc12), 2 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc12](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc12), 3 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 4 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (2 days ago)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (3 days ago)
-- [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus (6 days ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 day ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (3 days ago)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (4 days ago)
+- [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus (1 week ago)
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 week ago)
 
 #### 👯 Check out some of my recent followers
