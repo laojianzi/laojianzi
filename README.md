@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (today)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 day ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (3 days ago)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (4 days ago)
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus (1 week ago)
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
