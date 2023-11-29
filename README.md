@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语 (today)
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (today)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (5 days ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (6 days ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 week ago)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
