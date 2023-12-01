@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. (today)
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (today)
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语 (2 days ago)
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (2 days ago)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 week ago)
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 week ago)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
