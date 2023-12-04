@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (today)
+- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (today)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (3 days ago)
 - [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. (3 days ago)
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (3 days ago)
-- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语 (5 days ago)
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
