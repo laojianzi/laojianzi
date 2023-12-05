@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc12](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc12), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc12](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc12), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 4 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (today)
-- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (today)
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (3 days ago)
-- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. (3 days ago)
-- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (3 days ago)
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (1 day ago)
+- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (1 day ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (4 days ago)
+- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. (4 days ago)
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C&#43;&#43;, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
