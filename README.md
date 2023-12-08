@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (today)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 days ago)
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (4 days ago)
 - [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (4 days ago)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 week ago)
-- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
