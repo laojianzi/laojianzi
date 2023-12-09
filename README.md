@@ -26,7 +26,7 @@ I'm Jeff, a gopher.
 - [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 month ago)
 - [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (1 month ago)
 - [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (5 months ago)
-- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (11 months ago)
+- [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 year ago)
 - [fix: trim suffix /api/v2/alerts for alertmanager url](https://github.com/clickvisual/clickvisual/pull/808) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 year ago)
 
 #### 📜 My recent blog posts
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (today)
-- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (today)
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 days ago)
-- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (4 days ago)
-- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (4 days ago)
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ (1 day ago)
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD. (1 day ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (3 days ago)
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (5 days ago)
+- [zz85/profile-bee](https://github.com/zz85/profile-bee) - 🐝🦀🔥 An ebpf based CPU profiler written in Rust  (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
