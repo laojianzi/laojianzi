@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
 - [siglens/siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency (today)
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon (today)
 - [grafana/clickhouse-datasource](https://github.com/grafana/clickhouse-datasource) - Grafana Plugin for ClickHouse (today)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 day ago)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
