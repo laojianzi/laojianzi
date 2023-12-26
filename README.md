@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. (today)
-- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (today)
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (3 days ago)
-- [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3! (3 days ago)
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (3 days ago)
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. (1 day ago)
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (1 day ago)
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (4 days ago)
+- [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3! (4 days ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
