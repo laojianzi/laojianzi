@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core (today)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (today)
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (today)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (today)
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. (2 days ago)
-- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (2 days ago)
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (5 days ago)
-- [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3! (5 days ago)
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
