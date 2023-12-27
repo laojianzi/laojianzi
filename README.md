@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. (1 day ago)
-- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (1 day ago)
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (4 days ago)
-- [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3! (4 days ago)
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (4 days ago)
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. (2 days ago)
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (2 days ago)
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (5 days ago)
+- [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3! (5 days ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
