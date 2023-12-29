@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly (1 day ago)
-- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core (1 day ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 day ago)
-- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (1 day ago)
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (1 day ago)
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly (2 days ago)
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core (2 days ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 days ago)
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust (2 days ago)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
