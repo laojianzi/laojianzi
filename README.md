@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [dafiliks](https://github.com/dafiliks)
 - [BabyNengneilhing](https://github.com/BabyNengneilhing)
 - [BitPassion](https://github.com/BitPassion)
 - [Loqui4444](https://github.com/Loqui4444)
 - [Leoche](https://github.com/Leoche)
-- [yuchanns](https://github.com/yuchanns)
 
 #### 💬 Feedback
 
