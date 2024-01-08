@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [moturus/motor-os](https://github.com/moturus/motor-os) -  (today)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (today)
 - [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (3 days ago)
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (3 days ago)
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (4 days ago)
-- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
