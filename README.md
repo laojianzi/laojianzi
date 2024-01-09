@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 3 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 4 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [moturus/motor-os](https://github.com/moturus/motor-os) -  (today)
-- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (today)
-- [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (3 days ago)
-- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (3 days ago)
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (4 days ago)
+- [moturus/motor-os](https://github.com/moturus/motor-os) -  (1 day ago)
+- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 day ago)
+- [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (4 days ago)
+- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (4 days ago)
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
