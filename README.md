@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (today)
 - [moturus/motor-os](https://github.com/moturus/motor-os) -  (2 days ago)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (2 days ago)
 - [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (5 days ago)
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (5 days ago)
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
