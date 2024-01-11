@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 4 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (today)
-- [moturus/motor-os](https://github.com/moturus/motor-os) -  (2 days ago)
-- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (2 days ago)
-- [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (5 days ago)
-- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (5 days ago)
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 day ago)
+- [moturus/motor-os](https://github.com/moturus/motor-os) -  (3 days ago)
+- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (3 days ago)
+- [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (6 days ago)
+- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
