@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] (today)
+- [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go. (today)
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever. (today)
+- [ossf/package-analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis (today)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (2 days ago)
-- [moturus/motor-os](https://github.com/moturus/motor-os) -  (4 days ago)
-- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (4 days ago)
-- [burntcarrot/pairpad](https://github.com/burntcarrot/pairpad) - A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup. (1 week ago)
-- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
