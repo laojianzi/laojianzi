@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc13](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc13), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 6 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [coder/redjet](https://github.com/coder/redjet) - High-performance Redis library for Go (today)
-- [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] (3 days ago)
-- [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go. (3 days ago)
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever. (3 days ago)
-- [ossf/package-analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis (3 days ago)
+- [coder/redjet](https://github.com/coder/redjet) - High-performance Redis library for Go (1 day ago)
+- [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] (4 days ago)
+- [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go. (4 days ago)
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever. (4 days ago)
+- [ossf/package-analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
