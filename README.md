@@ -42,19 +42,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (today)
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. (2 days ago)
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 (2 days ago)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (3 days ago)
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools (3 days ago)
-- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Peefy](https://github.com/Peefy)
 - [dafiliks](https://github.com/dafiliks)
 - [BabyNengneilhing](https://github.com/BabyNengneilhing)
 - [BitPassion](https://github.com/BitPassion)
 - [Loqui4444](https://github.com/Loqui4444)
-- [Leoche](https://github.com/Leoche)
 
 #### 💬 Feedback
 
