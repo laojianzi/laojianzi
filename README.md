@@ -5,8 +5,8 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (2 months ago)
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (2 months ago)
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (3 months ago)
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (3 months ago)
 - [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev (3 months ago)
 
 #### 🌱 My latest projects
@@ -19,14 +19,14 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.121.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.121.2-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.121.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.121.2-pre), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc14](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc14), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 6 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
 - [Fix backend dependencies link in local collaboration docs](https://github.com/zed-industries/zed/pull/6461) on [zed-industries/zed](https://github.com/zed-industries/zed) (1 week ago)
-- [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (2 months ago)
+- [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (3 months ago)
 - [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (3 months ago)
 - [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (7 months ago)
 - [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 year ago)
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. (1 day ago)
-- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 (1 day ago)
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (2 days ago)
-- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools (2 days ago)
-- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web (2 days ago)
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. (2 days ago)
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 (2 days ago)
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (3 days ago)
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools (3 days ago)
+- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
