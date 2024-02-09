@@ -44,7 +44,7 @@ I'm Jeff, a gopher.
 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 day ago)
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks (1 day ago)
-- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) -  (1 day ago)
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 day ago)
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (3 days ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (5 days ago)
 
