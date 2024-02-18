@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (today)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks (1 week ago)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. (1 week ago)
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
