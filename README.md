@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.123.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.123.2-pre), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.123.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.123.2-pre), 3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc14](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc14), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,8 +42,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (today)
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (today)
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 day ago)
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (1 day ago)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks (1 week ago)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
