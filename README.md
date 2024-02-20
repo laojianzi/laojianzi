@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library (today)
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (today)
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (2 days ago)
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (2 days ago)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
-- [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks (1 week ago)
-- [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
