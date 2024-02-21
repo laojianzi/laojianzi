@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.123.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.123.2-pre), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.123.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.123.2-pre), 5 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc14](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc14), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,10 +42,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library (today)
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (today)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (2 days ago)
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (2 days ago)
+- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library (1 day ago)
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (1 day ago)
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (3 days ago)
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (3 days ago)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
 
 #### 👯 Check out some of my recent followers
