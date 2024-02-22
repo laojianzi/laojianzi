@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 &#43; Vite &#43; Pinia &#43; Unocss &#43; Naive UI 的轻量级后台管理模板。 (today)
 - [actiontech/sqle](https://github.com/actiontech/sqle) - 一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台 (today)
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (1 day ago)
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library (2 days ago)
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (2 days ago)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
