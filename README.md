@@ -50,11 +50,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [tusharnew1](https://github.com/tusharnew1)
 - [Peefy](https://github.com/Peefy)
 - [dafiliks](https://github.com/dafiliks)
 - [BabyNengneilhing](https://github.com/BabyNengneilhing)
 - [BitPassion](https://github.com/BitPassion)
-- [Loqui4444](https://github.com/Loqui4444)
 
 #### 💬 Feedback
 
