@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (today)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (today)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 day ago)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 day ago)
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs! (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
