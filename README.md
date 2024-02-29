@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.124.7](https://github.com/zed-industries/zed/releases/tag/v0.124.7), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.124.7](https://github.com/zed-industries/zed/releases/tag/v0.124.7), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc14](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc14), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (today)
-- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (today)
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs! (today)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (today)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (today)
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 day ago)
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 day ago)
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs! (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
