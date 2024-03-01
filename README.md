@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.125.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.125.1-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.125.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.125.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0-rc14](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0-rc14), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language (today)
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (today)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (today)
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (today)
+- [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language (1 day ago)
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (1 day ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 day ago)
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 day ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
