@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (today)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (today)
 - [jaegertracing/jaeger-clickhouse](https://github.com/jaegertracing/jaeger-clickhouse) - Jaeger ClickHouse storage plugin implementation (1 day ago)
 - [go-faster/oteldb](https://github.com/go-faster/oteldb) - OpenTelemetry signal storage (1 day ago)
 - [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A backend management system based on vue3, typescript, element-plus, and vite (1 day ago)
-- [harshadmanglani/polaris](https://github.com/harshadmanglani/polaris) - High performance workflow orchestrator for Golang (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
