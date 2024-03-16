@@ -19,9 +19,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.127.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.127.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.127.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.127.1-pre), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 8 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (today)
-- [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) - Easily &amp; powerful theme for Hugo engine. (today)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 day ago)
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (1 day ago)
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (1 day ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 day ago)
+- [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) - Easily &amp; powerful theme for Hugo engine. (1 day ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (2 days ago)
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
