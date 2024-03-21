@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.128.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.128.0-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.128.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.128.0-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 8 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,19 +42,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (2 days ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (5 days ago)
-- [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) - Easily &amp; powerful theme for Hugo engine. (5 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (6 days ago)
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (6 days ago)
+- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (3 days ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (6 days ago)
+- [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) - Easily &amp; powerful theme for Hugo engine. (6 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Kwynto](https://github.com/Kwynto)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
 - [Peefy](https://github.com/Peefy)
 - [dafiliks](https://github.com/dafiliks)
-- [BabyNengneilhing](https://github.com/BabyNengneilhing)
 
 #### 💬 Feedback
 
