@@ -42,10 +42,6 @@ I'm Jeff, a gopher.
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Fediverse: https://laojianzi1994@gmail.com
