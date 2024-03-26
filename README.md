@@ -56,10 +56,6 @@ I'm Jeff, a gopher.
 - [Peefy](https://github.com/Peefy)
 - [dafiliks](https://github.com/dafiliks)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Fediverse: https://laojianzi1994@gmail.com
