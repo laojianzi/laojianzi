@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.127.5](https://github.com/zed-industries/zed/releases/tag/v0.127.5), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.127.5](https://github.com/zed-industries/zed/releases/tag/v0.127.5), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0), 3 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 8 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,8 +42,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [jkstack/libagent](https://github.com/jkstack/libagent) - agent封装类库，用于快速开发agent (4 days ago)
-- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (4 days ago)
+- [jkstack/libagent](https://github.com/jkstack/libagent) - agent封装类库，用于快速开发agent (5 days ago)
+- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (5 days ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 week ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 week ago)
 - [hugo-next/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next) - Easily &amp; powerful theme for Hugo engine. (1 week ago)
