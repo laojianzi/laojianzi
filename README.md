@@ -42,7 +42,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨ (today)
+- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (today)
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (today)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (today)
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP&#43;，自动获取流量。This project enables you to use Cloudflare WARP&#43; through subscription, automatically acquiring traffic. (2 days ago)
