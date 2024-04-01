@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (today)
 - [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (3 days ago)
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (3 days ago)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (3 days ago)
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP&#43;，自动获取流量。This project enables you to use Cloudflare WARP&#43; through subscription, automatically acquiring traffic. (5 days ago)
-- [jkstack/libagent](https://github.com/jkstack/libagent) - agent封装类库，用于快速开发agent (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
