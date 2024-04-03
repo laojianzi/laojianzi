@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.129.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.129.1-pre), 6 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.129.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.129.1-pre), 1 week ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.0](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.0), 4 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0-rc.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0-rc.0), 8 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (today)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 day ago)
-- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (4 days ago)
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (4 days ago)
-- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (4 days ago)
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (1 day ago)
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (2 days ago)
+- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (5 days ago)
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (5 days ago)
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
