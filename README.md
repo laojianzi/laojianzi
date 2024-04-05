@@ -19,9 +19,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.130.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.130.1-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 1 day ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 1 day ago) - A lightweight, cloud-native data transfer agent and aggregator
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.130.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.130.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 2 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 2 days ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (2 days ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (3 days ago)
-- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (6 days ago)
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (6 days ago)
-- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (6 days ago)
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (3 days ago)
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (4 days ago)
+- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (1 week ago)
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (1 week ago)
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
