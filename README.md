@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (today)
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (today)
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro. (today)
 - [ITECOMMPAY/kibouse](https://github.com/ITECOMMPAY/kibouse) - Clickhouse adapter for Kibana (today)
-- [knight42/krelay](https://github.com/knight42/krelay) - A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster. (today)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (6 days ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
