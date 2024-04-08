@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro. (today)
+- [ITECOMMPAY/kibouse](https://github.com/ITECOMMPAY/kibouse) - Clickhouse adapter for Kibana (today)
 - [knight42/krelay](https://github.com/knight42/krelay) - A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster. (today)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (6 days ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language (1 week ago)
-- [monogon-dev/monogon](https://github.com/monogon-dev/monogon) - The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! (1 week ago)
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
