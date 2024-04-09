@@ -19,9 +19,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.130.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.130.2-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 2 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 5 days ago) - A lightweight, cloud-native data transfer agent and aggregator
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.130.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.130.2-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 3 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 6 days ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (today)
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (today)
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro. (today)
-- [ITECOMMPAY/kibouse](https://github.com/ITECOMMPAY/kibouse) - Clickhouse adapter for Kibana (today)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 day ago)
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (1 day ago)
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 day ago)
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro. (1 day ago)
+- [ITECOMMPAY/kibouse](https://github.com/ITECOMMPAY/kibouse) - Clickhouse adapter for Kibana (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
