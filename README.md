@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (today)
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor (2 days ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 days ago)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 days ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (5 days ago)
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
