@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.131.6](https://github.com/zed-industries/zed/releases/tag/v0.131.6), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.131.6](https://github.com/zed-industries/zed/releases/tag/v0.131.6), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 2 weeks ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (today)
-- [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor (2 days ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 days ago)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 days ago)
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (5 days ago)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (1 day ago)
+- [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor (3 days ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (3 days ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (3 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
