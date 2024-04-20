@@ -44,7 +44,7 @@ I'm Jeff, a gopher.
 
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (2 days ago)
 - [loopj/short-stack](https://github.com/loopj/short-stack) - World&#39;s Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs (2 days ago)
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (3 days ago)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (3 days ago)
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor (5 days ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (5 days ago)
 
