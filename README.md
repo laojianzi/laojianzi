@@ -50,11 +50,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [odoochain](https://github.com/odoochain)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
 - [Peefy](https://github.com/Peefy)
 - [dafiliks](https://github.com/dafiliks)
-- [BabyNengneilhing](https://github.com/BabyNengneilhing)
 
 #### 📫 How to reach me
 
