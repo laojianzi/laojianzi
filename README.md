@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [xline-kv/Xline](https://github.com/xline-kv/Xline) - A geo-distributed KV store for metadata management (today)
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (1 week ago)
 - [loopj/short-stack](https://github.com/loopj/short-stack) - World&#39;s Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs (1 week ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 week ago)
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor (1 week ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
