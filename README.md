@@ -43,10 +43,10 @@ I'm Jeff, a gopher.
 #### ⭐ Recent Stars
 
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (3 days ago)
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠  (4 days ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 days ago)
 - [xline-kv/Xline](https://github.com/xline-kv/Xline) - A geo-distributed KV store for metadata management (6 days ago)
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (2 weeks ago)
+- [loopj/short-stack](https://github.com/loopj/short-stack) - World&#39;s Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
