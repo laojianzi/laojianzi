@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.134.4](https://github.com/zed-industries/zed/releases/tag/v0.134.4), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.134.4](https://github.com/zed-industries/zed/releases/tag/v0.134.4), 5 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 1 month ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,7 +42,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go (3 days ago)
+- [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go (4 days ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (2 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (2 weeks ago)
 - [xline-kv/Xline](https://github.com/xline-kv/Xline) - A geo-distributed KV store for metadata management (2 weeks ago)
