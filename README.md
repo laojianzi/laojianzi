@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.136.2](https://github.com/zed-industries/zed/releases/tag/v0.136.2), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.136.2](https://github.com/zed-industries/zed/releases/tag/v0.136.2), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 1 month ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -27,14 +27,14 @@ I'm Jeff, a gopher.
 
 - [Fix backend dependencies link in local collaboration docs](https://github.com/zed-industries/zed/pull/6461) on [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago)
 - [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (6 months ago)
-- [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (6 months ago)
-- [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (10 months ago)
+- [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (7 months ago)
+- [feat: auto release](https://github.com/datopian/obsidian-flowershow/pull/13) on [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) (11 months ago)
 - [fix: elog should use the [logger] configuration item](https://github.com/clickvisual/clickvisual/pull/832) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (1 year ago)
 
 #### 📜 My recent blog posts
 
 - [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (7 months ago)
-- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (7 months ago)
+- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (8 months ago)
 
 #### 📓 Gists I wrote
 
@@ -42,8 +42,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (5 days ago)
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities. (6 days ago)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (6 days ago)
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities. (1 week ago)
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go (1 week ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (3 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 weeks ago)
