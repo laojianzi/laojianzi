@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [zed-industries/create-gpui-app](https://github.com/zed-industries/create-gpui-app) - CRA-style tool for creating new gpui apps (today)
 - [glebbash/LO](https://github.com/glebbash/LO) - LO - small programming language targeting WASM that aims to be as simple as possible (today)
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (3 days ago)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (3 days ago)
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (4 days ago)
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
