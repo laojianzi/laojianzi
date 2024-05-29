@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for time (today)
 - [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter. (2 days ago)
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS (2 days ago)
 - [zed-industries/create-gpui-app](https://github.com/zed-industries/create-gpui-app) - CRA-style tool for creating new gpui apps (2 days ago)
 - [glebbash/LO](https://github.com/glebbash/LO) - LO - small programming language targeting WASM that aims to be as simple as possible (2 days ago)
-- [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
