@@ -42,19 +42,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (today)
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (today)
 - [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (4 days ago)
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (5 days ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (5 days ago)
-- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for time (5 days ago)
-- [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [jacobsomer](https://github.com/jacobsomer)
 - [odoochain](https://github.com/odoochain)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
 - [Peefy](https://github.com/Peefy)
-- [dafiliks](https://github.com/dafiliks)
 
 #### 📫 How to reach me
 
