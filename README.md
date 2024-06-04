@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.138.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.138.4-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.138.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.138.4-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 2 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (today)
-- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (today)
-- [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (4 days ago)
-- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (5 days ago)
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (5 days ago)
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (1 day ago)
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 day ago)
+- [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (5 days ago)
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (6 days ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
