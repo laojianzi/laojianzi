@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (today)
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (2 days ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (2 days ago)
 - [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (6 days ago)
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (1 week ago)
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
