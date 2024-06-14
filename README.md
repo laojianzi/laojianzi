@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像 (today)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 week ago)
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (1 week ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 week ago)
 - [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (2 weeks ago)
-- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
