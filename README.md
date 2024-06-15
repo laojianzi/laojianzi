@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.140.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.140.4-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.140.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.140.4-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc1), 2 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 2 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -33,7 +33,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (7 months ago)
+- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (8 months ago)
 - [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (8 months ago)
 
 #### 📓 Gists I wrote
@@ -42,7 +42,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像 (today)
+- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像 (1 day ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 week ago)
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (1 week ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 week ago)
