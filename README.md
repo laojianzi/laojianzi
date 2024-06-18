@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web (today)
+- [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you&#39;ve been missing (today)
 - [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像 (4 days ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 week ago)
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity (2 weeks ago)
-- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (2 weeks ago)
-- [auxten/chdb-server](https://github.com/auxten/chdb-server) - Standalone chDB server by chdb-go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
