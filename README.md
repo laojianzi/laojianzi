@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client (today)
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust (today)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (today)
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web (1 day ago)
-- [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you&#39;ve been missing (1 day ago)
-- [laojianzi/mdavatar](https://github.com/laojianzi/mdavatar) - MDAvatar 可以根据字符串生成单字符头像，高度自定义，支持中文头像、圆形头像 (5 days ago)
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
