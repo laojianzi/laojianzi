@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (today)
+- [sleeprite/rudis](https://github.com/sleeprite/rudis) - Redis for rust is a high-performance in memory database (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
 - [yuchanns/gopendal](https://github.com/yuchanns/gopendal) - experimental: opendal-go without CGO. (6 days ago)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (1 week ago)
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 week ago)
-- [huacnlee/gpui-component](https://github.com/huacnlee/gpui-component) - A UI components write in GPUI. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
