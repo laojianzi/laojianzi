@@ -19,8 +19,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.143.5-pre](https://github.com/zed-industries/zed/releases/tag/v0.143.5-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 4 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.143.5-pre](https://github.com/zed-industries/zed/releases/tag/v0.143.5-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 5 days ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 3 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
@@ -42,10 +42,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (today)
-- [sleeprite/rudis](https://github.com/sleeprite/rudis) - Redis for rust is a high-performance in memory database (today)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
-- [yuchanns/gopendal](https://github.com/yuchanns/gopendal) - experimental: opendal-go without CGO. (6 days ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
+- [sleeprite/rudis](https://github.com/sleeprite/rudis) - Redis for rust is a high-performance in memory database (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
+- [yuchanns/gopendal](https://github.com/yuchanns/gopendal) - experimental: opendal-go without CGO. (1 week ago)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (1 week ago)
 
 #### 👯 Check out some of my recent followers
