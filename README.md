@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (today)
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (today)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
 - [sleeprite/rudis](https://github.com/sleeprite/rudis) - Redis for rust is a high-performance in memory database (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
-- [yuchanns/gopendal](https://github.com/yuchanns/gopendal) - experimental: opendal-go without CGO. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
