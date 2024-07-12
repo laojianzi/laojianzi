@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog) - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also integrates with pytorch and can trigger traces for distributed training applications. (today)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 day ago)
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (2 days ago)
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (2 days ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (3 days ago)
-- [sleeprite/rudis](https://github.com/sleeprite/rudis) - Redis for rust is a high-performance in memory database (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
