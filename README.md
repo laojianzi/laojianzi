@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [test: Add `Format SQL` correctness check and fix failed tests](https://github.com/AfterShip/clickhouse-sql-parser/pull/76) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
 - [Fixed missing right parentheses in README.md example code](https://github.com/AfterShip/clickhouse-sql-parser/pull/75) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
 - [Extend the index parameters to support the float type](https://github.com/AfterShip/clickhouse-sql-parser/pull/74) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
 - [Fix backend dependencies link in local collaboration docs](https://github.com/zed-industries/zed/pull/6461) on [zed-industries/zed](https://github.com/zed-industries/zed) (5 months ago)
 - [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
-- [feat: add random port option to global http](https://github.com/loggie-io/loggie/pull/644) on [loggie-io/loggie](https://github.com/loggie-io/loggie) (8 months ago)
 
 #### 📜 My recent blog posts
 
