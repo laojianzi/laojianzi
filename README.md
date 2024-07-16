@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (1 day ago)
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 months ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (8 months ago)
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (8 months ago)
@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
+- [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
+- [Fix the &#34;=&#34; operator should be present if the setting `variable` carries a value](https://github.com/AfterShip/clickhouse-sql-parser/pull/80) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
+- [Add support of the format clause for the select stmt](https://github.com/AfterShip/clickhouse-sql-parser/pull/79) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (today)
 - [test: Add `Format SQL` correctness check and fix failed tests](https://github.com/AfterShip/clickhouse-sql-parser/pull/76) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 day ago)
-- [Fixed missing right parentheses in README.md example code](https://github.com/AfterShip/clickhouse-sql-parser/pull/75) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 day ago)
-- [Extend the index parameters to support the float type](https://github.com/AfterShip/clickhouse-sql-parser/pull/74) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 day ago)
-- [Fix backend dependencies link in local collaboration docs](https://github.com/zed-industries/zed/pull/6461) on [zed-industries/zed](https://github.com/zed-industries/zed) (5 months ago)
-- [fix: ensure the clickvisual UI port matches the doc](https://github.com/clickvisual/clickvisual/pull/1088) on [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) (8 months ago)
 
 #### 📜 My recent blog posts
 
