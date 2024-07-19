@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (today)
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (today)
 - [golang/oscar](https://github.com/golang/oscar) - [mirror] Open source contributor agent architecture repo. (today)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It&#39;s open-source, Python-powered, fully customizable, model and vector store agnostic. (1 day ago)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity. (2 days ago)
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6&#43;. Producing, consuming, transacting, administrating, etc. (2 days ago)
-- [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog) - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also integrates with pytorch and can trigger traces for distributed training applications. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
