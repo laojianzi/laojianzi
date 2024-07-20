@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (3 days ago)
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (4 days ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 months ago)
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse. (8 months ago)
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (8 months ago)
@@ -20,18 +20,18 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.145.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.145.1-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.145.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.145.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.4), 2 weeks ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.4), 3 weeks ago) - ClickHouse SQL Parser writing in Go
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 3 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
-- [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 days ago)
-- [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 days ago)
-- [Fix the &#34;=&#34; operator should be present if the setting `variable` carries a value](https://github.com/AfterShip/clickhouse-sql-parser/pull/80) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 days ago)
-- [Add support of the format clause for the select stmt](https://github.com/AfterShip/clickhouse-sql-parser/pull/79) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 days ago)
-- [test: Add `Format SQL` correctness check and fix failed tests](https://github.com/AfterShip/clickhouse-sql-parser/pull/76) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (4 days ago)
+- [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (4 days ago)
+- [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (4 days ago)
+- [Fix the &#34;=&#34; operator should be present if the setting `variable` carries a value](https://github.com/AfterShip/clickhouse-sql-parser/pull/80) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (4 days ago)
+- [Add support of the format clause for the select stmt](https://github.com/AfterShip/clickhouse-sql-parser/pull/79) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (4 days ago)
+- [test: Add `Format SQL` correctness check and fix failed tests](https://github.com/AfterShip/clickhouse-sql-parser/pull/76) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (today)
-- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (today)
-- [golang/oscar](https://github.com/golang/oscar) - [mirror] Open source contributor agent architecture repo. (today)
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It&#39;s open-source, Python-powered, fully customizable, model and vector store agnostic. (1 day ago)
-- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity. (2 days ago)
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (1 day ago)
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (1 day ago)
+- [golang/oscar](https://github.com/golang/oscar) - [mirror] Open source contributor agent architecture repo. (1 day ago)
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It&#39;s open-source, Python-powered, fully customizable, model and vector store agnostic. (2 days ago)
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
