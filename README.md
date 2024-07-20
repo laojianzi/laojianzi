@@ -52,11 +52,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
-- [kazhuravlev](https://github.com/kazhuravlev)
 - [jacobsomer](https://github.com/jacobsomer)
 - [odoochain](https://github.com/odoochain)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
+- [Peefy](https://github.com/Peefy)
 
 #### 📫 How to reach me
 
