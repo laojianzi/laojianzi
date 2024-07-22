@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. (today)
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (3 days ago)
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (3 days ago)
 - [golang/oscar](https://github.com/golang/oscar) - [mirror] Open source contributor agent architecture repo. (3 days ago)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It&#39;s open-source, Python-powered, fully customizable, model and vector store agnostic. (4 days ago)
-- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
