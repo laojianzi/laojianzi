@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (today)
 - [google/assertor](https://github.com/google/assertor) - Fluent assertion library for Rust with readable messages. (1 day ago)
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more (2 days ago)
 - [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. (2 days ago)
-- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (5 days ago)
-- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
