@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.145.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.145.1-pre), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.145.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.145.1-pre), 5 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 weeks ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.4), 3 weeks ago) - ClickHouse SQL Parser writing in Go
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 3 months ago) - A lightweight, cloud-native data transfer agent and aggregator
@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/assertor](https://github.com/google/assertor) - Fluent assertion library for Rust with readable messages. (today)
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more (1 day ago)
-- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. (1 day ago)
-- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (4 days ago)
-- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (4 days ago)
+- [google/assertor](https://github.com/google/assertor) - Fluent assertion library for Rust with readable messages. (1 day ago)
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more (2 days ago)
+- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. (2 days ago)
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend (5 days ago)
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
