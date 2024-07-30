@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool (today)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (5 days ago)
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center) (5 days ago)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI (5 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
