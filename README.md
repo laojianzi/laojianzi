@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com (today)
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report. (1 day ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (2 days ago)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  (1 week ago)
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool (1 week ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
