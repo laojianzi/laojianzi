@@ -27,11 +27,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (today)
 - [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 weeks ago)
 - [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 weeks ago)
 - [Fix the &#34;=&#34; operator should be present if the setting `variable` carries a value](https://github.com/AfterShip/clickhouse-sql-parser/pull/80) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 weeks ago)
 - [Add support of the format clause for the select stmt](https://github.com/AfterShip/clickhouse-sql-parser/pull/79) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 weeks ago)
-- [test: Add `Format SQL` correctness check and fix failed tests](https://github.com/AfterShip/clickhouse-sql-parser/pull/76) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (today)
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com (today)
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report. (1 day ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (2 days ago)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  (1 week ago)
-- [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
@@ -62,6 +62,8 @@ I'm Jeff, a gopher.
 
 - Fediverse: https://laojianzi1994@gmail.com
 - Blog: https://blog.0xbb.dev
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
