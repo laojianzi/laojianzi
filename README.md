@@ -63,8 +63,6 @@ I'm Jeff, a gopher.
 - Fediverse: https://laojianzi1994@gmail.com
 - Blog: https://blog.0xbb.dev
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laojianzi&theme=vue-dark)](https://github.com/laojianzi/laojianzi)
