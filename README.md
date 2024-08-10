@@ -4,19 +4,19 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (today)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (1 week ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (3 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 months ago)
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator (9 months ago)
 
 #### 🌱 My latest projects
 
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter
 - [laojianzi/laojianzi.github.io](https://github.com/laojianzi/laojianzi.github.io) - my blog https://blog.0xbb.dev
 - [laojianzi/soar](https://github.com/laojianzi/soar) - 适当重构 https://github.com/XiaoMi/soar 但功能不变
 - [laojianzi/setup-gitea](https://github.com/laojianzi/setup-gitea) - The missing action for Gitea
-- [laojianzi/blog-img](https://github.com/laojianzi/blog-img) - 博客的图片资源
 
 #### 🔭 Latest releases I've contributed to
 
