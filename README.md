@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.7.0](https://github.com/langgenius/dify/releases/tag/0.7.0), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.147.2](https://github.com/zed-industries/zed/releases/tag/v0.147.2), 1 week ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.6.16](https://github.com/langgenius/dify/releases/tag/0.6.16), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.4), 1 month ago) - ClickHouse SQL Parser writing in Go
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 4 months ago) - A lightweight, cloud-native data transfer agent and aggregator
@@ -53,11 +53,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
-- [sammorozov](https://github.com/sammorozov)
 - [jacobsomer](https://github.com/jacobsomer)
 - [odoochain](https://github.com/odoochain)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
+- [Peefy](https://github.com/Peefy)
 
 #### 📫 How to reach me
 
