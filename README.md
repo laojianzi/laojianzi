@@ -45,19 +45,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [fosd-project/FOSD](https://github.com/fosd-project/FOSD) - Framework of Operating System Development (today)
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (1 day ago)
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included. (3 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (4 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (4 days ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [jacobsomer](https://github.com/jacobsomer)
 - [odoochain](https://github.com/odoochain)
 - [fslmultiservice22](https://github.com/fslmultiservice22)
 - [tusharnew1](https://github.com/tusharnew1)
-- [Peefy](https://github.com/Peefy)
 
 #### 📫 How to reach me
 
