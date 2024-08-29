@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [CloudDetail/apo](https://github.com/CloudDetail/apo) - OpenTelemetry 结合 eBPF 的向导式可观测性产品 (today)
 - [hedge-ops/gpui-tutorial](https://github.com/hedge-ops/gpui-tutorial) - Tutorial for getting started with gpui a rust-driven UI framework with performance as a top priority, from the makers of zed (2 days ago)
 - [fosd-project/FOSD](https://github.com/fosd-project/FOSD) - Framework of Operating System Development (6 days ago)
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (1 week ago)
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included. (1 week ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
