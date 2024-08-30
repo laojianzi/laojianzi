@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (today)
 - [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (3 weeks ago)
 - [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
 - [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
 - [Fix the &#34;=&#34; operator should be present if the setting `variable` carries a value](https://github.com/AfterShip/clickhouse-sql-parser/pull/80) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
-- [Add support of the format clause for the select stmt](https://github.com/AfterShip/clickhouse-sql-parser/pull/79) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
 
 #### 📜 My recent blog posts
 
