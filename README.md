@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (today)
+- [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser (today)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (today)
 - [CloudDetail/apo](https://github.com/CloudDetail/apo) - OpenTelemetry 结合 eBPF 的向导式可观测性产品 (1 day ago)
 - [hedge-ops/gpui-tutorial](https://github.com/hedge-ops/gpui-tutorial) - Tutorial for getting started with gpui a rust-driven UI framework with performance as a top priority, from the makers of zed (3 days ago)
-- [fosd-project/FOSD](https://github.com/fosd-project/FOSD) - Framework of Operating System Development (1 week ago)
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (1 week ago)
-- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
