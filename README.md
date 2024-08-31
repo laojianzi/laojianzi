@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (today)
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (1 day ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 weeks ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (1 month ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (1 month ago)
@@ -20,15 +20,15 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.151.1-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.7.2](https://github.com/langgenius/dify/releases/tag/0.7.2), 4 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.151.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.7.2](https://github.com/langgenius/dify/releases/tag/0.7.2), 5 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 1 month ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.4), 2 months ago) - ClickHouse SQL Parser writing in Go
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 4 months ago) - A lightweight, cloud-native data transfer agent and aggregator
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (today)
+- [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 day ago)
 - [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (3 weeks ago)
 - [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
 - [Fix missing DROP keyword in alter table drop clause](https://github.com/AfterShip/clickhouse-sql-parser/pull/81) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (1 month ago)
@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (today)
-- [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser (today)
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (today)
-- [CloudDetail/apo](https://github.com/CloudDetail/apo) - OpenTelemetry 结合 eBPF 的向导式可观测性产品 (1 day ago)
-- [hedge-ops/gpui-tutorial](https://github.com/hedge-ops/gpui-tutorial) - Tutorial for getting started with gpui a rust-driven UI framework with performance as a top priority, from the makers of zed (3 days ago)
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (1 day ago)
+- [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser (1 day ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (1 day ago)
+- [CloudDetail/apo](https://github.com/CloudDetail/apo) - OpenTelemetry 结合 eBPF 的向导式可观测性产品 (2 days ago)
+- [hedge-ops/gpui-tutorial](https://github.com/hedge-ops/gpui-tutorial) - Tutorial for getting started with gpui a rust-driven UI framework with performance as a top priority, from the makers of zed (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
