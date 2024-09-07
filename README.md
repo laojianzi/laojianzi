@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.2](https://github.com/zed-industries/zed/releases/tag/v0.151.2), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.0-beta1](https://github.com/langgenius/dify/releases/tag/0.8.0-beta1), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.6](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.6), 2 days ago) - ClickHouse SQL Parser writing in Go
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.2](https://github.com/zed-industries/zed/releases/tag/v0.151.2), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.0-beta1](https://github.com/langgenius/dify/releases/tag/0.8.0-beta1), 3 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.6](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.6), 3 days ago) - ClickHouse SQL Parser writing in Go
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
