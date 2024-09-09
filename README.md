@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (1 week ago)
-- [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser (1 week ago)
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (1 week ago)
-- [CloudDetail/apo](https://github.com/CloudDetail/apo) - OpenTelemetry 结合 eBPF 的向导式可观测性产品 (1 week ago)
-- [hedge-ops/gpui-tutorial](https://github.com/hedge-ops/gpui-tutorial) - Tutorial for getting started with gpui a rust-driven UI framework with performance as a top priority, from the makers of zed (1 week ago)
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (today)
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language (today)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (today)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (today)
 
 #### 👯 Check out some of my recent followers
 
