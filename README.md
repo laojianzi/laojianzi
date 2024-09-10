@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (today)
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (today)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 day ago)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language (1 day ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
