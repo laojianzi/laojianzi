@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.2](https://github.com/zed-industries/zed/releases/tag/v0.151.2), 3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.0-beta1](https://github.com/langgenius/dify/releases/tag/0.8.0-beta1), 5 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.6](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.6), 5 days ago) - ClickHouse SQL Parser writing in Go
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.151.2](https://github.com/zed-industries/zed/releases/tag/v0.151.2), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.0-beta1](https://github.com/langgenius/dify/releases/tag/0.8.0-beta1), 6 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.6](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.6), 6 days ago) - ClickHouse SQL Parser writing in Go
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (today)
-- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language (today)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (today)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (today)
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 day ago)
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language (1 day ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
