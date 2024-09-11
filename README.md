@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch (today)
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (today)
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (1 day ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (1 day ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (2 days ago)
-- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language (2 days ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
