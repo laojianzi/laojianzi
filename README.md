@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [iamnbutler/gpui-kit](https://github.com/iamnbutler/gpui-kit) - gpui-kit is an (upcoming) open-source UI toolkit for gpui, the fast, native Rust GUI library. (today)
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.  (today)
 - [keisku/gmon](https://github.com/keisku/gmon) - An eBPF tool monitoring a goroutine (today)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (today)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (today)
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. (today)
 
 #### 👯 Check out some of my recent followers
 
