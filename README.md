@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (today)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 day ago)
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm. (1 day ago)
 - [iamnbutler/gpui-kit](https://github.com/iamnbutler/gpui-kit) - gpui-kit is an (upcoming) open-source UI toolkit for gpui, the fast, native Rust GUI library. (6 days ago)
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.  (6 days ago)
-- [keisku/gmon](https://github.com/keisku/gmon) - An eBPF tool monitoring a goroutine (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
