@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.3](https://github.com/langgenius/dify/releases/tag/0.8.3), 3 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.154.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.154.0-pre), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.8.3](https://github.com/langgenius/dify/releases/tag/0.8.3), 4 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.154.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.154.0-pre), 5 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.6](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.6), 2 weeks ago) - ClickHouse SQL Parser writing in Go
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 5 months ago) - A lightweight, cloud-native data transfer agent and aggregator
@@ -45,9 +45,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (4 days ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (5 days ago)
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm. (5 days ago)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (5 days ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (6 days ago)
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm. (6 days ago)
 - [iamnbutler/gpui-kit](https://github.com/iamnbutler/gpui-kit) - gpui-kit is an (upcoming) open-source UI toolkit for gpui, the fast, native Rust GUI library. (1 week ago)
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.  (1 week ago)
 
