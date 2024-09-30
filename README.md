@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit (today)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 day ago)
 - [cloudspannerecosystem/memefish](https://github.com/cloudspannerecosystem/memefish) - memefish is the foundation to analyze Spanner SQL (6 days ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 week ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
