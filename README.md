@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.10.0-beta1](https://github.com/langgenius/dify/releases/tag/0.10.0-beta1), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.154.3](https://github.com/zed-industries/zed/releases/tag/v0.154.3), 3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.7](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.7), 4 days ago) - ClickHouse SQL Parser writing in Go
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.10.0-beta1](https://github.com/langgenius/dify/releases/tag/0.10.0-beta1), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.154.3](https://github.com/zed-industries/zed/releases/tag/v0.154.3), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.7](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.7), 5 days ago) - ClickHouse SQL Parser writing in Go
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 2 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 6 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -45,9 +45,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit (today)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 day ago)
-- [cloudspannerecosystem/memefish](https://github.com/cloudspannerecosystem/memefish) - memefish is the foundation to analyze Spanner SQL (6 days ago)
+- [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit (1 day ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 days ago)
+- [cloudspannerecosystem/memefish](https://github.com/cloudspannerecosystem/memefish) - memefish is the foundation to analyze Spanner SQL (1 week ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 week ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
 
