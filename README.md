@@ -53,11 +53,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [sharadgaur](https://github.com/sharadgaur)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [sjkcdpc](https://github.com/sjkcdpc)
 - [eust-w](https://github.com/eust-w)
 - [jacobsomer](https://github.com/jacobsomer)
-- [odoochain](https://github.com/odoochain)
 
 #### 📫 How to reach me
 
