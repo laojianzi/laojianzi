@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.157.3-pre](https://github.com/zed-industries/zed/releases/tag/v0.157.3-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.9.1-fix1](https://github.com/langgenius/dify/releases/tag/0.9.1-fix1), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 4 days ago) - ClickHouse SQL Parser writing in Go
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.157.3-pre](https://github.com/zed-industries/zed/releases/tag/v0.157.3-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.9.1-fix1](https://github.com/langgenius/dify/releases/tag/0.9.1-fix1), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 5 days ago) - ClickHouse SQL Parser writing in Go
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1-rc2](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1-rc2), 3 months ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 6 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
@@ -36,7 +36,7 @@ I'm Jeff, a gopher.
 
 #### 📜 My recent blog posts
 
-- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (11 months ago)
+- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (1 year ago)
 - [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (1 year ago)
 
 #### 📓 Gists I wrote
@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [jaywcjlove/devtutor](https://github.com/jaywcjlove/devtutor) - DevTutor is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. (today)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 day ago)
-- [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite) - pure-Go SQLite driver for Go (SQLite embedded) (1 day ago)
-- [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company. (1 day ago)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. (2 days ago)
+- [jaywcjlove/devtutor](https://github.com/jaywcjlove/devtutor) - DevTutor is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. (1 day ago)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (2 days ago)
+- [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite) - pure-Go SQLite driver for Go (SQLite embedded) (2 days ago)
+- [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company. (2 days ago)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
