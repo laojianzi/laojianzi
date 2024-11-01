@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (today)
 - [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 day ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 weeks ago)
 - [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
 - [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (2 months ago)
-- [Fix missing type level in codec constraint while generating SQL](https://github.com/AfterShip/clickhouse-sql-parser/pull/82) on [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) (3 months ago)
 
 #### 📜 My recent blog posts
 
@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [GaloisInc/crucible](https://github.com/GaloisInc/crucible) - Crucible is a library for symbolic simulation of imperative programs (today)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (today)
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine (today)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (today)
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 day ago)
-- [eclipse/steady](https://github.com/eclipse/steady) - Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/ (3 days ago)
-- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. (1 week ago)
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
