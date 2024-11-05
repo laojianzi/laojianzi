@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.0](https://github.com/langgenius/dify/releases/tag/0.11.0), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.160.6-pre](https://github.com/zed-industries/zed/releases/tag/v0.160.6-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.10.2](https://github.com/langgenius/dify/releases/tag/0.10.2), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 4 weeks ago) - ClickHouse SQL Parser writing in Go
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
@@ -45,11 +45,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (today)
 - [GaloisInc/crucible](https://github.com/GaloisInc/crucible) - Crucible is a library for symbolic simulation of imperative programs (4 days ago)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (4 days ago)
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine (4 days ago)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (4 days ago)
-- [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
