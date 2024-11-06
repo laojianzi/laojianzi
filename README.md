@@ -22,9 +22,7 @@ I'm Jeff, a gopher.
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.160.7-pre](https://github.com/zed-industries/zed/releases/tag/v0.160.7-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.11.0](https://github.com/langgenius/dify/releases/tag/0.11.0), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ([v1.0.1](https://github.com/clickvisual/clickvisual/releases/tag/v1.0.1), 1 week ago) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 4 weeks ago) - ClickHouse SQL Parser writing in Go
-- [loggie-io/loggie](https://github.com/loggie-io/loggie) ([v1.5.0](https://github.com/loggie-io/loggie/releases/tag/v1.5.0), 7 months ago) - A lightweight, cloud-native data transfer agent and aggregator
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +43,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (today)
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM. Discord: https://discord.gg/uaCtrbbv (today)
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (today)
 - [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -  (today)
 - [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (1 day ago)
