@@ -43,7 +43,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM. Discord: https://discord.gg/uaCtrbbv (today)
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (today)
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (today)
 - [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -  (today)
 - [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (1 day ago)
