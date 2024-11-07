@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (6 days ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 months ago)
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (1 week ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (3 months ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (3 months ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (9 months ago)
@@ -20,17 +20,17 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.161.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.161.0-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.0](https://github.com/langgenius/dify/releases/tag/0.11.0), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 4 weeks ago) - ClickHouse SQL Parser writing in Go
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.161.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.161.0-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.0](https://github.com/langgenius/dify/releases/tag/0.11.0), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (5 days ago)
-- [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (6 days ago)
+- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (6 days ago)
+- [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 week ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 weeks ago)
 - [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
-- [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (2 months ago)
+- [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (3 months ago)
 
 #### 📜 My recent blog posts
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (today)
-- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (today)
-- [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -  (today)
-- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (1 day ago)
-- [GaloisInc/crucible](https://github.com/GaloisInc/crucible) - Crucible is a library for symbolic simulation of imperative programs (5 days ago)
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (1 day ago)
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (1 day ago)
+- [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -  (1 day ago)
+- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (2 days ago)
+- [GaloisInc/crucible](https://github.com/GaloisInc/crucible) - Crucible is a library for symbolic simulation of imperative programs (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
