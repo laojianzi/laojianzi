@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (today)
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE (1 day ago)
 - [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (2 days ago)
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (2 days ago)
 - [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -  (2 days ago)
-- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
