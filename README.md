@@ -20,15 +20,15 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.1](https://github.com/langgenius/dify/releases/tag/0.11.1), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.161.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.161.1-pre), 3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.1](https://github.com/langgenius/dify/releases/tag/0.11.1), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.161.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.161.1-pre), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
 
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (1 week ago)
 - [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 week ago)
-- [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 weeks ago)
+- [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (4 weeks ago)
 - [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
 - [feat: add decode option to json process tools](https://github.com/langgenius/dify/pull/7138) on [langgenius/dify](https://github.com/langgenius/dify) (3 months ago)
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML (today)
-- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage. (today)
-- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (3 days ago)
-- [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE (4 days ago)
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (5 days ago)
+- [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML (1 day ago)
+- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage. (1 day ago)
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics (4 days ago)
+- [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE (5 days ago)
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
