@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [QuesmaOrg/quesma](https://github.com/QuesmaOrg/quesma) - Programmable database gateway (today)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (today)
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers (today)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen &amp; voice recording for the age of super intelligence. get your data ready or be left behind (1 day ago)
 - [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML (2 days ago)
-- [mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
