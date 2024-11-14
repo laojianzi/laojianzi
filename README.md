@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
 - [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (today)
 - [QuesmaOrg/quesma](https://github.com/QuesmaOrg/quesma) - Programmable database gateway (1 day ago)
-- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
