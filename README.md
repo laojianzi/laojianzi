@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
+- [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (today)
 - [QuesmaOrg/quesma](https://github.com/QuesmaOrg/quesma) - Programmable database gateway (1 day ago)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust (1 day ago)
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers (1 day ago)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen &amp; voice recording for the age of super intelligence. get your data ready or be left behind (2 days ago)
-- [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report) - Convert Go test output to JUnit XML (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
