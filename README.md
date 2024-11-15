@@ -20,13 +20,13 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.1-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.1](https://github.com/langgenius/dify/releases/tag/0.11.1), 3 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.1-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.1](https://github.com/langgenius/dify/releases/tag/0.11.1), 4 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (1 week ago)
+- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (2 weeks ago)
 - [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 weeks ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 month ago)
 - [feat: add wrap expr support](https://github.com/laojianzi/kql-go/pull/5) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (today)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
-- [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (today)
-- [QuesmaOrg/quesma](https://github.com/QuesmaOrg/quesma) - Programmable database gateway (1 day ago)
+- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (1 day ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 day ago)
+- [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (1 day ago)
+- [QuesmaOrg/quesma](https://github.com/QuesmaOrg/quesma) - Programmable database gateway (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
