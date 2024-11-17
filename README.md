@@ -52,10 +52,10 @@ I'm Jeff, a gopher.
 #### 👯 Check out some of my recent followers
 
 - [idimetrix](https://github.com/idimetrix)
-- [deepabhyudaya](https://github.com/deepabhyudaya)
 - [sharadgaur](https://github.com/sharadgaur)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [sjkcdpc](https://github.com/sjkcdpc)
+- [eust-w](https://github.com/eust-w)
 
 #### 📫 How to reach me
 
