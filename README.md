@@ -43,7 +43,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - (MySQL|Postgres) Analytics, Reimagined (today)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (today)
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (4 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (4 days ago)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (4 days ago)
