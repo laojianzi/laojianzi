@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.2-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.2-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (today)
-- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (4 days ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (4 days ago)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (4 days ago)
-- [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (4 days ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (1 day ago)
+- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (5 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (5 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (5 days ago)
+- [yuchanns/all](https://github.com/yuchanns/all) - 🚀 all: A Parallelism Tool for Go (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
