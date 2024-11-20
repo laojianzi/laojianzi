@@ -8,7 +8,7 @@ I'm Jeff, a gopher.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (3 months ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (4 months ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (9 months ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.2-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.162.2-pre), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (today)
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (1 day ago)
-- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (5 days ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (5 days ago)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (5 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 day ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (2 days ago)
+- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (6 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (6 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
