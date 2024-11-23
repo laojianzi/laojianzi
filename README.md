@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.5](https://github.com/zed-industries/zed/releases/tag/v0.162.5), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), 4 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.5](https://github.com/zed-industries/zed/releases/tag/v0.162.5), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.11.2](https://github.com/langgenius/dify/releases/tag/0.11.2), 5 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
@@ -43,10 +43,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models. (today)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (2 days ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 days ago)
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (4 days ago)
+- [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models. (1 day ago)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (3 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (4 days ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (5 days ago)
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. (1 week ago)
 
 #### 👯 Check out some of my recent followers
