@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (today)
+- [zalando-incubator/kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) - General purpose metrics adapter for Kubernetes HPA metrics (today)
 - [kube-arbiter/arbiter](https://github.com/kube-arbiter/arbiter) - An extendable scheduling and scaling tool built on Kubernetes (today)
 - [AliyunContainerService/kubernetes-cronhpa-controller](https://github.com/AliyunContainerService/kubernetes-cronhpa-controller) - ⏰kubernetes-cronhpa-controller is a HPA controller that allows to scale your workload based on time schedule. (today)
 - [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses. (today)
-- [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - OpenTelemetry Compile-Time Instrumentation for Golang (1 day ago)
-- [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
