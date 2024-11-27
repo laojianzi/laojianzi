@@ -6,7 +6,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (3 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 months ago)
-- [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (3 months ago)
+- [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (4 months ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (4 months ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (10 months ago)
 
@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.12.1](https://github.com/langgenius/dify/releases/tag/0.12.1), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.5](https://github.com/zed-industries/zed/releases/tag/v0.162.5), 4 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.12.1](https://github.com/langgenius/dify/releases/tag/0.12.1), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.162.5](https://github.com/zed-industries/zed/releases/tag/v0.162.5), 5 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.3.8](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.3.8), 1 month ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (today)
-- [zalando-incubator/kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) - General purpose metrics adapter for Kubernetes HPA metrics (today)
-- [kube-arbiter/arbiter](https://github.com/kube-arbiter/arbiter) - An extendable scheduling and scaling tool built on Kubernetes (today)
-- [AliyunContainerService/kubernetes-cronhpa-controller](https://github.com/AliyunContainerService/kubernetes-cronhpa-controller) - ⏰kubernetes-cronhpa-controller is a HPA controller that allows to scale your workload based on time schedule. (today)
-- [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses. (today)
+- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (1 day ago)
+- [zalando-incubator/kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) - General purpose metrics adapter for Kubernetes HPA metrics (1 day ago)
+- [kube-arbiter/arbiter](https://github.com/kube-arbiter/arbiter) - An extendable scheduling and scaling tool built on Kubernetes (1 day ago)
+- [AliyunContainerService/kubernetes-cronhpa-controller](https://github.com/AliyunContainerService/kubernetes-cronhpa-controller) - ⏰kubernetes-cronhpa-controller is a HPA controller that allows to scale your workload based on time schedule. (1 day ago)
+- [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
