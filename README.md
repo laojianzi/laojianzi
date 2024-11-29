@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.  (today)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 day ago)
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license &amp; vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20&#43; build systems. (1 day ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (2 days ago)
 - [janderland/fql](https://github.com/janderland/fql) - Foundation DB Query Language (2 days ago)
-- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
