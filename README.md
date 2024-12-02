@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (today)
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.  (3 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (4 days ago)
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license &amp; vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20&#43; build systems. (4 days ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (5 days ago)
-- [janderland/fql](https://github.com/janderland/fql) - Foundation DB Query Language (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
