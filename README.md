@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (today)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (today)
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (today)
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (today)
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS (6 days ago)
-- [coderabbitai/dotfiles](https://github.com/coderabbitai/dotfiles) - A modern Zsh/tmux, Vim and Homebrew centric setup for macOS and Linux (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
