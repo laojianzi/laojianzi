@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.165.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.165.4-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.13.2](https://github.com/langgenius/dify/releases/tag/0.13.2), today) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.165.4-pre](https://github.com/zed-industries/zed/releases/tag/v0.165.4-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.13.2](https://github.com/langgenius/dify/releases/tag/0.13.2), 1 day ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.0](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.0), 1 week ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (today)
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (today)
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (today)
-- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (today)
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (today)
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 day ago)
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (1 day ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 day ago)
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (1 day ago)
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
