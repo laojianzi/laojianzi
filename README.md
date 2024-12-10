@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (today)
+- [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A text editor specialized for displaying and editing code documents. Written in pure Swift. (today)
+- [qiniu/reviewbot](https://github.com/qiniu/reviewbot) - Empower Your Code Quality with Self-Hosted Automated Analysis and Review (today)
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 day ago)
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS (1 day ago)
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 day ago)
-- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust (1 day ago)
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
