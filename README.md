@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! (today)
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more. (today)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 day ago)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (2 days ago)
 - [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A text editor specialized for displaying and editing code documents. Written in pure Swift. (2 days ago)
-- [qiniu/reviewbot](https://github.com/qiniu/reviewbot) - Empower Your Code Quality with Self-Hosted Automated Analysis and Review (2 days ago)
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
