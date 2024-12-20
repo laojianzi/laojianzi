@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze! (today)
 - [xlzd/gotp](https://github.com/xlzd/gotp) - Golang OTP(One-Time Password) Library. (2 days ago)
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go (2 days ago)
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (2 days ago)
 - [altence/lightence-ant-design-react-template](https://github.com/altence/lightence-ant-design-react-template) - Free and easy-to-use admin template based on React 17&#43; (3 days ago)
-- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
