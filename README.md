@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (today)
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze! (3 days ago)
 - [xlzd/gotp](https://github.com/xlzd/gotp) - Golang OTP(One-Time Password) Library. (5 days ago)
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go (5 days ago)
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
-- [altence/lightence-ant-design-react-template](https://github.com/altence/lightence-ant-design-react-template) - Free and easy-to-use admin template based on React 17&#43; (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
