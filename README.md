@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), today) - ClickHouse SQL Parser writing in Go
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.14.2](https://github.com/langgenius/dify/releases/tag/0.14.2), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.167.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.167.1-pre), 6 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.0](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.0), 3 weeks ago) - ClickHouse SQL Parser writing in Go
 
 #### 🔨 My recent Pull Requests
 
