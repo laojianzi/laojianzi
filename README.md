@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (today)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (3 days ago)
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (4 days ago)
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze! (1 week ago)
 - [xlzd/gotp](https://github.com/xlzd/gotp) - Golang OTP(One-Time Password) Library. (1 week ago)
-- [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
