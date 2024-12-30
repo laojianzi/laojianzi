@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 4 days ago) - ClickHouse SQL Parser writing in Go
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.14.2](https://github.com/langgenius/dify/releases/tag/0.14.2), 6 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 5 days ago) - ClickHouse SQL Parser writing in Go
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.14.2](https://github.com/langgenius/dify/releases/tag/0.14.2), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.167.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.167.1-pre), 1 week ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 #### 🔨 My recent Pull Requests
@@ -29,7 +29,7 @@ I'm Jeff, a gopher.
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 month ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 month ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (1 month ago)
-- [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 month ago)
+- [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
 
 #### 📜 My recent blog posts
@@ -43,9 +43,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (2 days ago)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (5 days ago)
-- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (6 days ago)
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (3 days ago)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (6 days ago)
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (1 week ago)
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze! (1 week ago)
 - [xlzd/gotp](https://github.com/xlzd/gotp) - Golang OTP(One-Time Password) Library. (1 week ago)
 
