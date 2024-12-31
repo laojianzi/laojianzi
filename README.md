@@ -43,19 +43,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (today)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (4 days ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (1 week ago)
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (1 week ago)
-- [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [thegithubmenace](https://github.com/thegithubmenace)
 - [XiaomingX](https://github.com/XiaomingX)
 - [nholuongut](https://github.com/nholuongut)
 - [ipqwery](https://github.com/ipqwery)
 - [idimetrix](https://github.com/idimetrix)
-- [sharadgaur](https://github.com/sharadgaur)
 
 #### 📫 How to reach me
 
