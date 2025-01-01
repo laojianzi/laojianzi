@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 6 days ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 1 week ago) - ClickHouse SQL Parser writing in Go
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.14.2](https://github.com/langgenius/dify/releases/tag/0.14.2), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.167.1-pre](https://github.com/zed-industries/zed/releases/tag/v0.167.1-pre), 1 week ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
@@ -43,9 +43,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (today)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
-- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (4 days ago)
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (1 day ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 days ago)
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (5 days ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (1 week ago)
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (1 week ago)
 
