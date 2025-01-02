@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (today)
+- [KnockOutEZ/diffdeck](https://github.com/KnockOutEZ/diffdeck) - DiffDeck: 🚀 Streamline Code Reviews and Collaboration with Smart Diffs, Security Scans, and AI-Ready Outputs! (today)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (2 days ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (6 days ago)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (1 week ago)
-- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
