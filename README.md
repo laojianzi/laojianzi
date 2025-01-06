@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (today)
+- [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool (today)
 - [apenella/go-ansible](https://github.com/apenella/go-ansible) - Go-ansible is a Go package that enables the execution of ansible-playbook or ansible commands directly from Golang applications. It supports a wide range of options for each command, enabling smooth integration of Ansible functionality into your projects. (4 days ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (4 days ago)
 - [KnockOutEZ/diffdeck](https://github.com/KnockOutEZ/diffdeck) - DiffDeck: 🚀 Streamline Code Reviews and Collaboration with Smart Diffs, Security Scans, and AI-Ready Outputs! (4 days ago)
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (6 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
