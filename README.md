@@ -26,7 +26,7 @@ I'm Jeff, a gopher.
 
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (2 months ago)
-- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (2 months ago)
+- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (3 months ago)
 - [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 months ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 months ago)
 
