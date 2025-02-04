@@ -41,7 +41,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (1 week ago)
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (2 weeks ago)
 - [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang (2 weeks ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (2 weeks ago)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (4 weeks ago)
