@@ -41,11 +41,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (today)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (3 weeks ago)
 - [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang (3 weeks ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (3 weeks ago)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (1 month ago)
-- [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
