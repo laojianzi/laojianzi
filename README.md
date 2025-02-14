@@ -4,6 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (today)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (6 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (6 months ago)
@@ -21,6 +22,7 @@ I'm Jeff, a gopher.
 
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.15.3](https://github.com/langgenius/dify/releases/tag/0.15.3), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 1 month ago) - ClickHouse SQL Parser writing in Go
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([1.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/1.0.0), 2 years ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
