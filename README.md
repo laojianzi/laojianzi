@@ -51,11 +51,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [Connor9994](https://github.com/Connor9994)
 - [nholuongut](https://github.com/nholuongut)
 - [ipqwery](https://github.com/ipqwery)
 - [idimetrix](https://github.com/idimetrix)
-- [sharadgaur](https://github.com/sharadgaur)
 
 #### 📫 How to reach me
 
