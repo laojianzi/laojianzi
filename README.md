@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (3 days ago)
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (4 days ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (6 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (6 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.0), 3 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.0), 4 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.15.3](https://github.com/langgenius/dify/releases/tag/0.15.3), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.1](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.1), 1 month ago) - ClickHouse SQL Parser writing in Go
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (today)
-- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online. (today)
-- [1024house/1024house](https://github.com/1024house/1024house) - 让每个程序员都能享受别墅跑车的乐趣 (3 days ago)
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (6 days ago)
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (3 weeks ago)
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (1 day ago)
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online. (1 day ago)
+- [1024house/1024house](https://github.com/1024house/1024house) - 让每个程序员都能享受别墅跑车的乐趣 (4 days ago)
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (1 week ago)
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
