@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [jdx/hk](https://github.com/jdx/hk) - git hook and pre-commit lint manager (today)
+- [tektoncd/chains](https://github.com/tektoncd/chains) - Supply Chain Security in Tekton Pipelines (today)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (1 day ago)
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online. (1 day ago)
 - [1024house/1024house](https://github.com/1024house/1024house) - 让每个程序员都能享受别墅跑车的乐趣 (4 days ago)
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (1 week ago)
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
