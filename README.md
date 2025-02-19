@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (today)
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging. (today)
 - [jdx/hk](https://github.com/jdx/hk) - git hook and pre-commit lint manager (1 day ago)
 - [tektoncd/chains](https://github.com/tektoncd/chains) - Supply Chain Security in Tekton Pipelines (1 day ago)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (2 days ago)
-- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online. (2 days ago)
-- [1024house/1024house](https://github.com/1024house/1024house) - 让每个程序员都能享受别墅跑车的乐趣 (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
