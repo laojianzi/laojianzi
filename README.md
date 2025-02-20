@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (today)
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1&#39;s CoT reasoning traces with Anthropic Claude models. (1 day ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (1 day ago)
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging. (1 day ago)
 - [jdx/hk](https://github.com/jdx/hk) - git hook and pre-commit lint manager (2 days ago)
-- [tektoncd/chains](https://github.com/tektoncd/chains) - Supply Chain Security in Tekton Pipelines (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
