@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (6 days ago)
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (1 week ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (6 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (6 months ago)
@@ -20,9 +20,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.3](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.3), 1 day ago) - ClickHouse SQL Parser writing in Go
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.0), 6 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
-- [langgenius/dify](https://github.com/langgenius/dify) ([0.15.3](https://github.com/langgenius/dify/releases/tag/0.15.3), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.3](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.3), 2 days ago) - ClickHouse SQL Parser writing in Go
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.0), 1 week ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [langgenius/dify](https://github.com/langgenius/dify) ([0.15.3](https://github.com/langgenius/dify/releases/tag/0.15.3), 2 weeks ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 
 #### 🔨 My recent Pull Requests
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. (today)
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (today)
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1&#39;s CoT reasoning traces with Anthropic Claude models. (1 day ago)
-- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (1 day ago)
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging. (1 day ago)
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. (1 day ago)
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (1 day ago)
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1&#39;s CoT reasoning traces with Anthropic Claude models. (2 days ago)
+- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (2 days ago)
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
