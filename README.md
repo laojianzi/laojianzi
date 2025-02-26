@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.3](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.3), 6 days ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.3](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.3), 1 week ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.0), 1 week ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [langgenius/dify](https://github.com/langgenius/dify) ([0.15.3](https://github.com/langgenius/dify/releases/tag/0.15.3), 2 weeks ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [never-lang/never](https://github.com/never-lang/never) - Never: statically typed, embeddable functional programming language. (today)
-- [vekatze/neut](https://github.com/vekatze/neut) - A programming language with static memory management based on λ-calculus (today)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (today)
-- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. (today)
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (today)
+- [never-lang/never](https://github.com/never-lang/never) - Never: statically typed, embeddable functional programming language. (1 day ago)
+- [vekatze/neut](https://github.com/vekatze/neut) - A programming language with static memory management based on λ-calculus (1 day ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
+- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. (1 day ago)
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
