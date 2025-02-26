@@ -52,10 +52,10 @@ I'm Jeff, a gopher.
 #### 👯 Check out some of my recent followers
 
 - [elhadjx](https://github.com/elhadjx)
-- [XiaomingX](https://github.com/XiaomingX)
 - [Connor9994](https://github.com/Connor9994)
 - [nholuongut](https://github.com/nholuongut)
 - [ipqwery](https://github.com/ipqwery)
+- [idimetrix](https://github.com/idimetrix)
 
 #### 📫 How to reach me
 
