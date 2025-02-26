@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (today)
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. (today)
 - [never-lang/never](https://github.com/never-lang/never) - Never: statically typed, embeddable functional programming language. (1 day ago)
 - [vekatze/neut](https://github.com/vekatze/neut) - A programming language with static memory management based on λ-calculus (1 day ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
-- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. (1 day ago)
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
