@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (today)
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (today)
+- [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training. (today)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (2 days ago)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. (2 days ago)
-- [never-lang/never](https://github.com/never-lang/never) - Never: statically typed, embeddable functional programming language. (3 days ago)
-- [vekatze/neut](https://github.com/vekatze/neut) - A programming language with static memory management based on λ-calculus (3 days ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
