@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (today)
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms. (today)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (3 days ago)
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents! (3 days ago)
 - [DeepSourceCorp/globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter. (3 days ago)
-- [iamtelescope/telescope](https://github.com/iamtelescope/telescope) - Web-based log viewer UI. Explore logs data stored in ClickHouse (3 days ago)
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
