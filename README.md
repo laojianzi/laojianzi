@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.0.0](https://github.com/langgenius/dify/releases/tag/1.0.0), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.4](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.4), 1 week ago) - ClickHouse SQL Parser writing in Go
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [datasapiens/cachier](https://github.com/datasapiens/cachier) - Golang cache interface (1 day ago)
-- [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace. (1 day ago)
-- [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services. (1 day ago)
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (2 days ago)
-- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms. (2 days ago)
+- [datasapiens/cachier](https://github.com/datasapiens/cachier) - Golang cache interface (2 days ago)
+- [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace. (2 days ago)
+- [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services. (2 days ago)
+- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (3 days ago)
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
