@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (today)
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (today)
 - [datasapiens/cachier](https://github.com/datasapiens/cachier) - Golang cache interface (3 days ago)
 - [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace. (3 days ago)
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services. (3 days ago)
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
