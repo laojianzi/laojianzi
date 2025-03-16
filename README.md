@@ -51,11 +51,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [psemicol](https://github.com/psemicol)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [elhadjx](https://github.com/elhadjx)
 - [Connor9994](https://github.com/Connor9994)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 📫 How to reach me
 
