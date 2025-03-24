@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world (today)
 - [Codium-ai/gradle-cover-agent](https://github.com/Codium-ai/gradle-cover-agent) - The Gradle Cover Agent Plugin is designed to help you increase code coverage in your Java projects. It integrates with Gradle to provide tasks that can be configured to run code coverage tools and report the results. (1 week ago)
 - [qodo-ai/qodo-ci](https://github.com/qodo-ai/qodo-ci) - Increase your code coverage (1 week ago)
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 week ago)
 - [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
