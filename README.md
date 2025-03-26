@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (today)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (today)
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world (2 days ago)
 - [Codium-ai/gradle-cover-agent](https://github.com/Codium-ai/gradle-cover-agent) - The Gradle Cover Agent Plugin is designed to help you increase code coverage in your Java projects. It integrates with Gradle to provide tasks that can be configured to run code coverage tools and report the results. (1 week ago)
 - [qodo-ai/qodo-ci](https://github.com/qodo-ai/qodo-ci) - Increase your code coverage (1 week ago)
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
