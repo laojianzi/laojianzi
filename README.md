@@ -7,7 +7,7 @@ I'm Jeff, a gopher.
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (1 month ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (3 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (7 months ago)
-- [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (7 months ago)
+- [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (8 months ago)
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) - ClickHouse SQL Parser writing in Go (8 months ago)
 
 #### 🌱 My latest projects
@@ -20,14 +20,14 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.5](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.5), 2 days ago) - ClickHouse SQL Parser writing in Go
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.1.3](https://github.com/langgenius/dify/releases/tag/1.1.3), 2 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 1 week ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.5](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.5), 3 days ago) - ClickHouse SQL Parser writing in Go
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.1.3](https://github.com/langgenius/dify/releases/tag/1.1.3), 3 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 2 weeks ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 months ago)
-- [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (3 months ago)
+- [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (4 months ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (4 months ago)
 - [feat: add wildcard expr](https://github.com/laojianzi/kql-go/pull/7) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (4 months ago)
 - [refactor: tidy up the code for better readability](https://github.com/laojianzi/kql-go/pull/6) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (5 months ago)
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (today)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (today)
-- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world (2 days ago)
-- [Codium-ai/gradle-cover-agent](https://github.com/Codium-ai/gradle-cover-agent) - The Gradle Cover Agent Plugin is designed to help you increase code coverage in your Java projects. It integrates with Gradle to provide tasks that can be configured to run code coverage tools and report the results. (1 week ago)
-- [qodo-ai/qodo-ci](https://github.com/qodo-ai/qodo-ci) - Increase your code coverage (1 week ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 day ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 day ago)
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world (3 days ago)
+- [Codium-ai/gradle-cover-agent](https://github.com/Codium-ai/gradle-cover-agent) - The Gradle Cover Agent Plugin is designed to help you increase code coverage in your Java projects. It integrates with Gradle to provide tasks that can be configured to run code coverage tools and report the results. (2 weeks ago)
+- [qodo-ai/qodo-ci](https://github.com/qodo-ai/qodo-ci) - Increase your code coverage (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
