@@ -55,7 +55,7 @@ I'm Jeff, a gopher.
 - [elhadjx](https://github.com/elhadjx)
 - [Connor9994](https://github.com/Connor9994)
 - [nholuongut](https://github.com/nholuongut)
-- [ipqwery](https://github.com/ipqwery)
+- [idimetrix](https://github.com/idimetrix)
 
 #### 📫 How to reach me
 
