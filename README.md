@@ -43,9 +43,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (today)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (6 days ago)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (6 days ago)
+- [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (1 day ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 week ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world (1 week ago)
 - [Codium-ai/gradle-cover-agent](https://github.com/Codium-ai/gradle-cover-agent) - The Gradle Cover Agent Plugin is designed to help you increase code coverage in your Java projects. It integrates with Gradle to provide tasks that can be configured to run code coverage tools and report the results. (2 weeks ago)
 
