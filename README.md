@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. (today)
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (today)
+- [google/A2A](https://github.com/google/A2A) -  (today)
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (3 days ago)
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (3 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 days ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (4 days ago)
-- [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
