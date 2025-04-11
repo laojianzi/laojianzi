@@ -45,7 +45,7 @@ I'm Jeff, a gopher.
 
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. (today)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (today)
-- [google/A2A](https://github.com/google/A2A) -  (today)
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (today)
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (3 days ago)
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (3 days ago)
 
