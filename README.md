@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server (today)
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (1 day ago)
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format (4 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (4 days ago)
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows. (6 days ago)
-- [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
