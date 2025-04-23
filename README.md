@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (today)
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server (1 day ago)
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 days ago)
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format (5 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (5 days ago)
-- [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
