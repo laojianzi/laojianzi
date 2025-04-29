@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App  (today)
 - [hackintosh-club/Lenovo-QiTian-M437](https://github.com/hackintosh-club/Lenovo-QiTian-M437) - Hackintosh OpenCore 0.9.7 macos 12 Monertey and 13 Ventura (2 days ago)
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (2 days ago)
 - [robustmq/robustmq](https://github.com/robustmq/robustmq) - RobustMQ is a next-generation, high-performance, cloud-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities. (4 days ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (6 days ago)
-- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
