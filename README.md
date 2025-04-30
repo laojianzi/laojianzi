@@ -43,19 +43,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool. (today)
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (today)
 - [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (1 day ago)
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App  (1 day ago)
 - [hackintosh-club/Lenovo-QiTian-M437](https://github.com/hackintosh-club/Lenovo-QiTian-M437) - Hackintosh OpenCore 0.9.7 macos 12 Monertey and 13 Ventura (3 days ago)
-- [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (3 days ago)
-- [robustmq/robustmq](https://github.com/robustmq/robustmq) - RobustMQ is a next-generation, high-performance, cloud-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [elhadjx](https://github.com/elhadjx)
 - [Connor9994](https://github.com/Connor9994)
 - [nholuongut](https://github.com/nholuongut)
 - [idimetrix](https://github.com/idimetrix)
+- [sharadgaur](https://github.com/sharadgaur)
 
 #### 📫 How to reach me
 
