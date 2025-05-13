@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 4 days ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 5 days ago) - ClickHouse SQL Parser writing in Go
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.3.1](https://github.com/langgenius/dify/releases/tag/1.3.1), 2 weeks ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 2 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
@@ -45,8 +45,8 @@ I'm Jeff, a gopher.
 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool. (1 week ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
-- [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (1 week ago)
-- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App  (1 week ago)
+- [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (2 weeks ago)
+- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App  (2 weeks ago)
 - [hackintosh-club/Lenovo-QiTian-M437](https://github.com/hackintosh-club/Lenovo-QiTian-M437) - Hackintosh OpenCore 0.9.7 macos 12 Monertey and 13 Ventura (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
