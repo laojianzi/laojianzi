@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 5 days ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 6 days ago) - ClickHouse SQL Parser writing in Go
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.3.1](https://github.com/langgenius/dify/releases/tag/1.3.1), 2 weeks ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 2 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
@@ -43,10 +43,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [voideditor/void](https://github.com/voideditor/void) -  (today)
-- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (today)
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool. (1 week ago)
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
+- [voideditor/void](https://github.com/voideditor/void) -  (1 day ago)
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (1 day ago)
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool. (2 weeks ago)
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 - [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
