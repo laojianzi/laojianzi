@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (today)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (today)
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI (today)
 - [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. (1 day ago)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 day ago)
-- [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI&#39;s official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀 (1 week ago)
-- [voideditor/void](https://github.com/voideditor/void) -  (1 week ago)
-- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
