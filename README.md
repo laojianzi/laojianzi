@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.4.0](https://github.com/langgenius/dify/releases/tag/1.4.0), 6 days ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 1 week ago) - ClickHouse SQL Parser writing in Go
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.4.0](https://github.com/langgenius/dify/releases/tag/1.4.0), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 2 weeks ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 2 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (today)
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (today)
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI (today)
-- [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. (1 day ago)
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 day ago)
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI (1 day ago)
+- [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. (2 days ago)
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
