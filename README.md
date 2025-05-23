@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (today)
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. (today)
+- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI&#43;IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n (today)
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language (today)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (2 days ago)
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (2 days ago)
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI (2 days ago)
-- [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
