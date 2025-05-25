@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (1 day ago)
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. (1 day ago)
-- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI&#43;IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n (1 day ago)
-- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language (1 day ago)
-- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (3 days ago)
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (2 days ago)
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. (2 days ago)
+- [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI&#43;IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n (2 days ago)
+- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language (2 days ago)
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
