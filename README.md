@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (today)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (today)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (1 week ago)
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. (1 week ago)
 - [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI&#43;IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n (1 week ago)
-- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language (1 week ago)
-- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
