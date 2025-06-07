@@ -21,12 +21,12 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.4.1](https://github.com/langgenius/dify/releases/tag/1.4.1), 1 week ago) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 4 weeks ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.9](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.9), 1 month ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 2 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (3 days ago)
+- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (4 days ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (1 month ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (6 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (6 months ago)
@@ -43,8 +43,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (3 days ago)
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (3 days ago)
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (4 days ago)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (4 days ago)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (2 weeks ago)
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. (2 weeks ago)
 - [tuya/TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI&#43;IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n (2 weeks ago)
