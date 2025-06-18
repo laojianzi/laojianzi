@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.4.3](https://github.com/langgenius/dify/releases/tag/1.4.3), 1 day ago) - Production-ready platform for agentic workflow development.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 1 day ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.4.3](https://github.com/langgenius/dify/releases/tag/1.4.3), 2 days ago) - Production-ready platform for agentic workflow development.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 1 week ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 3 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
