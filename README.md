@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (today)
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (today)
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (3 days ago)
 - [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (5 days ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 week ago)
-- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (2 weeks ago)
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
