@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.5.0](https://github.com/langgenius/dify/releases/tag/1.5.0), today) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.5.0](https://github.com/langgenius/dify/releases/tag/1.5.0), 1 day ago) - Production-ready platform for agentic workflow development.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 2 weeks ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 3 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
@@ -44,9 +44,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (2 days ago)
-- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (2 days ago)
-- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (5 days ago)
+- [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (3 days ago)
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (3 days ago)
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (6 days ago)
 - [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (1 week ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 weeks ago)
 
