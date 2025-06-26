@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (today)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (today)
 - [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (3 days ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (3 days ago)
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (6 days ago)
-- [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (1 week ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
