@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.5.0](https://github.com/langgenius/dify/releases/tag/1.5.0), 3 days ago) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.5.0](https://github.com/langgenius/dify/releases/tag/1.5.0), 4 days ago) - Production-ready platform for agentic workflow development.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 2 weeks ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 3 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
@@ -31,7 +31,7 @@ I'm Jeff, a gopher.
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (2 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (7 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (7 months ago)
-- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (7 months ago)
+- [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (8 months ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (2 days ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 days ago)
-- [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (5 days ago)
-- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (5 days ago)
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (3 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 days ago)
+- [iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - Repo for learning observability (6 days ago)
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (6 days ago)
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
