@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (4 weeks ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (1 month ago)
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (4 months ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (7 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (11 months ago)
@@ -22,13 +22,13 @@ I'm Jeff, a gopher.
 
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.5.1](https://github.com/langgenius/dify/releases/tag/1.5.1), 1 week ago) - Production-ready platform for agentic workflow development.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 4 weeks ago) - ClickHouse SQL Parser writing in Go
+- [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 1 month ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 3 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (1 month ago)
-- [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (2 months ago)
+- [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (3 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (7 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (7 months ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (8 months ago)
@@ -44,11 +44,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (1 day ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 day ago)
+- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (2 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (2 days ago)
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications (1 week ago)
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (1 week ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (2 weeks ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
