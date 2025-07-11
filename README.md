@@ -20,10 +20,10 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.6.0](https://github.com/langgenius/dify/releases/tag/1.6.0), today) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.6.0](https://github.com/langgenius/dify/releases/tag/1.6.0), 1 day ago) - Production-ready platform for agentic workflow development.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.0.3](https://github.com/google/osv-scanner/releases/tag/v2.0.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 1 month ago) - ClickHouse SQL Parser writing in Go
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 3 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
@@ -44,9 +44,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (today)
-- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (2 days ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (2 days ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (1 day ago)
+- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (3 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (3 days ago)
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications (1 week ago)
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (2 weeks ago)
 
