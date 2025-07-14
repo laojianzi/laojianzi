@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (1 month ago)
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (4 months ago)
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (5 months ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (7 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (11 months ago)
 - [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter (11 months ago)
@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.1.0](https://github.com/google/osv-scanner/releases/tag/v2.1.0), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.6.0](https://github.com/langgenius/dify/releases/tag/1.6.0), 3 days ago) - Production-ready platform for agentic workflow development.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.1.0](https://github.com/google/osv-scanner/releases/tag/v2.1.0), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.6.0](https://github.com/langgenius/dify/releases/tag/1.6.0), 4 days ago) - Production-ready platform for agentic workflow development.
 - [AfterShip/clickhouse-sql-parser](https://github.com/AfterShip/clickhouse-sql-parser) ([v0.4.10](https://github.com/AfterShip/clickhouse-sql-parser/releases/tag/v0.4.10), 1 month ago) - ClickHouse SQL Parser writing in Go
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
@@ -44,10 +44,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (3 days ago)
-- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (5 days ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (5 days ago)
-- [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications (1 week ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (4 days ago)
+- [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition. (6 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (6 days ago)
+- [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications (2 weeks ago)
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
