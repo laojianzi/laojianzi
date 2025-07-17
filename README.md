@@ -43,19 +43,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (today)
+- [kirodotdev/spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro) - Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it! (today)
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production. (today)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 day ago)
 - [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step. (3 days ago)
-- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 (3 days ago)
-- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 (3 days ago)
-- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [filedonkey](https://github.com/filedonkey)
 - [hashmap-kz](https://github.com/hashmap-kz)
 - [seckinyasar](https://github.com/seckinyasar)
 - [elhadjx](https://github.com/elhadjx)
 - [Connor9994](https://github.com/Connor9994)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 📫 How to reach me
 
