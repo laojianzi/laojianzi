@@ -54,8 +54,8 @@ I'm Jeff, a gopher.
 - [XiaomingX](https://github.com/XiaomingX)
 - [filedonkey](https://github.com/filedonkey)
 - [hashmap-kz](https://github.com/hashmap-kz)
-- [seckinyasar](https://github.com/seckinyasar)
 - [elhadjx](https://github.com/elhadjx)
+- [Connor9994](https://github.com/Connor9994)
 
 #### 📫 How to reach me
 
