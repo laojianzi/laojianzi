@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [yuchanns/copilot-openai-api](https://github.com/yuchanns/copilot-openai-api) - A FastAPI proxy server that seamlessly turns GitHub Copilot&#39;s chat completion/embeddings capabilities into OpenAI compatible API service. (1 day ago)
-- [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. (1 day ago)
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (5 days ago)
-- [kirodotdev/spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro) - Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it! (5 days ago)
-- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production. (5 days ago)
+- [yuchanns/copilot-openai-api](https://github.com/yuchanns/copilot-openai-api) - A FastAPI proxy server that seamlessly turns GitHub Copilot&#39;s chat completion/embeddings capabilities into OpenAI compatible API service. (2 days ago)
+- [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. (2 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (6 days ago)
+- [kirodotdev/spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro) - Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it! (6 days ago)
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
