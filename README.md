@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [langgenius/dify](https://github.com/langgenius/dify) ([1.7.0](https://github.com/langgenius/dify/releases/tag/1.7.0), today) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) ([1.7.0](https://github.com/langgenius/dify/releases/tag/1.7.0), 1 day ago) - Production-ready platform for agentic workflow development.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.1.0](https://github.com/google/osv-scanner/releases/tag/v2.1.0), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [yuchanns/copilot-openai-api](https://github.com/yuchanns/copilot-openai-api) - A FastAPI proxy server that seamlessly turns GitHub Copilot&#39;s chat completion/embeddings capabilities into OpenAI compatible API service. (2 days ago)
-- [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. (2 days ago)
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (6 days ago)
-- [kirodotdev/spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro) - Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it! (6 days ago)
-- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production. (6 days ago)
+- [yuchanns/copilot-openai-api](https://github.com/yuchanns/copilot-openai-api) - A FastAPI proxy server that seamlessly turns GitHub Copilot&#39;s chat completion/embeddings capabilities into OpenAI compatible API service. (3 days ago)
+- [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. (3 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (1 week ago)
+- [kirodotdev/spirit-of-kiro](https://github.com/kirodotdev/spirit-of-kiro) - Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it! (1 week ago)
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
