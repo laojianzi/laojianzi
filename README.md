@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) -  (today)
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. (1 day ago)
 - [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.   (1 day ago)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (4 days ago)
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. (4 days ago)
-- [yuchanns/copilot-openai-api](https://github.com/yuchanns/copilot-openai-api) - A FastAPI proxy server that seamlessly turns GitHub Copilot&#39;s chat completion/embeddings capabilities into OpenAI compatible API service. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
