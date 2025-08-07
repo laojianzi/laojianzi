@@ -19,8 +19,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.0](https://github.com/google/osv-scanner/releases/tag/v2.2.0), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.7.1](https://github.com/langgenius/dify/releases/tag/1.7.1), 1 week ago) - Production-ready platform for agentic workflow development.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.1.0](https://github.com/google/osv-scanner/releases/tag/v2.1.0), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
