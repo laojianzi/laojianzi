@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (today)
+- [SchwarzIT/hypermatch](https://github.com/SchwarzIT/hypermatch) - hypermatch is a high-performance ⚡ Go library designed for rapid matching of a large number of rules to events. It processes thousands of events per second 🚀 against extensive rule sets in-memory with minimal latency ⏱️. (today)
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS &#43; Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) (1 week ago)
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) -  (1 week ago)
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. (1 week ago)
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.   (1 week ago)
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
