@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.0](https://github.com/google/osv-scanner/releases/tag/v2.2.0), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.0](https://github.com/google/osv-scanner/releases/tag/v2.2.0), 1 day ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [langgenius/dify](https://github.com/langgenius/dify) ([1.7.1](https://github.com/langgenius/dify/releases/tag/1.7.1), 1 week ago) - Production-ready platform for agentic workflow development.
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
@@ -38,12 +38,12 @@ I'm Jeff, a gopher.
 
 #### 📓 Gists I wrote
 
-- [ubuntu-14.04-alisource.list](https://gist.github.com/07e2a6bf71a7457b6bd0526b174e744d) (5 years ago)
+- [ubuntu-14.04-alisource.list](https://gist.github.com/07e2a6bf71a7457b6bd0526b174e744d) (6 years ago)
 
 #### ⭐ Recent Stars
 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (today)
-- [SchwarzIT/hypermatch](https://github.com/SchwarzIT/hypermatch) - hypermatch is a high-performance ⚡ Go library designed for rapid matching of a large number of rules to events. It processes thousands of events per second 🚀 against extensive rule sets in-memory with minimal latency ⏱️. (today)
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (1 day ago)
+- [SchwarzIT/hypermatch](https://github.com/SchwarzIT/hypermatch) - hypermatch is a high-performance ⚡ Go library designed for rapid matching of a large number of rules to events. It processes thousands of events per second 🚀 against extensive rule sets in-memory with minimal latency ⏱️. (1 day ago)
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS &#43; Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) (1 week ago)
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) -  (1 week ago)
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. (1 week ago)
