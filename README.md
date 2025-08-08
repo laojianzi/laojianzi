@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (today)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
+- [ccfos/huatuo](https://github.com/ccfos/huatuo) - HUATUO（华佗）是由滴滴开源并依托 CCF 开源发展技术委员会孵化的云原生操作系统可观测性项目，专注于为复杂云原生环境提供操作系统内核级深度观测能力。 (today)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (1 day ago)
-- [SchwarzIT/hypermatch](https://github.com/SchwarzIT/hypermatch) - hypermatch is a high-performance ⚡ Go library designed for rapid matching of a large number of rules to events. It processes thousands of events per second 🚀 against extensive rule sets in-memory with minimal latency ⏱️. (1 day ago)
-- [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS &#43; Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) (1 week ago)
-- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) -  (1 week ago)
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
