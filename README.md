@@ -19,8 +19,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.0](https://github.com/google/osv-scanner/releases/tag/v2.2.0), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 4 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.0](https://github.com/google/osv-scanner/releases/tag/v2.2.0), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 5 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
@@ -41,11 +41,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (1 day ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [ccfos/huatuo](https://github.com/ccfos/huatuo) - HUATUO（华佗）是由滴滴开源并依托 CCF 开源发展技术委员会孵化的云原生操作系统可观测性项目，专注于为复杂云原生环境提供操作系统内核级深度观测能力。 (1 day ago)
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (2 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [ccfos/huatuo](https://github.com/ccfos/huatuo) - HUATUO（华佗）是由滴滴开源并依托 CCF 开源发展技术委员会孵化的云原生操作系统可观测性项目，专注于为复杂云原生环境提供操作系统内核级深度观测能力。 (2 days ago)
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
