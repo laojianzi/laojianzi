@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.1](https://github.com/google/osv-scanner/releases/tag/v2.2.1), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.1](https://github.com/google/osv-scanner/releases/tag/v2.2.1), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 5 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (today)
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (today)
-- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (1 day ago)
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 day ago)
-- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (2 days ago)
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (1 day ago)
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (1 day ago)
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (2 days ago)
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (2 days ago)
+- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
