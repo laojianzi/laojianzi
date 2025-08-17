@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.1](https://github.com/google/osv-scanner/releases/tag/v2.2.1), 5 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.1](https://github.com/google/osv-scanner/releases/tag/v2.2.1), 6 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 5 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [yuchanns/ltask-go](https://github.com/yuchanns/ltask-go) - A lua task library that implements an n:m scheduler, runs M lua VMs on N OS threads. (2 days ago)
-- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (3 days ago)
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (3 days ago)
-- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (4 days ago)
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (4 days ago)
+- [yuchanns/ltask-go](https://github.com/yuchanns/ltask-go) - A lua task library that implements an n:m scheduler, runs M lua VMs on N OS threads. (3 days ago)
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform (4 days ago)
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (4 days ago)
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (5 days ago)
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
