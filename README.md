@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.2](https://github.com/google/osv-scanner/releases/tag/v2.2.2), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.2](https://github.com/google/osv-scanner/releases/tag/v2.2.2), 4 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 5 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 day ago)
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup (1 day ago)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (2 days ago)
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (5 days ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (2 days ago)
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup (2 days ago)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (3 days ago)
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (6 days ago)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings. (1 week ago)
 
 #### 👯 Check out some of my recent followers
