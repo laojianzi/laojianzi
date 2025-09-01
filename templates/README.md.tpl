@@ -22,11 +22,6 @@ I'm Jeff, a gopher.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 📓 Gists I wrote
 {{range gists 3}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
