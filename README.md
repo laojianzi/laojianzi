@@ -29,11 +29,6 @@ I'm Jeff, a gopher.
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (9 months ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (10 months ago)
 
-#### 📜 My recent blog posts
-
-- [为 bitnami/kafka 添加内网 SLB 的一次经历](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/bitnami-kafka-slb/) (2 years ago)
-- [cgo 遇到 kernel too old 解决小记](https://blog.0xbb.devhttps://blog.0xbb.dev/posts/cgo-kernel-too-old/) (2 years ago)
-
 #### 📓 Gists I wrote
 
 - [ubuntu-14.04-alisource.list](https://gist.github.com/07e2a6bf71a7457b6bd0526b174e744d) (6 years ago)
@@ -57,7 +52,6 @@ I'm Jeff, a gopher.
 #### 📫 How to reach me
 
 - Fediverse: https://laojianzi1994@gmail.com
-- Blog: https://blog.0xbb.dev
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
