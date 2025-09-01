@@ -23,8 +23,8 @@ I'm Jeff, a gopher.
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://blog.0xbb.dev/index.xml" 5}}
-- [{{.Title}}](https://blog.0xbb.dev{{.URL}}) ({{humanize .PublishedAt}})
+{{range rss "" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📓 Gists I wrote
@@ -45,7 +45,6 @@ I'm Jeff, a gopher.
 #### 📫 How to reach me
 
 - Fediverse: https://laojianzi1994@gmail.com
-- Blog: https://blog.0xbb.dev
 
 <!-- comments will be preserved -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laojianzi&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/laojianzi/laojianzi)
