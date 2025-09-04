@@ -45,9 +45,9 @@ I'm Jeff, a gopher.
 
 - [RENCBERAKMAN](https://github.com/RENCBERAKMAN)
 - [sarahofai](https://github.com/sarahofai)
-- [seckinyasar](https://github.com/seckinyasar)
 - [hashmap-kz](https://github.com/hashmap-kz)
 - [elhadjx](https://github.com/elhadjx)
+- [Connor9994](https://github.com/Connor9994)
 
 #### 📫 How to reach me
 
