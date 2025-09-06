@@ -35,10 +35,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [go-gorm/cmd](https://github.com/go-gorm/cmd) - GORM CMD (today)
-- [go-a2a/adk-go](https://github.com/go-a2a/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 day ago)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (3 days ago)
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (4 days ago)
+- [go-gorm/cmd](https://github.com/go-gorm/cmd) - GORM CMD (1 day ago)
+- [go-a2a/adk-go](https://github.com/go-a2a/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (2 days ago)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (4 days ago)
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (5 days ago)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 week ago)
 
 #### 👯 Check out some of my recent followers
