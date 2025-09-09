@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (today)
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (1 day ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (1 day ago)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn math, programming, and computer science for free. (1 day ago)
 - [yaml/go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml (1 day ago)
-- [go-gorm/cmd](https://github.com/go-gorm/cmd) - GORM CMD (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
