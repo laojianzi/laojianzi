@@ -35,19 +35,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (today)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (today)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 days ago)
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (3 days ago)
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (3 days ago)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn math, programming, and computer science for free. (3 days ago)
-- [yaml/go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [RENCBERAKMAN](https://github.com/RENCBERAKMAN)
 - [sarahofai](https://github.com/sarahofai)
 - [hashmap-kz](https://github.com/hashmap-kz)
 - [elhadjx](https://github.com/elhadjx)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 📫 How to reach me
 
