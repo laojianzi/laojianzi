@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (3 months ago)
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (6 months ago)
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (7 months ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (9 months ago)
 
 #### 🌱 My latest projects
@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (today)
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 days ago)
-- [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (3 days ago)
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (1 day ago)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 days ago)
+- [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
