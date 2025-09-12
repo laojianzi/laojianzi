@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [ringsaturn/tzf](https://github.com/ringsaturn/tzf) - Get timezone via longitude and latitude in Go in a fast way (today)
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (1 day ago)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 days ago)
-- [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
