@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [scabench-org/hound](https://github.com/scabench-org/hound) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning. (today)
 - [ringsaturn/tzf](https://github.com/ringsaturn/tzf) - Get timezone via longitude and latitude in Go in a fast way (4 days ago)
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (5 days ago)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (5 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
