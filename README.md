@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.2](https://github.com/google/osv-scanner/releases/tag/v2.2.2), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.2](https://github.com/google/osv-scanner/releases/tag/v2.2.2), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 6 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [scabench-org/hound](https://github.com/scabench-org/hound) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning. (today)
-- [ringsaturn/tzf](https://github.com/ringsaturn/tzf) - Get timezone via longitude and latitude in Go in a fast way (4 days ago)
-- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (5 days ago)
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (5 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [scabench-org/hound](https://github.com/scabench-org/hound) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning. (1 day ago)
+- [ringsaturn/tzf](https://github.com/ringsaturn/tzf) - Get timezone via longitude and latitude in Go in a fast way (5 days ago)
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (6 days ago)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (6 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
