@@ -35,9 +35,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。 (2 days ago)
-- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Kiro compatible Spec-Driven Development for Claude Code, Gemini CLI and Cursor. High quality slash commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI (3 days ago)
-- [scabench-org/hound](https://github.com/scabench-org/hound) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning. (4 days ago)
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。 (3 days ago)
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Kiro compatible Spec-Driven Development for Claude Code, Gemini CLI and Cursor. High quality slash commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI (4 days ago)
+- [scabench-org/hound](https://github.com/scabench-org/hound) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning. (5 days ago)
 - [ringsaturn/tzf](https://github.com/ringsaturn/tzf) - Get timezone via longitude and latitude in Go in a fast way (1 week ago)
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀 (1 week ago)
 
