@@ -18,8 +18,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.0](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.0), today) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([2.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/2.0.1), 7 months ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
