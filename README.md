@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.1), 1 day ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.1](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.1), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
@@ -35,10 +35,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [grafana/sobek](https://github.com/grafana/sobek) -  (1 day ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (1 day ago)
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (5 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (6 days ago)
+- [grafana/sobek](https://github.com/grafana/sobek) -  (2 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (2 days ago)
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (6 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
