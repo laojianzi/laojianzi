@@ -18,8 +18,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 1 day ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (today)
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (1 day ago)
 - [grafana/sobek](https://github.com/grafana/sobek) -  (1 week ago)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (1 week ago)
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent (1 week ago)
