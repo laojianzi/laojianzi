@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (today)
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (1 day ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 days ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants. (2 days ago)
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (3 days ago)
-- [grafana/sobek](https://github.com/grafana/sobek) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
