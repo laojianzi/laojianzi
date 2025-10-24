@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 3 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 4 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
@@ -35,10 +35,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (today)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 day ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants. (1 day ago)
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (2 days ago)
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (1 day ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 days ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants. (2 days ago)
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (3 days ago)
 - [grafana/sobek](https://github.com/grafana/sobek) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
