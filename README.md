@@ -6,7 +6,7 @@ I'm Jeff, a gopher.
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (4 months ago)
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (8 months ago)
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (10 months ago)
+- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,14 +18,14 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 4 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.3](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.3), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.3](https://github.com/google/osv-scanner/releases/tag/v2.2.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
 
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (4 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (6 months ago)
-- [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (10 months ago)
+- [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (11 months ago)
 
@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (today)
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (1 day ago)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 days ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants. (2 days ago)
-- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (3 days ago)
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 day ago)
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (2 days ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (3 days ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants. (3 days ago)
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
