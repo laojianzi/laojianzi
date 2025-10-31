@@ -18,12 +18,12 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 1 day ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.4](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.4), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.4](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.4), 3 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (4 months ago)
+- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (5 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (6 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
@@ -35,9 +35,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (today)
-- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. (2 days ago)
-- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (6 days ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 day ago)
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. (3 days ago)
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 week ago)
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (1 week ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 week ago)
 
