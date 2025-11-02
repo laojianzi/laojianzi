@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (4 months ago)
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (8 months ago)
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (8 months ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (11 months ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 4 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow) ([3.0.4](https://github.com/datopian/obsidian-flowershow/releases/tag/3.0.4), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.4](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.4), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
