@@ -43,11 +43,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [yogeshvibez](https://github.com/yogeshvibez)
 - [ipqwery](https://github.com/ipqwery)
+- [RENCBERAKMAN](https://github.com/RENCBERAKMAN)
 
 #### 📫 How to reach me
 
