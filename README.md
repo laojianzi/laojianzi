@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (today)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (today)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (4 days ago)
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. (6 days ago)
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 week ago)
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go (1 week ago)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
