@@ -18,8 +18,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.5](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.5), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 6 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.5](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.5), 3 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
 
@@ -35,9 +35,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 day ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (1 day ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (5 days ago)
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (2 days ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (2 days ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (6 days ago)
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. (1 week ago)
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go (1 week ago)
 
