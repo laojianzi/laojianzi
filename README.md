@@ -35,11 +35,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (today)
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (5 days ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 week ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 week ago)
-- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
