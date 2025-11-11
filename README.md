@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (5 months ago)
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (8 months ago)
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (9 months ago)
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go (11 months ago)
 
 #### 🌱 My latest projects
@@ -35,8 +35,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (today)
-- [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (5 days ago)
+- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 day ago)
+- [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (6 days ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 week ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 week ago)
