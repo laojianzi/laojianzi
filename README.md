@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.6](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.6), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.6](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.6), 6 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
@@ -35,10 +35,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (6 days ago)
+- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (1 week ago)
-- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 week ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (1 week ago)
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (2 weeks ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (2 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
