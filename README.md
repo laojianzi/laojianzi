@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.6](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.6), 1 week ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), today) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.2.4](https://github.com/google/osv-scanner/releases/tag/v2.2.4), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
