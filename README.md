@@ -18,8 +18,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 1 day ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), 1 day ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@ I'm Jeff, a gopher.
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (2 weeks ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (2 weeks ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (2 weeks ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 weeks ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
