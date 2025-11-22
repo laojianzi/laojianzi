@@ -18,15 +18,15 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), 2 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 3 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 4 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
 
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (5 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (7 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
-- [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (11 months ago)
+- [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (1 year ago)
 
 #### 📓 Gists I wrote
