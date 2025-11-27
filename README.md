@@ -39,7 +39,7 @@ I'm Jeff, a gopher.
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (3 weeks ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (3 weeks ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (3 weeks ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 weeks ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
