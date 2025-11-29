@@ -23,7 +23,7 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): update rdkafka to 0.38.0](https://github.com/laojianzi/vector/pull/1) on [laojianzi/vector](https://github.com/laojianzi/vector) (today)
+- [chore(deps): update rdkafka to 0.38.0](https://github.com/laojianzi/vector/pull/1) on [laojianzi/vector](https://github.com/laojianzi/vector) (1 day ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (5 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (7 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
@@ -35,7 +35,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 day ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (2 days ago)
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (2 weeks ago)
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (3 weeks ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (3 weeks ago)
