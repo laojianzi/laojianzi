@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.0](https://github.com/google/osv-scanner/releases/tag/v2.3.0), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 2 weeks ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (5 days ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (6 days ago)
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
-- [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (3 weeks ago)
-- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (4 weeks ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (4 weeks ago)
+- [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (4 weeks ago)
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 month ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
