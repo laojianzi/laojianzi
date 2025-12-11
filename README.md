@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (6 months ago)
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (9 months ago)
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 week ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (2 weeks ago)
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (1 month ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 month ago)
