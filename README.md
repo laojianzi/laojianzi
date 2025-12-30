@@ -22,7 +22,7 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (6 months ago)
+- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (7 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (8 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
@@ -34,8 +34,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (4 days ago)
-- [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (6 days ago)
+- [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (5 days ago)
+- [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (1 week ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 month ago)
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
 - [Xuanwo/xlaude](https://github.com/Xuanwo/xlaude) - A CLI tool for managing Claude instances with git worktree (1 month ago)
