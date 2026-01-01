@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.1](https://github.com/google/osv-scanner/releases/tag/v2.3.1), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.1](https://github.com/google/osv-scanner/releases/tag/v2.3.1), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 1 month ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (today)
-- [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (6 days ago)
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (1 day ago)
+- [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (1 week ago)
 - [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (1 week ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 month ago)
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
