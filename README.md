@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [Trojan3877](https://github.com/Trojan3877)
 - [harubi](https://github.com/harubi)
 - [S4IL21](https://github.com/S4IL21)
 - [yogeshvibez](https://github.com/yogeshvibez)
 - [ipqwery](https://github.com/ipqwery)
-- [RENCBERAKMAN](https://github.com/RENCBERAKMAN)
 
 #### 📫 How to reach me
 
