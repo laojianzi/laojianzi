@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (today)
 - [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM (2 days ago)
 - [mitchellh/zig-mquickjs](https://github.com/mitchellh/zig-mquickjs) - Zig build and bindings for Micro QuickJS (2 days ago)
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (6 days ago)
 - [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (1 week ago)
-- [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
