@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (6 months ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (7 months ago)
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (10 months ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ I'm Jeff, a gopher.
 #### 🔨 My recent Pull Requests
 
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (7 months ago)
-- [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (8 months ago)
+- [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (9 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
 - [feat: add support for custom path parsing function](https://github.com/nicksnyder/go-i18n/pull/346) on [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) (1 year ago)
@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM (1 day ago)
-- [mitchellh/zig-mquickjs](https://github.com/mitchellh/zig-mquickjs) - Zig build and bindings for Micro QuickJS (1 day ago)
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (5 days ago)
+- [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM (2 days ago)
+- [mitchellh/zig-mquickjs](https://github.com/mitchellh/zig-mquickjs) - Zig build and bindings for Micro QuickJS (2 days ago)
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (6 days ago)
 - [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go Graphics Framework — GPU power, Go simplicity (1 week ago)
-- [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (1 week ago)
+- [streamfold/rotel](https://github.com/streamfold/rotel) - High Performance, Resource Efficient OpenTelemetry Collection (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
