@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants (1 week ago)
-- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (1 week ago)
-- [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM (1 week ago)
-- [mitchellh/zig-mquickjs](https://github.com/mitchellh/zig-mquickjs) - Zig build and bindings for Micro QuickJS (1 week ago)
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. (2 weeks ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (today)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (today)
+- [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files (today)
+- [coder/acp-go-sdk](https://github.com/coder/acp-go-sdk) - Go SDK for the Agent Client Protocol (ACP), offering typed requests, responses, and helpers so Go applications can build ACP-compliant agents, clients, and integrations (today)
+- [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator. (today)
 
 #### 👯 Check out some of my recent followers
 
