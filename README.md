@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.1](https://github.com/google/osv-scanner/releases/tag/v2.3.1), 1 month ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.2](https://github.com/google/osv-scanner/releases/tag/v2.3.2), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([3.0.7](https://github.com/flowershow/obsidian-flowershow/releases/tag/3.0.7), 1 month ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 
 #### 🔨 My recent Pull Requests
@@ -34,7 +34,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants (6 days ago)
+- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants (1 week ago)
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (1 week ago)
 - [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM (1 week ago)
 - [mitchellh/zig-mquickjs](https://github.com/mitchellh/zig-mquickjs) - Zig build and bindings for Micro QuickJS (1 week ago)
