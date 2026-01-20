@@ -34,19 +34,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator &#34;One Sentence to Complete Drama: Fully Automated from Script to Final Video&#34; (today)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (5 days ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (5 days ago)
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files (5 days ago)
 - [coder/acp-go-sdk](https://github.com/coder/acp-go-sdk) - Go SDK for the Agent Client Protocol (ACP), offering typed requests, responses, and helpers so Go applications can build ACP-compliant agents, clients, and integrations (5 days ago)
-- [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [rodrigogalura](https://github.com/rodrigogalura)
 - [Trojan3877](https://github.com/Trojan3877)
 - [harubi](https://github.com/harubi)
 - [S4IL21](https://github.com/S4IL21)
 - [yogeshvibez](https://github.com/yogeshvibez)
-- [ipqwery](https://github.com/ipqwery)
 
 #### 📫 How to reach me
 
