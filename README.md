@@ -37,7 +37,7 @@ I'm Jeff, a gopher.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 day ago)
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator &#34;One Sentence to Complete Drama: Fully Automated from Script to Final Video&#34; (3 days ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 week ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (1 week ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI. (1 week ago)
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files (1 week ago)
 
 #### 👯 Check out some of my recent followers
