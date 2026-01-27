@@ -34,7 +34,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [molt-bot/clawdbot](https://github.com/molt-bot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [google/A2UI](https://github.com/google/A2UI) -  (today)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 day ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 day ago)
