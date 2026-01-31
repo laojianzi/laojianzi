@@ -4,6 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (today)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (7 months ago)
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (11 months ago)
 
@@ -18,6 +19,7 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([4.0.0](https://github.com/flowershow/obsidian-flowershow/releases/tag/4.0.0), 2 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [gogs/gogs](https://github.com/gogs/gogs) ([v0.13.4](https://github.com/gogs/gogs/releases/tag/v0.13.4), 1 week ago) - Gogs is a painless self-hosted Git service
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.2](https://github.com/google/osv-scanner/releases/tag/v2.3.2), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
