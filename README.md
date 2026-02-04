@@ -36,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [gemini-cli-extensions/ralph](https://github.com/gemini-cli-extensions/ralph) - Gemini CLI extension for Ralph loops (today)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [google/A2UI](https://github.com/google/A2UI) -  (1 week ago)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
-- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
