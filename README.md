@@ -18,7 +18,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([4.0.10](https://github.com/flowershow/obsidian-flowershow/releases/tag/4.0.10), 5 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
+- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([4.0.10](https://github.com/flowershow/obsidian-flowershow/releases/tag/4.0.10), 6 days ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 week ago) - Gogs is a painless self-hosted Git service
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.2](https://github.com/google/osv-scanner/releases/tag/v2.3.2), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
@@ -36,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (today)
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (today)
-- [gemini-cli-extensions/ralph](https://github.com/gemini-cli-extensions/ralph) - Gemini CLI extension for Ralph loops (5 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
-- [google/A2UI](https://github.com/google/A2UI) -  (1 week ago)
+- [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (1 day ago)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (1 day ago)
+- [gemini-cli-extensions/ralph](https://github.com/gemini-cli-extensions/ralph) - Gemini CLI extension for Ralph loops (6 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
+- [google/A2UI](https://github.com/google/A2UI) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
