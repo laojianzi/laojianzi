@@ -36,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (today)
 - [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (2 days ago)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 days ago)
 - [gemini-cli-extensions/ralph](https://github.com/gemini-cli-extensions/ralph) - Gemini CLI extension for Ralph loops (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
-- [google/A2UI](https://github.com/google/A2UI) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
