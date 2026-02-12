@@ -18,9 +18,9 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) ([4.0.10](https://github.com/flowershow/obsidian-flowershow/releases/tag/4.0.10), 1 week ago) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault.
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 week ago) - Gogs is a painless self-hosted Git service
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.2](https://github.com/google/osv-scanner/releases/tag/v2.3.2), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
 
@@ -36,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (today)
-- [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (2 days ago)
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 days ago)
-- [gemini-cli-extensions/ralph](https://github.com/gemini-cli-extensions/ralph) - Gemini CLI extension for Ralph loops (1 week ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (today)
+- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (today)
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (1 day ago)
+- [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
