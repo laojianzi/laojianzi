@@ -6,7 +6,6 @@ I'm Jeff, a gopher.
 
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (2 weeks ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (8 months ago)
-- [flowershow/obsidian-flowershow](https://github.com/flowershow/obsidian-flowershow) - Obsidian Flowershow plugin for publishing with Flowershow direct from your obsidian vault. (1 year ago)
 
 #### 🌱 My latest projects
 
