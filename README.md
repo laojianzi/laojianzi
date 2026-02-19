@@ -17,8 +17,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 6 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 2 weeks ago) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) ([v0.14.2-rc.1](https://github.com/gogs/gogs/releases/tag/v0.14.2-rc.1), today) - Gogs is a painless self-hosted Git service
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
 
@@ -34,9 +34,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (6 days ago)
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (6 days ago)
-- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (6 days ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
+- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 week ago)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (1 week ago)
 - [earchibald/gemini-superpowers](https://github.com/earchibald/gemini-superpowers) - An adaptor for Gemini CLI to use the world-class obra/superpowers framework. (1 week ago)
 
