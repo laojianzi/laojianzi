@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (2 weeks ago)
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (3 weeks ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (8 months ago)
 
 #### 🌱 My latest projects
@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/gogs](https://github.com/gogs/gogs) ([v0.14.2](https://github.com/gogs/gogs/releases/tag/v0.14.2), 1 day ago) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) ([v0.14.2](https://github.com/gogs/gogs/releases/tag/v0.14.2), 2 days ago) - Gogs is a painless self-hosted Git service
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
 #### 🔨 My recent Pull Requests
