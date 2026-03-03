@@ -17,8 +17,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/gogs](https://github.com/gogs/gogs) ([v0.14.2](https://github.com/gogs/gogs/releases/tag/v0.14.2), 1 week ago) - Gogs is a painless self-hosted Git service
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 month ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
 
@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (today)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (today)
-- [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (4 days ago)
-- [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (4 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
+- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (1 day ago)
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 day ago)
+- [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (5 days ago)
+- [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (5 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
