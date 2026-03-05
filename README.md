@@ -17,7 +17,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 3 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 month ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
@@ -34,10 +34,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (2 days ago)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (2 days ago)
-- [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (6 days ago)
-- [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (6 days ago)
+- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (3 days ago)
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (3 days ago)
+- [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (1 week ago)
+- [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
 
 #### 👯 Check out some of my recent followers
