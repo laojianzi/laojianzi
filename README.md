@@ -34,8 +34,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (6 days ago)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (6 days ago)
+- [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (1 week ago)
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
 - [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (1 week ago)
 - [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
