@@ -42,11 +42,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Trojan3877](https://github.com/Trojan3877)
 - [harubi](https://github.com/harubi)
 - [S4IL21](https://github.com/S4IL21)
-- [yogeshvibez](https://github.com/yogeshvibez)
 
 #### 📫 How to reach me
 
