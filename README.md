@@ -38,7 +38,7 @@ I'm Jeff, a gopher.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
 - [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (1 week ago)
 - [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (1 week ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
