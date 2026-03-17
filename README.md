@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (today)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. (6 days ago)
 - [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (2 weeks ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (2 weeks ago)
-- [Augani/adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust (2 weeks ago)
-- [tahayvr/omarchist](https://github.com/tahayvr/omarchist) - A GUI app for Omarchy Linux.  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
