@@ -34,19 +34,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (1 day ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
+- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (2 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 days ago)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. (1 week ago)
 - [ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator) - Official Kubernetes Operator for ClickHouse® (2 weeks ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [vincentjiang777](https://github.com/vincentjiang777)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Trojan3877](https://github.com/Trojan3877)
 - [harubi](https://github.com/harubi)
 - [S4IL21](https://github.com/S4IL21)
-- [yogeshvibez](https://github.com/yogeshvibez)
 
 #### 📫 How to reach me
 
