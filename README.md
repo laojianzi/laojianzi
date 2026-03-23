@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [fightingdreamer/ghostty](https://github.com/fightingdreamer/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (today)
+- [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw (today)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (4 days ago)
-- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (6 days ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 days ago)
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
