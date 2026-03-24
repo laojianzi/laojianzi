@@ -34,11 +34,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [fightingdreamer/ghostty](https://github.com/fightingdreamer/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (today)
-- [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw (today)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (4 days ago)
+- [WecomTeam/wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin) -  (today)
+- [fightingdreamer/ghostty](https://github.com/fightingdreamer/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 day ago)
+- [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw (1 day ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
