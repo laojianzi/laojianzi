@@ -4,6 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (today)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (1 month ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (9 months ago)
 
@@ -17,12 +18,13 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.3](https://github.com/google/osv-scanner/releases/tag/v2.3.3), 1 month ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.5.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.5.1), today) - Connect to any agents with WeChat ClawBot.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.5](https://github.com/google/osv-scanner/releases/tag/v2.3.5), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 month ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (today)
+- [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (1 day ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (9 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (11 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
@@ -34,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (today)
-- [WecomTeam/wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin) -  (today)
-- [fightingdreamer/ghostty](https://github.com/fightingdreamer/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 day ago)
-- [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw (1 day ago)
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 day ago)
+- [WecomTeam/wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin) -  (1 day ago)
+- [fightingdreamer/ghostty](https://github.com/fightingdreamer/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 days ago)
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (2 days ago)
+- [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
