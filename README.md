@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (today)
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 day ago)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (1 month ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (9 months ago)
 
@@ -18,13 +18,13 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.6.2](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.6.2), today) - Connect to any agents with WeChat ClawBot.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.5](https://github.com/google/osv-scanner/releases/tag/v2.3.5), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.6.2](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.6.2), 1 day ago) - Connect to any agents with WeChat ClawBot.
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.5](https://github.com/google/osv-scanner/releases/tag/v2.3.5), 1 day ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 month ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (1 day ago)
+- [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (2 days ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (9 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (11 months ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
@@ -36,11 +36,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs. (today)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (today)
-- [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw (today)
-- [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot&#39;s most powerful model (today)
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 day ago)
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs. (1 day ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 day ago)
+- [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw (1 day ago)
+- [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot&#39;s most powerful model (1 day ago)
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
