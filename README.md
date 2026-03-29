@@ -19,7 +19,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([beta-latest](https://github.com/fastclaw-ai/weclaw/releases/tag/beta-latest), 1 day ago) - Connect to any agents with WeChat ClawBot.
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), today) - Connect to any agents with WeChat ClawBot.
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.1](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.1), 1 day ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.5](https://github.com/google/osv-scanner/releases/tag/v2.3.5), 4 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 1 month ago) - Gogs is a painless self-hosted Git service
