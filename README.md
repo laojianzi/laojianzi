@@ -39,18 +39,18 @@ I'm Jeff, a gopher.
 #### ⭐ Recent Stars
 
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc (1 day ago)
-- [carlos7ags/folio](https://github.com/carlos7ags/folio) - Modern PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0. (1 day ago)
+- [carlos7ags/folio](https://github.com/carlos7ags/folio) - PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0. (1 day ago)
 - [Tencent/openclaw-weixin](https://github.com/Tencent/openclaw-weixin) -  (1 day ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [standardgalactic](https://github.com/standardgalactic)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [rodrigogalura](https://github.com/rodrigogalura)
-- [Trojan3877](https://github.com/Trojan3877)
 
 #### 📫 How to reach me
 
