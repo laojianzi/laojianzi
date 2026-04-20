@@ -46,11 +46,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [standardgalactic](https://github.com/standardgalactic)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Trojan3877](https://github.com/Trojan3877)
-- [harubi](https://github.com/harubi)
 
 #### 📫 How to reach me
 
