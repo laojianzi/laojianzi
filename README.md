@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (2 days ago)
+- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (3 days ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (3 weeks ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 month ago)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (2 months ago)
@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 #### 🔨 My recent Pull Requests
 
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (1 month ago)
-- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (10 months ago)
+- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (11 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (1 year ago)
 - [feat: add fuzz testing for parser and handle escaped colons](https://github.com/laojianzi/kql-go/pull/10) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
 - [feat: enhance KQL parser with escaped character support and performance tests](https://github.com/laojianzi/kql-go/pull/8) on [laojianzi/kql-go](https://github.com/laojianzi/kql-go) (1 year ago)
@@ -39,10 +39,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [smallnest/autoresearch](https://github.com/smallnest/autoresearch) - autoresearch for software development (4 days ago)
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (4 days ago)
-- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (5 days ago)
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (5 days ago)
+- [smallnest/autoresearch](https://github.com/smallnest/autoresearch) - autoresearch for software development (5 days ago)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (5 days ago)
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (6 days ago)
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (6 days ago)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (1 week ago)
 
 #### 👯 Check out some of my recent followers
