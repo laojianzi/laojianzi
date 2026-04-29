@@ -39,11 +39,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (today)
 - [smallnest/autoresearch](https://github.com/smallnest/autoresearch) - autoresearch for software development (5 days ago)
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (5 days ago)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (6 days ago)
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (6 days ago)
-- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
