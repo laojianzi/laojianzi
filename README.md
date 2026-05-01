@@ -4,10 +4,10 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 days ago)
+- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (5 days ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (3 weeks ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 month ago)
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (2 months ago)
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (3 months ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (10 months ago)
 
 #### 🌱 My latest projects
@@ -20,10 +20,10 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 3 weeks ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.6](https://github.com/google/osv-scanner/releases/tag/v2.3.6), today) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 4 weeks ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 1 month ago) - Connect to any agents with WeChat ClawBot.
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.5](https://github.com/google/osv-scanner/releases/tag/v2.3.5), 1 month ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 2 months ago) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 3 months ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
 
@@ -39,10 +39,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (today)
-- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (1 day ago)
-- [smallnest/autoresearch](https://github.com/smallnest/autoresearch) - autoresearch for software development (6 days ago)
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (6 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (1 day ago)
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (2 days ago)
+- [smallnest/autoresearch](https://github.com/smallnest/autoresearch) - autoresearch for software development (1 week ago)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (1 week ago)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (1 week ago)
 
 #### 👯 Check out some of my recent followers
