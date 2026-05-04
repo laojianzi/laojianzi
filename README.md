@@ -4,11 +4,11 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (today)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 day ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (1 week ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (4 weeks ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 month ago)
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ I'm Jeff, a gopher.
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.6](https://github.com/google/osv-scanner/releases/tag/v2.3.6), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 1 month ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 1 month ago) - Connect to any agents with WeChat ClawBot.
-- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 3 months ago) - Gogs is a painless self-hosted Git service
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 2 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(sidebar): support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (3 days ago)
+- [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (3 days ago)
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (1 month ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (11 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (1 year ago)
