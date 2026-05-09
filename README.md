@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents (today)
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (today)
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (1 day ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (1 day ago)
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 day ago)
-- [dravr-ai/dravr-embacle](https://github.com/dravr-ai/dravr-embacle) - Rust library wrapping 12 AI CLI tools as pluggable LLM providers — with OpenAI API client, ACP headless mode, agent loop, MCP server, and OpenAI-compatible REST API (1 day ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
