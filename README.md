@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (today)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 week ago)
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 week ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (2 weeks ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (1 month ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (1 month ago)
@@ -21,10 +21,10 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.8](https://github.com/google/osv-scanner/releases/tag/v2.3.8), 3 days ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 1 week ago) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 1 month ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 1 month ago) - Connect to any agents with WeChat ClawBot.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 3 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 3 months ago) - Gogs is a painless self-hosted Git service
 
 #### 🔨 My recent Pull Requests
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [superhq-ai/superhq](https://github.com/superhq-ai/superhq) - Sandboxed AI agent orchestration platform (today)
+- [sxhxliang/agent-studio](https://github.com/sxhxliang/agent-studio) - AgentX is a GPU-accelerated, cross-platform desktop application that brings AI agents to your workflow.  跨平台、原生 Agent 桌面。 (today)
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (today)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
-- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents (2 days ago)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (2 days ago)
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development (3 days ago)
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
