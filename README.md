@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (today)
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (1 day ago)
 - [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness (1 day ago)
 - [superhq-ai/superhq](https://github.com/superhq-ai/superhq) - Sandboxed AI agent orchestration platform (2 days ago)
 - [sxhxliang/agent-studio](https://github.com/sxhxliang/agent-studio) - AgentX is a GPU-accelerated, cross-platform desktop application that brings AI agents to your workflow.  跨平台、原生 Agent 桌面。 (2 days ago)
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
