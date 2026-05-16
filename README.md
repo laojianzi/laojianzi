@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
-- [aza-ali](https://github.com/aza-ali)
 - [aimerlee860](https://github.com/aimerlee860)
 - [standardgalactic](https://github.com/standardgalactic)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [rodrigogalura](https://github.com/rodrigogalura)
+- [Trojan3877](https://github.com/Trojan3877)
 
 #### 📫 How to reach me
 
