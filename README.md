@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) -  (today)
-- [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 day ago)
-- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. (2 days ago)
-- [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system. (2 days ago)
-- [statewright/statewright](https://github.com/statewright/statewright) - State machine guardrails for AI agents (5 days ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local (today)
+- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (today)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (today)
+- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (today)
+- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) -  (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
