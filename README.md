@@ -21,14 +21,14 @@ I'm Jeff, a gopher.
 #### 🔭 Latest releases I've contributed to
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 1 week ago) - build release for macOS monterey (version 12)
-- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.8](https://github.com/google/osv-scanner/releases/tag/v2.3.8), 1 week ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.8](https://github.com/google/osv-scanner/releases/tag/v2.3.8), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 1 month ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 1 month ago) - Connect to any agents with WeChat ClawBot.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 3 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 #### 🔨 My recent Pull Requests
 
-- [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 weeks ago)
+- [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (3 weeks ago)
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (1 month ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (11 months ago)
 - [feat: Improve error handling and logging in Redis worker](https://github.com/golang-queue/redisdb-stream/pull/31) on [golang-queue/redisdb-stream](https://github.com/golang-queue/redisdb-stream) (1 year ago)
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local (today)
-- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (today)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (today)
-- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (today)
-- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) -  (1 day ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local (1 day ago)
+- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (1 day ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (1 day ago)
+- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (1 day ago)
+- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) -  (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
