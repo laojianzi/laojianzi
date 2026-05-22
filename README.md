@@ -40,7 +40,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local (1 day ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 day ago)
 - [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (1 day ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (1 day ago)
 - [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (1 day ago)
