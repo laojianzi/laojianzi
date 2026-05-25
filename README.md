@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 week ago)
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (2 weeks ago)
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (2 weeks ago)
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (3 weeks ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 weeks ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (1 month ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (2 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 1 week ago) - build release for macOS monterey (version 12)
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 2 weeks ago) - build release for macOS monterey (version 12)
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.8](https://github.com/google/osv-scanner/releases/tag/v2.3.8), 2 weeks ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 1 month ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 1 month ago) - Connect to any agents with WeChat ClawBot.
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (3 days ago)
-- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (3 days ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (3 days ago)
-- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (3 days ago)
-- [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) -  (4 days ago)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (today)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (4 days ago)
+- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (4 days ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (4 days ago)
+- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
