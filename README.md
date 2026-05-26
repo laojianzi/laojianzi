@@ -6,7 +6,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (2 weeks ago)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (3 weeks ago)
-- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 weeks ago)
+- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (1 month ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (1 month ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (2 months ago)
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (today)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (4 days ago)
-- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (4 days ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (4 days ago)
-- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore. (4 days ago)
+- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the AI desktop workspace for documents, slides, and spreadsheets — Wails v2 &#43; React 19 client for OfficeCLI (today)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (1 day ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (5 days ago)
+- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (5 days ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
