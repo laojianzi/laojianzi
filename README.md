@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the first Al-Native VibeOfficing platform  for documents, slides, and spreadsheets (today)
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (1 day ago)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (5 days ago)
-- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (5 days ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (5 days ago)
+- [officecli/officedex](https://github.com/officecli/officedex) - OfficeDex is the first Al-Native VibeOfficing platform  for documents, slides, and spreadsheets (1 day ago)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (2 days ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (6 days ago)
+- [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) -  (6 days ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
