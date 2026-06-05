@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [DARKANGEL689](https://github.com/DARKANGEL689)
 - [cbw5803](https://github.com/cbw5803)
 - [aimerlee860](https://github.com/aimerlee860)
 - [standardgalactic](https://github.com/standardgalactic)
 - [vincentjiang777](https://github.com/vincentjiang777)
-- [rodrigogalura](https://github.com/rodrigogalura)
 
 #### 📫 How to reach me
 
