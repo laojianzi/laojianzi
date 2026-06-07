@@ -20,11 +20,11 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gogs/gogs](https://github.com/gogs/gogs) ([v0.14.3](https://github.com/gogs/gogs/releases/tag/v0.14.3), today) - The painless way to host your own Git service
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 3 weeks ago) - build release for macOS monterey (version 12)
 - [google/osv-scanner](https://github.com/google/osv-scanner) ([v2.3.8](https://github.com/google/osv-scanner/releases/tag/v2.3.8), 1 month ago) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 2 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 2 months ago) - Connect to any agents with WeChat ClawBot.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 4 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 #### 🔨 My recent Pull Requests
 
