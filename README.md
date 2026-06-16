@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (1 week ago)
+- [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (2 weeks ago)
 - [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (1 month ago)
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (2 months ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (1 year ago)
@@ -40,9 +40,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux (4 days ago)
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (5 days ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (6 days ago)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux (5 days ago)
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (6 days ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 week ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
 - [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan (1 week ago)
 
