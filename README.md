@@ -40,19 +40,19 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
+- [Guria/nehir](https://github.com/Guria/nehir) - Nehir — a tiling window manager for macOS (today)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (today)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 day ago)
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux (6 days ago)
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (1 week ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [ziarmalaman](https://github.com/ziarmalaman)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
 - [cbw5803](https://github.com/cbw5803)
 - [aimerlee860](https://github.com/aimerlee860)
 - [standardgalactic](https://github.com/standardgalactic)
-- [vincentjiang777](https://github.com/vincentjiang777)
 
 #### 📫 How to reach me
 
