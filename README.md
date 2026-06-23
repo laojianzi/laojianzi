@@ -8,7 +8,7 @@ I'm Jeff, a gopher.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 month ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (1 month ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (2 months ago)
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (2 months ago)
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (2 weeks ago)
+- [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (3 weeks ago)
 - [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (1 month ago)
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (3 months ago)
 - [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (1 year ago)
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World&#39;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500&#43; agent skills. Turn your AI coding assistant into a full video production studio. (today)
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (today)
-- [glojurelang/glojure](https://github.com/glojurelang/glojure) - Clojure interpreter hosted on Go, with extensible interop support. (4 days ago)
-- [jeremyfa/loreline](https://github.com/jeremyfa/loreline) - Open-source scripting language for writing interactive fictions (4 days ago)
+- [madflojo/go-style-agent-skill](https://github.com/madflojo/go-style-agent-skill) - Agent Skill for writing Golang code (today)
+- [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow) - AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills (today)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World&#39;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500&#43; agent skills. Turn your AI coding assistant into a full video production studio. (1 day ago)
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
