@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [madflojo/go-style-agent-skill](https://github.com/madflojo/go-style-agent-skill) - Agent Skill for writing Golang code (today)
-- [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow) - AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills (today)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World&#39;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500&#43; agent skills. Turn your AI coding assistant into a full video production studio. (1 day ago)
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (1 day ago)
+- [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. (today)
+- [go-sqlex/sqlex](https://github.com/go-sqlex/sqlex) - A drop-in modernization of jmoiron/sqlx that fixes lexer bugs, automates IN expansion, and adds pluggable hooks — built for Go 1.21&#43;. (today)
+- [madflojo/go-style-agent-skill](https://github.com/madflojo/go-style-agent-skill) - Agent Skill for writing Golang code (1 day ago)
+- [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow) - AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills (1 day ago)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
