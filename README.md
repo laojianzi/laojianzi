@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (today)
-- [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. (1 day ago)
-- [go-sqlex/sqlex](https://github.com/go-sqlex/sqlex) - A drop-in modernization of jmoiron/sqlx that fixes lexer bugs, automates IN expansion, and adds pluggable hooks — built for Go 1.21&#43;. (1 day ago)
-- [madflojo/go-style-agent-skill](https://github.com/madflojo/go-style-agent-skill) - Agent Skill for writing Golang code (2 days ago)
-- [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow) - AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills (2 days ago)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (today)
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. (today)
+- [xiaohuailabs/xiaohu-ip-studio](https://github.com/xiaohuailabs/xiaohu-ip-studio) - 开源中文配图技能 &#43; IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图 (today)
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (1 day ago)
+- [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
