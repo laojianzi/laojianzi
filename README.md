@@ -28,7 +28,7 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor chart views and usage history compatibility](https://github.com/laojianzi/CodexBar/pull/1) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Refactor chart views and usage history compatibility](https://github.com/laojianzi/CodexBar/pull/1) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
 - [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (1 month ago)
 - [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 months ago)
 - [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (3 months ago)
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (3 days ago)
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 days ago)
-- [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (6 days ago)
-- [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. (6 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (4 days ago)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (4 days ago)
+- [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (1 week ago)
+- [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. (1 week ago)
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run. (1 week ago)
 
 #### 👯 Check out some of my recent followers
