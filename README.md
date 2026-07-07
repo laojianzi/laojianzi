@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor chart views and usage history compatibility](https://github.com/laojianzi/CodexBar/pull/1) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
-- [fix(gitlab): add direct asset URL compatibility option](https://github.com/goreleaser/goreleaser/pull/6645) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (1 month ago)
-- [sidebar: Support shadcn collapsible modes](https://github.com/longbridge/gpui-component/pull/2329) on [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 months ago)
-- [feat: allow configuring environment variables for CLI and ACP agents](https://github.com/fastclaw-ai/weclaw/pull/17) on [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) (3 months ago)
-- [fix: prevent panic when batchResp is nil in MatchVulnerabilities](https://github.com/google/osv-scanner/pull/1922) on [google/osv-scanner](https://github.com/google/osv-scanner) (1 year ago)
+- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
 
 #### 📓 Gists I wrote
 
