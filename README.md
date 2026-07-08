@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
-- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
-- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (today)
+- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
+- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
+- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -40,8 +40,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (4 days ago)
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (4 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (5 days ago)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (5 days ago)
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (1 week ago)
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code. (1 week ago)
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run. (1 week ago)
