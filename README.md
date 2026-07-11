@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (3 days ago)
-- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (3 days ago)
-- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (3 days ago)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (3 days ago)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (3 days ago)
+- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (4 days ago)
+- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (4 days ago)
+- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (4 days ago)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (4 days ago)
+- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (1 day ago)
-- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A really good chat application that you can self-host. (1 day ago)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (1 day ago)
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  (2 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 days ago)
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A really good chat application that you can self-host. (2 days ago)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (2 days ago)
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  (3 days ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (1 week ago)
 
 #### 👯 Check out some of my recent followers
