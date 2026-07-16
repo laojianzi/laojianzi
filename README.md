@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (2 days ago)
-- [spf13/go-skills](https://github.com/spf13/go-skills) -  (2 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (6 days ago)
-- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (6 days ago)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (6 days ago)
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (3 days ago)
+- [spf13/go-skills](https://github.com/spf13/go-skills) -  (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (1 week ago)
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (1 week ago)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
