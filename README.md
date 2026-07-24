@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (today)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (4 days ago)
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (1 week ago)
 - [spf13/go-skills](https://github.com/spf13/go-skills) -  (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 weeks ago)
-- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
