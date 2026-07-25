@@ -6,7 +6,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (2 months ago)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (2 months ago)
-- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (2 months ago)
+- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (3 months ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (3 months ago)
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (4 months ago)
 
@@ -40,8 +40,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (today)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (4 days ago)
+- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (1 day ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (5 days ago)
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (1 week ago)
 - [spf13/go-skills](https://github.com/spf13/go-skills) -  (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 weeks ago)
