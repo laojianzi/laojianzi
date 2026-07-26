@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK&#43; Remmina Remote Desktop Client (today)
-- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server (today)
-- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (1 day ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (5 days ago)
+- [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK&#43; Remmina Remote Desktop Client (1 day ago)
+- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server (1 day ago)
+- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (2 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (6 days ago)
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (1 week ago)
 
 #### 👯 Check out some of my recent followers
