@@ -22,7 +22,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 2 months ago) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 3 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 3 months ago) - Connect to any agents with WeChat ClawBot.
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 4 months ago) - Connect to any agents with WeChat ClawBot.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 5 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 5 months ago) - The painless way to host your own Git service
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK&#43; Remmina Remote Desktop Client (1 day ago)
-- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server (1 day ago)
-- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (2 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (6 days ago)
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (1 week ago)
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 (today)
+- [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK&#43; Remmina Remote Desktop Client (2 days ago)
+- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server (2 days ago)
+- [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite &amp; MongoDB from anywhere your browser is your new database studio. (3 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
