@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. (today)
 - [Marouan-chak/codexbar-waybar](https://github.com/Marouan-chak/codexbar-waybar) - Waybar custom module &#43; GTK4 popover for the CodexBar Linux CLI. Mirrors the macOS menu-bar experience for Hyprland / Sway / other Wayland compositors. (1 day ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (2 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (3 days ago)
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode) (6 days ago)
-- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
