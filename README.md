@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [astaxie/TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable. (today)
+- [0xErwin1/dbflux](https://github.com/0xErwin1/dbflux) - A fast, keyboard-first database client built with Rust and GPUI. (today)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (today)
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins (today)
 - [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. (4 days ago)
-- [Marouan-chak/codexbar-waybar](https://github.com/Marouan-chak/codexbar-waybar) - Waybar custom module &#43; GTK4 popover for the CodexBar Linux CLI. Mirrors the macOS menu-bar experience for Hyprland / Sway / other Wayland compositors. (5 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (6 days ago)
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (1 week ago)
-- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
