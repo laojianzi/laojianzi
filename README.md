@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability (today)
 - [lassejlv/skills](https://github.com/lassejlv/skills) - A collection of personal skills  (3 days ago)
 - [NousResearch/Hermes-Bot-Mode](https://github.com/NousResearch/Hermes-Bot-Mode) - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches. (3 days ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 days ago)
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability. (4 days ago)
-- [gogpu/ui](https://github.com/gogpu/ui) - Pure Go GUI toolkit built on GoGPU — widgets, layouts, styling (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
