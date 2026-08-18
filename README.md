@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability (1 day ago)
-- [lassejlv/skills](https://github.com/lassejlv/skills) - A collection of personal skills  (4 days ago)
-- [NousResearch/Hermes-Bot-Mode](https://github.com/NousResearch/Hermes-Bot-Mode) - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches. (4 days ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 days ago)
-- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability. (5 days ago)
+- [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. (today)
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (today)
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM. (today)
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop (today)
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (today)
 
 #### 👯 Check out some of my recent followers
 
