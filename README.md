@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [Add typed calendar subscriptions and settings UI](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/1) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
 - [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
 - [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
 - [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
 - [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/5) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
 
 #### 📓 Gists I wrote
 
