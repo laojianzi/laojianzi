@@ -22,7 +22,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 3 months ago) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 4 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 4 months ago) - Connect to any agents with WeChat ClawBot.
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 5 months ago) - Connect to any agents with WeChat ClawBot.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 6 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 6 months ago) - The painless way to host your own Git service
 
