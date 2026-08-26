@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (today)
 - [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. (1 week ago)
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (1 week ago)
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM. (1 week ago)
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop (1 week ago)
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
