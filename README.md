@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Add typed calendar subscriptions and settings UI](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/1) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
-- [Update hidden window view behavior](https://github.com/laojianzi/CodexBar/pull/9) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
-- [Update launch/login and preference behavior](https://github.com/laojianzi/CodexBar/pull/8) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
-- [Update chart and app UI behavior](https://github.com/laojianzi/CodexBar/pull/7) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
-- [Update widget source files](https://github.com/laojianzi/CodexBar/pull/6) on [laojianzi/CodexBar](https://github.com/laojianzi/CodexBar) (1 month ago)
+- [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
+- [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
+- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
+- [Integrate subscription controls with native Omarchy settings](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/3) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
+- [Expose subscription settings directly in the calendar UI](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/2) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (today)
 
 #### 📓 Gists I wrote
 
@@ -40,7 +40,7 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (today)
+- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (1 day ago)
 - [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. (1 week ago)
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (1 week ago)
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM. (1 week ago)
@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [webbrain-one](https://github.com/webbrain-one)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [pwnedroot](https://github.com/pwnedroot)
 - [ziarmalaman](https://github.com/ziarmalaman)
-- [DARKANGEL689](https://github.com/DARKANGEL689)
 
 #### 📫 How to reach me
 
