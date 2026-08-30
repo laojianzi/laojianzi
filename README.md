@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (1 day ago)
-- [Preserve subscriptions across month-grid boundaries](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/7) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 days ago)
-- [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 days ago)
-- [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 days ago)
-- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 days ago)
+- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 days ago)
+- [Preserve subscriptions across month-grid boundaries](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/7) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 days ago)
+- [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 days ago)
+- [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 days ago)
+- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 day ago)
-- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop (1 day ago)
-- [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (1 day ago)
-- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (3 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (2 days ago)
+- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop (2 days ago)
+- [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (2 days ago)
+- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (4 days ago)
 - [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. (1 week ago)
 
 #### 👯 Check out some of my recent followers
