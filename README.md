@@ -4,19 +4,19 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (today)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (3 months ago)
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (3 months ago)
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (4 months ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 months ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (4 months ago)
-- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) - 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go
-- [laojianzi/tree-sitter-kql](https://github.com/laojianzi/tree-sitter-kql) - A kql (Kibana Query Language Kibana) parser and syntax highlighting built on tree-sitter
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 days ago)
-- [Preserve subscriptions across month-grid boundaries](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/7) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
-- [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
-- [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
-- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
+- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
+- [Preserve subscriptions across month-grid boundaries](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/7) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
+- [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
+- [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
+- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3 days ago)
-- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop (3 days ago)
-- [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (3 days ago)
-- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (5 days ago)
-- [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays. (1 week ago)
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (today)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (4 days ago)
+- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop (4 days ago)
+- [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (4 days ago)
+- [GaryLiuGTA/omarchy_chinese_lunar_calendar](https://github.com/GaryLiuGTA/omarchy_chinese_lunar_calendar) - Chinese lunar calendar bar widget/calendar popup for Omarchy: lunar date, jieqi, and multi-language support (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
