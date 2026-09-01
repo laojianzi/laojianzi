@@ -20,19 +20,19 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.0](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.0), today) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 3 months ago) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 5 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 5 months ago) - Connect to any agents with WeChat ClawBot.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 6 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [gogs/gogs](https://github.com/gogs/gogs) ([latest-commit-build](https://github.com/gogs/gogs/releases/tag/latest-commit-build), 7 months ago) - The painless way to host your own Git service
 
 #### 🔨 My recent Pull Requests
 
+- [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (today)
 - [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 days ago)
 - [Preserve subscriptions across month-grid boundaries](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/7) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
 - [Refactor weekly rest and subscribed schedule precedence](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/6) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
 - [Route subscription management through the settings page](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/5) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
-- [Add weekend rest overrides and configurable schedule colors](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/4) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
-- [webbrain-one](https://github.com/webbrain-one)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [pwnedroot](https://github.com/pwnedroot)
 - [ziarmalaman](https://github.com/ziarmalaman)
+- [DARKANGEL689](https://github.com/DARKANGEL689)
 
 #### 📫 How to reach me
 
