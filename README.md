@@ -6,7 +6,7 @@ I'm Jeff, a gopher.
 
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 day ago)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (3 months ago)
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (4 months ago)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (4 months ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 months ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (5 months ago)
 
@@ -24,7 +24,7 @@ I'm Jeff, a gopher.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1), 3 months ago) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 5 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 5 months ago) - Connect to any agents with WeChat ClawBot.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) ([v0.5.1](https://github.com/longbridge/gpui-component/releases/tag/v0.5.1), 7 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.5.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.5.1), 7 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 #### 🔨 My recent Pull Requests
 
