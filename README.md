@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (5 days ago)
-- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 week ago)
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (6 days ago)
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (2 weeks ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (4 months ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (4 months ago)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (5 months ago)
@@ -20,17 +20,17 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 5 days ago) - build release for macOS monterey (version 12)
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.6.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.6.1), 6 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 week ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 6 days ago) - build release for macOS monterey (version 12)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.6.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.6.1), 1 week ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 weeks ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 5 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 5 months ago) - Connect to any agents with WeChat ClawBot.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (6 days ago)
+- [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (1 week ago)
 - [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (1 week ago)
-- [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (1 week ago)
+- [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (2 weeks ago)
 - [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (2 weeks ago)
 - [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 weeks ago)
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 day ago)
-- [haowang02/cpa-plugin-key-billing](https://github.com/haowang02/cpa-plugin-key-billing) - CLIProxyAPI 下游 API Key 计费与订阅额度插件 (4 days ago)
-- [SirJul1337/omarchy-lock-explorer](https://github.com/SirJul1337/omarchy-lock-explorer) - Lock screen designs for Omarchy with a picker to preview and switch between them (5 days ago)
-- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2  (5 days ago)
-- [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 (6 days ago)
+- [orbi-build/orbi](https://github.com/orbi-build/orbi) - Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out (today)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (2 days ago)
+- [haowang02/cpa-plugin-key-billing](https://github.com/haowang02/cpa-plugin-key-billing) - CLIProxyAPI 下游 API Key 计费与订阅额度插件 (5 days ago)
+- [SirJul1337/omarchy-lock-explorer](https://github.com/SirJul1337/omarchy-lock-explorer) - Lock screen designs for Omarchy with a picker to preview and switch between them (6 days ago)
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
