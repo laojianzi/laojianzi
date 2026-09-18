@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.6.2](https://github.com/longbridge/gpui-kit/releases/tag/v0.6.2), today) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 week ago) - build release for macOS monterey (version 12)
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.6.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.6.1), 1 week ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 weeks ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 5 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 5 months ago) - Connect to any agents with WeChat ClawBot.
