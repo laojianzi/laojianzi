@@ -29,10 +29,10 @@ I'm Jeff, a gopher.
 #### 🔨 My recent Pull Requests
 
 - [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (1 week ago)
-- [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (1 week ago)
+- [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (2 weeks ago)
 - [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (2 weeks ago)
 - [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (2 weeks ago)
-- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 weeks ago)
+- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (today)
-- [orbi-build/orbi](https://github.com/orbi-build/orbi) - Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out (1 day ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (3 days ago)
-- [haowang02/cpa-plugin-key-billing](https://github.com/haowang02/cpa-plugin-key-billing) - CLIProxyAPI 下游 API Key 计费与订阅额度插件 (6 days ago)
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (1 day ago)
+- [orbi-build/orbi](https://github.com/orbi-build/orbi) - Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out (2 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 days ago)
+- [haowang02/cpa-plugin-key-billing](https://github.com/haowang02/cpa-plugin-key-billing) - CLIProxyAPI 下游 API Key 计费与订阅额度插件 (1 week ago)
 - [SirJul1337/omarchy-lock-explorer](https://github.com/SirJul1337/omarchy-lock-explorer) - Lock screen designs for Omarchy with a picker to preview and switch between them (1 week ago)
 
 #### 👯 Check out some of my recent followers
