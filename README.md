@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) -  (today)
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts. (today)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent. (3 days ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (6 days ago)
 - [orbi-build/orbi](https://github.com/orbi-build/orbi) - Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out (1 week ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
-- [haowang02/cpa-plugin-key-billing](https://github.com/haowang02/cpa-plugin-key-billing) - CLIProxyAPI 下游 API Key 计费与订阅额度插件 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
