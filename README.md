@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [domenkozar/agentaps](https://github.com/domenkozar/agentaps) - Your coding agents, wherever you work. (today)
+- [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style (today)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (4 days ago)
-- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) -  (5 days ago)
+- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) - the open-source Context/Knowledge Layer Database (5 days ago)
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts. (5 days ago)
-- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent. (1 week ago)
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
