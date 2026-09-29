@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.0), today) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.0), 1 day ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 2 weeks ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 3 weeks ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 5 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -31,7 +31,7 @@ I'm Jeff, a gopher.
 - [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (2 weeks ago)
 - [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (3 weeks ago)
 - [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (3 weeks ago)
-- [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (3 weeks ago)
+- [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (4 weeks ago)
 - [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [domenkozar/agentaps](https://github.com/domenkozar/agentaps) - Your coding agents, wherever you work. (today)
-- [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style (today)
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (4 days ago)
-- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) - the open-source Context/Knowledge Layer Database (5 days ago)
-- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts. (5 days ago)
+- [domenkozar/agentaps](https://github.com/domenkozar/agentaps) - A universal GUI for coding harnesses. (1 day ago)
+- [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style (1 day ago)
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (5 days ago)
+- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) - the open-source Context/Knowledge Layer Database (6 days ago)
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
