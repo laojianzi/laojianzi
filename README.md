@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [domenkozar/agentaps](https://github.com/domenkozar/agentaps) - A universal GUI for coding harnesses. (1 day ago)
-- [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style (1 day ago)
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (5 days ago)
-- [nowledge-co/hawdb](https://github.com/nowledge-co/hawdb) - the open-source Context/Knowledge Layer Database (6 days ago)
-- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts. (6 days ago)
+- [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois (today)
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (today)
+- [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub (today)
+- [tornikegomareli/omarchy-spaces](https://github.com/tornikegomareli/omarchy-spaces) - See what runs on every workspace. An Omarchy bar widget that shows the apps open on each workspace. (today)
+- [ejuro/omarchy-norrsken-theme](https://github.com/ejuro/omarchy-norrsken-theme) - Aurora green on deep green-black, with violet-edged windows, a translucent glass shell, and a glowing planet horizon. An Omarchy theme. (today)
 
 #### 👯 Check out some of my recent followers
 
