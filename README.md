@@ -44,7 +44,7 @@ I'm Jeff, a gopher.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1 week ago)
 - [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub (1 week ago)
 - [tornikegomareli/omarchy-spaces](https://github.com/tornikegomareli/omarchy-spaces) - See what runs on every workspace. An Omarchy bar widget that shows the apps open on each workspace. (1 week ago)
-- [ejuro/omarchy-norrsken-theme](https://github.com/ejuro/omarchy-norrsken-theme) - Aurora green on deep green-black, with violet-edged windows, a translucent glass shell, and a glowing planet horizon. An Omarchy theme. (1 week ago)
+- [erikrjohansson/omarchy-norrsken-theme](https://github.com/erikrjohansson/omarchy-norrsken-theme) - Aurora green on deep green-black, with violet-edged windows, a translucent glass shell, and a glowing planet horizon. An Omarchy theme. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
