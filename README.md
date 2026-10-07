@@ -4,19 +4,19 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (3 weeks ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (5 months ago)
-- [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note (6 months ago)
 
 #### 🌱 My latest projects
 
+- [laojianzi/aster](https://github.com/laojianzi/aster) - 
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) - 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12)
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
-- [laojianzi/kql-go](https://github.com/laojianzi/kql-go) - KQL(kibana query language) parser writing in Go
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: resource operations and mutation safety](https://github.com/laojianzi/aster/pull/2) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: bootstrap Aster production core](https://github.com/laojianzi/aster/pull/1) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 weeks ago)
 - [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (1 month ago)
 - [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (1 month ago)
-- [docs: make English canonical and add Simplified Chinese mirrors](https://github.com/laojianzi/omarchy-hosts-plugin/pull/1) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (1 month ago)
-- [Separate festival observances from holiday schedules](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/8) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -48,11 +48,11 @@ I'm Jeff, a gopher.
 
 #### 👯 Check out some of my recent followers
 
+- [Ali-hey-0](https://github.com/Ali-hey-0)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [pwnedroot](https://github.com/pwnedroot)
 - [ziarmalaman](https://github.com/ziarmalaman)
-- [DARKANGEL689](https://github.com/DARKANGEL689)
 
 #### 📫 How to reach me
 
