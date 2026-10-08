@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (3 weeks ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (4 weeks ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
 - [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (5 months ago)
@@ -20,16 +20,16 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.1), 2 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 3 weeks ago) - build release for macOS monterey (version 12)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.1), 3 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 4 weeks ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ([v0.7.1](https://github.com/fastclaw-ai/weclaw/releases/tag/v0.7.1), 6 months ago) - Connect to any agents with WeChat ClawBot.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: resource operations and mutation safety](https://github.com/laojianzi/aster/pull/2) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: bootstrap Aster production core](https://github.com/laojianzi/aster/pull/1) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: resource operations and mutation safety](https://github.com/laojianzi/aster/pull/2) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: bootstrap Aster production core](https://github.com/laojianzi/aster/pull/1) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 weeks ago)
 - [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (1 month ago)
 - [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (1 month ago)
