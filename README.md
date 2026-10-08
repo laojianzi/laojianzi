@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (4 weeks ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: native resource relationships and UID-safe troubleshooting navigation](https://github.com/laojianzi/aster/pull/5) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [fix: prevent credential redirects and automatic mutation replay](https://github.com/laojianzi/aster/pull/4) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: native workbench workflows and verified recovery](https://github.com/laojianzi/aster/pull/3) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat: resource operations and mutation safety](https://github.com/laojianzi/aster/pull/2) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat: bootstrap Aster production core](https://github.com/laojianzi/aster/pull/1) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [Fix calendar close and lingering input layers on Omarchy 4](https://github.com/laojianzi/omarchy_chinese_lunar_calendar/pull/10) on [laojianzi/omarchy_chinese_lunar_calendar](https://github.com/laojianzi/omarchy_chinese_lunar_calendar) (4 weeks ago)
-- [fix(macos): preserve Ctrl key events on macOS 12 and 13](https://github.com/laojianzi/ghostty-monterey/pull/3) on [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) (1 month ago)
-- [security: harden filesystem and process boundaries](https://github.com/laojianzi/omarchy-hosts-plugin/pull/2) on [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. (today)
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps. (today)
 - [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois (1 week ago)
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1 week ago)
 - [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub (1 week ago)
-- [tornikegomareli/omarchy-spaces](https://github.com/tornikegomareli/omarchy-spaces) - See what runs on every workspace. An Omarchy bar widget that shows the apps open on each workspace. (1 week ago)
-- [erikrjohansson/omarchy-norrsken-theme](https://github.com/erikrjohansson/omarchy-norrsken-theme) - Aurora green on deep green-black, with violet-edged windows, a translucent glass shell, and a glowing planet horizon. An Omarchy theme. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
