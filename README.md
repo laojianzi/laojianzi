@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: native Pod and Node metrics with verified data quality and lifecycle](https://github.com/laojianzi/aster/pull/6) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: native resource relationships and UID-safe troubleshooting navigation](https://github.com/laojianzi/aster/pull/5) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [fix: prevent credential redirects and automatic mutation replay](https://github.com/laojianzi/aster/pull/4) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: native workbench workflows and verified recovery](https://github.com/laojianzi/aster/pull/3) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: resource operations and mutation safety](https://github.com/laojianzi/aster/pull/2) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [feat: explicit native OS token vault and reviewed reconnect](https://github.com/laojianzi/aster/pull/19) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [deps: verified MyGo 0.3.6 native migration and approved dependency updates](https://github.com/laojianzi/aster/pull/16) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: bounded native schema field assistance and diagnostics](https://github.com/laojianzi/aster/pull/15) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: bounded exec authentication and native credential expiry](https://github.com/laojianzi/aster/pull/12) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: hardened MyGo native interactive Pod terminals](https://github.com/laojianzi/aster/pull/10) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (today)
+- [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with a web frontend or native UI in Go (today)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. (1 day ago)
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps. (1 day ago)
-- [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois (1 week ago)
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1 week ago)
-- [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
