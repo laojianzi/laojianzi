@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(deps): close empty dashboards while preserving dependency review](https://github.com/laojianzi/aster/pull/40) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [build(deps): qualify MyGo 0.4.2 and audit 0.3-to-0.4 contracts](https://github.com/laojianzi/aster/pull/39) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: reviewed issuer sign-out and local session teardown](https://github.com/laojianzi/aster/pull/38) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: incremental native manifest buffer and immutable snapshots](https://github.com/laojianzi/aster/pull/36) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat: bounded native manifest Find and identity-safe navigation](https://github.com/laojianzi/aster/pull/34) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [fix(deps): restore MyGo dashboard visibility and coupled update review](https://github.com/laojianzi/aster/pull/31) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: bounded source diagnostics and native caret navigation](https://github.com/laojianzi/aster/pull/30) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: explicit OIDC rotation and reviewed connection renewal](https://github.com/laojianzi/aster/pull/28) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: explicit native OIDC browser login and reviewed Kubernetes identity](https://github.com/laojianzi/aster/pull/25) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 
 #### 📓 Gists I wrote
 
