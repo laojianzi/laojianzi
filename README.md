@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.1), 6 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.1), 1 week ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(deps): close empty dashboards while preserving dependency review](https://github.com/laojianzi/aster/pull/40) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [build(deps): qualify MyGo 0.4.2 and audit 0.3-to-0.4 contracts](https://github.com/laojianzi/aster/pull/39) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: reviewed issuer sign-out and local session teardown](https://github.com/laojianzi/aster/pull/38) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: incremental native manifest buffer and immutable snapshots](https://github.com/laojianzi/aster/pull/36) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: bounded native manifest Find and identity-safe navigation](https://github.com/laojianzi/aster/pull/34) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: review and deliver bounded manifest sets](https://github.com/laojianzi/aster/pull/45) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat(schema): bounded scalar constraints with precise native diagnostics](https://github.com/laojianzi/aster/pull/43) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [fix(deps): close empty dashboards while preserving dependency review](https://github.com/laojianzi/aster/pull/40) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [build(deps): qualify MyGo 0.4.2 and audit 0.3-to-0.4 contracts](https://github.com/laojianzi/aster/pull/39) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: reviewed issuer sign-out and local session teardown](https://github.com/laojianzi/aster/pull/38) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 day ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 day ago)
-- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (2 days ago)
-- [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with a web frontend or native UI in Go (2 days ago)
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (2 days ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 days ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (2 days ago)
+- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (3 days ago)
+- [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with a web frontend or native UI in Go (3 days ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
