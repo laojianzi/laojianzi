@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 month ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(schema): bounded nonnullable int64 set-list assistance](https://github.com/laojianzi/aster/pull/62) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat(schema): bounded required integer-key map-list assistance](https://github.com/laojianzi/aster/pull/60) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat(schema): bounded string set-list duplicate assistance](https://github.com/laojianzi/aster/pull/57) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(schema): bounded map-list string identity hints](https://github.com/laojianzi/aster/pull/55) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat(schema): bounded structured enum assistance](https://github.com/laojianzi/aster/pull/53) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [omarchy, gui: keep the Hyprland panel on the clicked monitor](https://github.com/laojianzi/magpie/pull/1) on [laojianzi/magpie](https://github.com/laojianzi/magpie) (1 day ago)
-- [feat(schema): bounded Kubernetes string-format assistance](https://github.com/laojianzi/aster/pull/51) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(schema): add bounded portable string pattern assistance](https://github.com/laojianzi/aster/pull/49) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 
 #### 📓 Gists I wrote
 
