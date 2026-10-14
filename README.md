@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helm): bounded metadata-only release revision inventory](https://github.com/laojianzi/aster/pull/70) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat(helm): render trusted local charts into reviewed delivery](https://github.com/laojianzi/aster/pull/68) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat(schema): bounded boolean collection identity hints](https://github.com/laojianzi/aster/pull/66) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(editor): preflight resource clipboard pastes and retain native history](https://github.com/laojianzi/aster/pull/64) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(schema): bounded nonnullable int64 set-list assistance](https://github.com/laojianzi/aster/pull/62) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(schema): bounded required integer-key map-list assistance](https://github.com/laojianzi/aster/pull/60) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(schema): bounded string set-list duplicate assistance](https://github.com/laojianzi/aster/pull/57) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(schema): bounded map-list string identity hints](https://github.com/laojianzi/aster/pull/55) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
 
 #### 📓 Gists I wrote
 
