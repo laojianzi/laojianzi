@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 20&#43; AI Agent Skills. (today)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (5 days ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (5 days ago)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (6 days ago)
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go (6 days ago)
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
