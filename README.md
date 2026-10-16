@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [test: restricted uninstall contract and pinned Helm behavior comparisons](https://github.com/laojianzi/aster/pull/81) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat: bounded Helm latest-revision and live metadata observations](https://github.com/laojianzi/aster/pull/79) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(nous): add independent Nous Portal OAuth provider](https://github.com/magpie-community/plugins/pull/163) on [magpie-community/plugins](https://github.com/magpie-community/plugins) (today)
 - [feat: bounded immutable selected-revision Helm uninstall scope preview](https://github.com/laojianzi/aster/pull/77) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(helm): consented selected-revision content consistency inspection](https://github.com/laojianzi/aster/pull/72) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(helm): bounded metadata-only release revision inventory](https://github.com/laojianzi/aster/pull/70) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
 
 #### 📓 Gists I wrote
 
