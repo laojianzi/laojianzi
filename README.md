@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [fix: reconcile guarded branch retirement outcomes without repeated writes](https://github.com/laojianzi/aster/pull/83) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [test: confirm bounded Helm uninstall target disappearance](https://github.com/laojianzi/aster/pull/82) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [test: restricted uninstall contract and pinned Helm behavior comparisons](https://github.com/laojianzi/aster/pull/81) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat: bounded Helm latest-revision and live metadata observations](https://github.com/laojianzi/aster/pull/79) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(nous): add independent Nous Portal OAuth provider](https://github.com/magpie-community/plugins/pull/163) on [magpie-community/plugins](https://github.com/magpie-community/plugins) (1 day ago)
-- [feat: bounded immutable selected-revision Helm uninstall scope preview](https://github.com/laojianzi/aster/pull/77) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 
 #### 📓 Gists I wrote
 
