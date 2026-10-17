@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.3](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.3), 4 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.3](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.3), 5 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [test: restricted uninstall contract and pinned Helm behavior comparisons](https://github.com/laojianzi/aster/pull/81) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: bounded Helm latest-revision and live metadata observations](https://github.com/laojianzi/aster/pull/79) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat(nous): add independent Nous Portal OAuth provider](https://github.com/magpie-community/plugins/pull/163) on [magpie-community/plugins](https://github.com/magpie-community/plugins) (today)
-- [feat: bounded immutable selected-revision Helm uninstall scope preview](https://github.com/laojianzi/aster/pull/77) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat(helm): consented selected-revision content consistency inspection](https://github.com/laojianzi/aster/pull/72) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [test: confirm bounded Helm uninstall target disappearance](https://github.com/laojianzi/aster/pull/82) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [test: restricted uninstall contract and pinned Helm behavior comparisons](https://github.com/laojianzi/aster/pull/81) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: bounded Helm latest-revision and live metadata observations](https://github.com/laojianzi/aster/pull/79) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat(nous): add independent Nous Portal OAuth provider](https://github.com/magpie-community/plugins/pull/163) on [magpie-community/plugins](https://github.com/magpie-community/plugins) (1 day ago)
+- [feat: bounded immutable selected-revision Helm uninstall scope preview](https://github.com/laojianzi/aster/pull/77) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (today)
-- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 20&#43; AI Agent Skills. (1 day ago)
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (6 days ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (6 days ago)
+- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (1 day ago)
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 20&#43; AI Agent Skills. (2 days ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 week ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 week ago)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (1 week ago)
 
 #### 👯 Check out some of my recent followers
