@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [fix: reconcile guarded branch retirement outcomes without repeated writes](https://github.com/laojianzi/aster/pull/83) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [test: confirm bounded Helm uninstall target disappearance](https://github.com/laojianzi/aster/pull/82) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [test: restricted uninstall contract and pinned Helm behavior comparisons](https://github.com/laojianzi/aster/pull/81) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
 
 #### 📓 Gists I wrote
 
