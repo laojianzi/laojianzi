@@ -4,7 +4,7 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 month ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.3](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.3), 6 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.7.3](https://github.com/longbridge/gpui-kit/releases/tag/v0.7.3), 1 week ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [fix: reconcile guarded branch retirement outcomes without repeated writes](https://github.com/laojianzi/aster/pull/83) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [test: confirm bounded Helm uninstall target disappearance](https://github.com/laojianzi/aster/pull/82) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: independently authorized retained-history Helm uninstall execution](https://github.com/laojianzi/aster/pull/91) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [fix: reconcile guarded branch retirement outcomes without repeated writes](https://github.com/laojianzi/aster/pull/83) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,8 +40,8 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (2 days ago)
-- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 20&#43; AI Agent Skills. (3 days ago)
+- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (3 days ago)
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 20&#43; AI Agent Skills. (4 days ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 week ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 week ago)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (1 week ago)
