@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helm): explain local journal blockers and capacity without execution authority](https://github.com/laojianzi/aster/pull/97) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [Activate native Helm uninstall review and offline recovery lifecycle](https://github.com/laojianzi/aster/pull/95) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [Persist restricted Helm uninstall history and authorize fresh read-only reconciliation](https://github.com/laojianzi/aster/pull/93) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat: independently authorized retained-history Helm uninstall execution](https://github.com/laojianzi/aster/pull/91) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
-- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
 
 #### 📓 Gists I wrote
 
