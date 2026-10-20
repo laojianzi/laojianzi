@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.0), today) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.0), 1 day ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: independently authorized retained-history Helm uninstall execution](https://github.com/laojianzi/aster/pull/91) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
-- [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [fix: reconcile guarded branch retirement outcomes without repeated writes](https://github.com/laojianzi/aster/pull/83) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [Persist restricted Helm uninstall history and authorize fresh read-only reconciliation](https://github.com/laojianzi/aster/pull/93) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [feat: independently authorized retained-history Helm uninstall execution](https://github.com/laojianzi/aster/pull/91) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
+- [feat: explicit single-use Helm uninstall server dry-run preflight](https://github.com/laojianzi/aster/pull/89) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [feat: restricted Helm uninstall eligibility and immutable target preparation](https://github.com/laojianzi/aster/pull/87) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [feat: payload-preserving conditional Helm release status patches](https://github.com/laojianzi/aster/pull/85) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (today)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (today)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (today)
-- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins (today)
-- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (3 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (today)
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (1 day ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 day ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
