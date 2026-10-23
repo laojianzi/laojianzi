@@ -4,11 +4,11 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
+- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (today)
 - [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 month ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
-- [laojianzi/tauri-template](https://github.com/laojianzi/tauri-template) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (today)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (today)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (today)
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (today)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (3 days ago)
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
