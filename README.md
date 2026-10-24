@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helm): separately authorized restricted install server dry-run](https://github.com/laojianzi/aster/pull/106) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(helm): restricted install capture and read-only preparation](https://github.com/laojianzi/aster/pull/104) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat(helm): native journal archive confirmation and retained history](https://github.com/laojianzi/aster/pull/102) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
 - [feat(helm): archive resolved journal records without clearing uncertainty](https://github.com/laojianzi/aster/pull/100) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
 - [feat(helm): explain local journal blockers and capacity without execution authority](https://github.com/laojianzi/aster/pull/97) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
-- [Activate native Helm uninstall review and offline recovery lifecycle](https://github.com/laojianzi/aster/pull/95) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
 
 #### 📓 Gists I wrote
 
