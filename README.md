@@ -4,8 +4,8 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 day ago)
-- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (2 days ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (today)
+- [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (3 days ago)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 month ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.0), 6 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.0), 1 week ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 6 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(helm): separately authorized restricted install server dry-run](https://github.com/laojianzi/aster/pull/106) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(helm): restricted install capture and read-only preparation](https://github.com/laojianzi/aster/pull/104) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [feat(helm): native journal archive confirmation and retained history](https://github.com/laojianzi/aster/pull/102) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
-- [feat(helm): archive resolved journal records without clearing uncertainty](https://github.com/laojianzi/aster/pull/100) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
-- [feat(helm): explain local journal blockers and capacity without execution authority](https://github.com/laojianzi/aster/pull/97) on [laojianzi/aster](https://github.com/laojianzi/aster) (5 days ago)
+- [feat(helm): separately authorized restricted install server dry-run](https://github.com/laojianzi/aster/pull/106) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
+- [feat(helm): restricted install capture and read-only preparation](https://github.com/laojianzi/aster/pull/104) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [feat(helm): native journal archive confirmation and retained history](https://github.com/laojianzi/aster/pull/102) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
+- [feat(helm): archive resolved journal records without clearing uncertainty](https://github.com/laojianzi/aster/pull/100) on [laojianzi/aster](https://github.com/laojianzi/aster) (5 days ago)
+- [feat(helm): explain local journal blockers and capacity without execution authority](https://github.com/laojianzi/aster/pull/97) on [laojianzi/aster](https://github.com/laojianzi/aster) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (2 days ago)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (2 days ago)
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (2 days ago)
-- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (2 days ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (5 days ago)
+- [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (3 days ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (3 days ago)
+- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (3 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
