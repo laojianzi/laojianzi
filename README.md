@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helm): independently authorized restricted install execution](https://github.com/laojianzi/aster/pull/110) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(helm): versioned install write-ahead journal and inert recovery](https://github.com/laojianzi/aster/pull/108) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
 - [feat(helm): separately authorized restricted install server dry-run](https://github.com/laojianzi/aster/pull/106) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
 - [feat(helm): restricted install capture and read-only preparation](https://github.com/laojianzi/aster/pull/104) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
 - [feat(helm): native journal archive confirmation and retained history](https://github.com/laojianzi/aster/pull/102) on [laojianzi/aster](https://github.com/laojianzi/aster) (5 days ago)
-- [feat(helm): archive resolved journal records without clearing uncertainty](https://github.com/laojianzi/aster/pull/100) on [laojianzi/aster](https://github.com/laojianzi/aster) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) -  (today)
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (4 days ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (4 days ago)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (4 days ago)
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (4 days ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
