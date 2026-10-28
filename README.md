@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
+- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (today)
 - [feat(helm): independently authorized restricted install execution](https://github.com/laojianzi/aster/pull/110) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 day ago)
-- [feat(helm): versioned install write-ahead journal and inert recovery](https://github.com/laojianzi/aster/pull/108) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [feat(helm): separately authorized restricted install server dry-run](https://github.com/laojianzi/aster/pull/106) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
-- [feat(helm): restricted install capture and read-only preparation](https://github.com/laojianzi/aster/pull/104) on [laojianzi/aster](https://github.com/laojianzi/aster) (5 days ago)
-- [feat(helm): native journal archive confirmation and retained history](https://github.com/laojianzi/aster/pull/102) on [laojianzi/aster](https://github.com/laojianzi/aster) (6 days ago)
 
 #### 📓 Gists I wrote
 
