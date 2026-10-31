@@ -4,11 +4,11 @@ I'm Jeff, a gopher.
 
 #### 👷 Check out what I'm currently working on
 
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (2 days ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (3 days ago)
 - [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (1 week ago)
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 month ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (1 month ago)
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (5 months ago)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.1), 4 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.8.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.8.1), 5 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.3.1-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.3.1-monterey.1), 1 month ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 1 month ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 7 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 days ago)
-- [feat(helm): independently authorized restricted install execution](https://github.com/laojianzi/aster/pull/110) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 days ago)
+- [feat(helm): independently authorized restricted install execution](https://github.com/laojianzi/aster/pull/110) on [laojianzi/aster](https://github.com/laojianzi/aster) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude. (today)
-- [elayadesign/redesign-skill](https://github.com/elayadesign/redesign-skill) -  (2 days ago)
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (2 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (2 days ago)
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (2 days ago)
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude. (1 day ago)
+- [elayadesign/redesign-skill](https://github.com/elayadesign/redesign-skill) -  (3 days ago)
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (3 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (3 days ago)
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
