@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [arcships/dim](https://github.com/arcships/dim) -  An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. (today)
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents (1 day ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 day ago)
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (2 days ago)
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude. (5 days ago)
-- [elayadesign/redesign-skill](https://github.com/elayadesign/redesign-skill) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
