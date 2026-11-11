@@ -5,7 +5,7 @@ I'm Jeff, a gopher.
 #### 👷 Check out what I'm currently working on
 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) - build release for macOS monterey (version 12) (1 week ago)
-- [laojianzi/aster](https://github.com/laojianzi/aster) -  (1 week ago)
+- [laojianzi/aster](https://github.com/laojianzi/aster) -  (2 weeks ago)
 - [magpie-community/plugins](https://github.com/magpie-community/plugins) - Community-maintained OpenCode provider plugins for coding-plan subscriptions (work in OpenCode and magpie) (2 weeks ago)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4 (2 months ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (6 months ago)
@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.9.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.9.1), 1 day ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.9.1](https://github.com/longbridge/gpui-kit/releases/tag/v0.9.1), 2 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.1](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.1), 1 week ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 7 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -28,10 +28,10 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 week ago)
-- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 week ago)
-- [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 week ago)
-- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (1 week ago)
+- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
+- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
+- [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
+- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
 - [feat(helm): independently authorized restricted install execution](https://github.com/laojianzi/aster/pull/110) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -40,9 +40,9 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (today)
-- [huacnlee/noop](https://github.com/huacnlee/noop) -  (1 day ago)
-- [arcships/dim](https://github.com/arcships/dim) -  An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. (6 days ago)
+- [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (1 day ago)
+- [huacnlee/noop](https://github.com/huacnlee/noop) -  (2 days ago)
+- [arcships/dim](https://github.com/arcships/dim) -  An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. (1 week ago)
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents (1 week ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 
