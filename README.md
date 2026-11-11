@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS and its App Clips, tvOS, watchOS, macOS, Windows, Android, Linux, the web and WeChat, QQ, Alipay and Douyin mini programs (today)
+- [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust. (today)
+- [nishuzumi/show-me-you-want-skill](https://github.com/nishuzumi/show-me-you-want-skill) -  (today)
 - [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (1 day ago)
 - [huacnlee/noop](https://github.com/huacnlee/noop) -  (2 days ago)
-- [arcships/dim](https://github.com/arcships/dim) -  An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in. (1 week ago)
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents (1 week ago)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
