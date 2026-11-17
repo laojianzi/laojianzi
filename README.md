@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [Self-host the coordinator and deliver Linux artifacts](https://github.com/laojianzi/noop/pull/31) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
 - [test: run the restart child with the test runner&#39;s own bun](https://github.com/huacnlee/noop/pull/258) on [huacnlee/noop](https://github.com/huacnlee/noop) (today)
 - [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
 - [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
 - [fix: verify terminal hardening with repository-internal TMPDIR](https://github.com/laojianzi/aster/pull/117) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
-- [Add read-only Helm install recovery and mixed journal history](https://github.com/laojianzi/aster/pull/114) on [laojianzi/aster](https://github.com/laojianzi/aster) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [egoist/asuka](https://github.com/egoist/asuka) - (experimental) Write an app once, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web (today)
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (today)
+- [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client (today)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (today)
 - [0xfe-project/eta](https://github.com/0xfe-project/eta) - Eta is a self-contained 0-vendor multi-agent all-in-one endomorphic agent loop/runtime/harness/app. (today)
-- [botiverse/raft-source](https://github.com/botiverse/raft-source) - Raft source-available release mirror. One snapshot commit per release; pull requests are not accepted. (1 day ago)
-- [kojah/gohawk](https://github.com/kojah/gohawk) - Watch for bugs like a hawk! gohawk is a set of static analyzers for Go, focused on concurrency and resource-lifetime bugs. (1 day ago)
-- [ClickHouse/loom](https://github.com/ClickHouse/loom) - Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they&#39;re about and surface when an agent edits them. MCP server, Claude Code and Codex plugins, SDKs. Self-hosted on ClickHouse. (1 day ago)
-- [MoeForge/moejs](https://github.com/MoeForge/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
