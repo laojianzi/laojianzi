@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.2](https://github.com/huacnlee/noop/releases/tag/v1.0.2), 1 day ago) - 
+- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.4](https://github.com/huacnlee/noop/releases/tag/v1.0.4), today) - 
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.10.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.10.0), 3 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.2](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.2), 6 days ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [Configure reasoning effort for Claude Code and Codex](https://github.com/laojianzi/noop/pull/50) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
+- [Run Web executor acceptance in Linux coordinator CI](https://github.com/laojianzi/noop/pull/45) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
+- [Share internal AI executor selection and bound task fallback](https://github.com/laojianzi/noop/pull/39) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
 - [Protect local coordinator updates and restart recovery](https://github.com/laojianzi/noop/pull/33) on [laojianzi/noop](https://github.com/laojianzi/noop) (1 day ago)
 - [Self-host the coordinator and deliver Linux artifacts](https://github.com/laojianzi/noop/pull/31) on [laojianzi/noop](https://github.com/laojianzi/noop) (2 days ago)
-- [test: run the restart child with the test runner&#39;s own bun](https://github.com/huacnlee/noop/pull/258) on [huacnlee/noop](https://github.com/huacnlee/noop) (2 days ago)
-- [feat(ui): add confirmed Helm installs and bounded capture diagnostics](https://github.com/laojianzi/aster/pull/124) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 weeks ago)
-- [test(native): speed up lossless screenshot evidence](https://github.com/laojianzi/aster/pull/122) on [laojianzi/aster](https://github.com/laojianzi/aster) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (today)
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (1 day ago)
 - [egoist/asuka](https://github.com/egoist/asuka) - (experimental) Write an app once, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web (2 days ago)
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (2 days ago)
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client (2 days ago)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
