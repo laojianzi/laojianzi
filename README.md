@@ -28,11 +28,11 @@ I'm Jeff, a gopher.
 
 #### 🔨 My recent Pull Requests
 
+- [[Docs] 执行器配置复审与证据交接 (#44)](https://github.com/laojianzi/noop/pull/53) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
+- [Run login-free Codex MCP config acceptance in Linux CI](https://github.com/laojianzi/noop/pull/52) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
+- [[CI] 按上传制品 ID 校验 Linux 验收证据](https://github.com/laojianzi/noop/pull/51) on [laojianzi/noop](https://github.com/laojianzi/noop) (today)
 - [Configure reasoning effort for Claude Code and Codex](https://github.com/laojianzi/noop/pull/50) on [laojianzi/noop](https://github.com/laojianzi/noop) (1 day ago)
 - [Run Web executor acceptance in Linux coordinator CI](https://github.com/laojianzi/noop/pull/45) on [laojianzi/noop](https://github.com/laojianzi/noop) (1 day ago)
-- [Share internal AI executor selection and bound task fallback](https://github.com/laojianzi/noop/pull/39) on [laojianzi/noop](https://github.com/laojianzi/noop) (1 day ago)
-- [Protect local coordinator updates and restart recovery](https://github.com/laojianzi/noop/pull/33) on [laojianzi/noop](https://github.com/laojianzi/noop) (2 days ago)
-- [Self-host the coordinator and deliver Linux artifacts](https://github.com/laojianzi/noop/pull/31) on [laojianzi/noop](https://github.com/laojianzi/noop) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. (today)
 - [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (1 day ago)
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (2 days ago)
 - [egoist/asuka](https://github.com/egoist/asuka) - (experimental) Write an app once, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web (3 days ago)
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (3 days ago)
-- [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
