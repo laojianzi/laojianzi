@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.4](https://github.com/huacnlee/noop/releases/tag/v1.0.4), 2 days ago) - 
+- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.6](https://github.com/huacnlee/noop/releases/tag/v1.0.6), today) - 
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.10.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.10.0), 5 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.2](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.2), 1 week ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
