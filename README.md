@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
+- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.9](https://github.com/huacnlee/noop/releases/tag/v1.0.9), today) - 
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.11.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.11.0), 1 day ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.8](https://github.com/huacnlee/noop/releases/tag/v1.0.8), 1 day ago) - 
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.2](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.2), 1 week ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 7 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -50,9 +50,9 @@ I'm Jeff, a gopher.
 
 - [a4hmad1](https://github.com/a4hmad1)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [pwnedroot](https://github.com/pwnedroot)
 - [ziarmalaman](https://github.com/ziarmalaman)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
+- [cbw5803](https://github.com/cbw5803)
 
 #### 📫 How to reach me
 
