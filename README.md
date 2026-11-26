@@ -20,7 +20,7 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.0.10](https://github.com/huacnlee/noop/releases/tag/v1.0.10), 1 day ago) - 
+- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.1.1](https://github.com/huacnlee/noop/releases/tag/v1.1.1), today) - 
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.11.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.11.0), 3 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.2](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.2), 1 week ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
@@ -40,11 +40,11 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
+- [mattpocock/cookout](https://github.com/mattpocock/cookout) -  (today)
 - [yuchanns/MikuTV](https://github.com/yuchanns/MikuTV) - A native Apple TV video client built around an extensible plugin architecture. (today)
 - [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (2 days ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 days ago)
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. (6 days ago)
-- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
