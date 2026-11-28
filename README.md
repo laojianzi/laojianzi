@@ -20,8 +20,8 @@ I'm Jeff, a gopher.
 
 #### 🔭 Latest releases I've contributed to
 
-- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.1.1](https://github.com/huacnlee/noop/releases/tag/v1.1.1), 1 day ago) - 
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.11.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.11.0), 4 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [huacnlee/noop](https://github.com/huacnlee/noop) ([v1.1.1](https://github.com/huacnlee/noop/releases/tag/v1.1.1), 2 days ago) - 
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ([v0.11.0](https://github.com/longbridge/gpui-kit/releases/tag/v0.11.0), 5 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [laojianzi/ghostty-monterey](https://github.com/laojianzi/ghostty-monterey) ([v1.4.0-monterey.2](https://github.com/laojianzi/ghostty-monterey/releases/tag/v1.4.0-monterey.2), 2 weeks ago) - build release for macOS monterey (version 12)
 - [laojianzi/omarchy-hosts-plugin](https://github.com/laojianzi/omarchy-hosts-plugin) ([v1.0.1](https://github.com/laojianzi/omarchy-hosts-plugin/releases/tag/v1.0.1), 2 months ago) - Native, keyboard-first /etc/hosts profile manager for Omarchy 4
 - [laojianzi/openclaw-weixin-mirror](https://github.com/laojianzi/openclaw-weixin-mirror) ([2.1.6](https://github.com/laojianzi/openclaw-weixin-mirror/releases/tag/2.1.6), 7 months ago) - @tencent-weixin/openclaw-weixin mirror, with version diff and release note
@@ -40,10 +40,10 @@ I'm Jeff, a gopher.
 
 #### ⭐ Recent Stars
 
-- [mattpocock/cookout](https://github.com/mattpocock/cookout) -  (1 day ago)
-- [yuchanns/MikuTV](https://github.com/yuchanns/MikuTV) - A native Apple TV video client built around an extensible plugin architecture. (1 day ago)
-- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (3 days ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 days ago)
+- [mattpocock/cookout](https://github.com/mattpocock/cookout) -  (2 days ago)
+- [yuchanns/MikuTV](https://github.com/yuchanns/MikuTV) - A native Apple TV video client built around an extensible plugin architecture. (2 days ago)
+- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (4 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (5 days ago)
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. (1 week ago)
 
 #### 👯 Check out some of my recent followers
